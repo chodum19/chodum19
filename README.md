@@ -11,7 +11,442 @@ chodum19/chodum19 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 
 
---->
+--->https://docs.google.com/document/d/1deylYdnuIQc_W_rvGDVULnkIejeqLnZz8L-PJfFYHBc/edit?pli=1&tab=t.0
+Inbox
+brankruptcy
+
+Dark- Dose75
+4:23 PM (1 hour ago)
+https://docs.google.com/document/d/1deylYdnuIQc_W_rvGDVULnkIejeqLnZz8L-PJfFYHBc/edit?pli=1&tab=t.0 -- Thank You Matthew Amos
+
+Dark- Dose75
+4:26 PM (1 hour ago)
+hit @ off the first link then you get this i built a function key for json program @syncshop@sonymusic.com https://docs.google.com/document/d/1deylYdnuIQc_W_rvG
+
+Dark- Dose75 <mattamos250@gmail.com>
+4:41 PM (1 hour ago)
+to syncshop, friohotbocachica, myhomehotelpc, West, Nroberts51, me
+
+http://a dmiris01.2024.heriplayz
+
+https://www.facebook.com/share/p/1783WQo86q/
+
+Admiris01     
+
+  1000 percent mine @syncshop@sonymusic.com  https://issuetracker.google.com/issues/376381173?template_issue=245706296&template_comment=28&do_attribution=true
+To
+
+matthewshannonamos01@gmail.com  mattamos250@gmail.com   
+
+Cc
+
+  syncshop@sony.com
+
+Bcc
+
+@chodum91
+
+Subject
+
+
+Take it to the print but dont print right Madonna i cant belive all of this now youtube isn't allowing there none iframe j-son player means what chick ,this is just a link for content in the future links just business 
+
+
+miris01.2024.Heriplayz
+
+Admiris Investments Ltd
+
+Papa.Legba.506: Papa.Legba.506: Larry/Wacker
+
+on May 19, 2023
+
+                       Papa.Legba.506: Papa.Legba.506: Larry/Wacker: : https://github.com/LarryExpo
+
+
+1<?xml version='1.0' encoding='UTF-8'?><rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:blogger="http://schemas.google.com/blogger/2008" xmlns:georss="http://www.georss.org/georss" xmlns:gd="http://schemas.google.com/g/2005" xmlns:thr="http://purl.org/syndication/thread/1.0" version="2.0"><channel><atom:id>tag:blogger.com,1999:blog-2399953</atom:id><lastBuildDate>Sat, 28 Jan 2023 10:46:29 +0000</lastBuildDate><category>Blogger</category><category>10th Birthday</category><category>gadgets</category><category>google+</category><category>community</category><category>adsense</category><category>dynamic views</category><category>mobile</category><category>New UI</category><category>+1</category><category>GAN</category><category>Share</category><category>monetize</category><category>youtube</category><category>Android</category><category>Blogger Fiesta</category><category>Blogger Meetup</category><category>Blogger Stats</category><category>Chrome</category><category>SEO</category><category>blogspot</category><category>blogworld</category><category>commenting</category><category>conference</category><category>developers</category><category>events</category><category>feedburner</category><category>following</category><category>help</category><category>navbar</category><category>template designer</category><category>video</category><category>2010</category><category>Amazon</category><category>Blog2Print</category><category>BlogThis</category><category>Blogger Template Designer</category><category>Blogger birthday</category><category>Blogger2Print</category><category>Buzz</category><category>DMCA</category><category>FTP</category><category>Google Analytics</category><category>Google Buzz</category><category>Google Sites</category><category>OneTrueFan</category><category>OpenSky</category><category>Page Creator</category><category>SXSW</category><category>Viglink</category><category>accessibility</category><category>ads</category><category>calendar</category><category>code</category><category>custom domain</category><category>draft</category><category>feeds</category><category>firefox</category><category>follow by email</category><category>foxytunes</category><category>grandcentral</category><category>ios</category><category>jump</category><category>knol</category><category>lightbox</category><category>music</category><category>next blog</category><category>openid</category><category>pages</category><category>pixelodeon</category><category>polls</category><category>post summaries</category><category>read more</category><category>recommend</category><category>support</category><category>twitter</category><category>videoblogging</category><category>web fonts</category><category>webcall</category><category>zemanta</category><title>Official Blogger Blog</title><description>The latest tips and news from the Blogger team</description><link>http://blogger.googleblog.com/</link><managingEditor>noreply@blogger.com (Unknown)</managingEditor><generator>Blogger</generator><openSearch:totalResults>541</openSearch:totalResults><openSearch:startIndex>1</openSearch:startIndex><openSearch:itemsPerPage>25</openSearch:itemsPerPage><item><guid isPermaLink="false">tag:blogger.com,1999:blog-2399953.post-7531385161213212970</guid><pubDate>Wed, 20 May 2020 23:53:00 +0000</pubDate><atom:updated>2020-05-20T16:58:18.814-07:00</atom:updated><title>A better Blogger experience on the web</title><description><div dir="ltr" style="text-align: left;" trbidi="on"><span id="docs-internal-guid-83e698cd-7fff-3537-1fd4-931000cddafb"></span><br /><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;"><span id="docs-internal-guid-83e698cd-7fff-3537-1fd4-931000cddafb"><span style="font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;">Since 1999, millions of people have expressed themselves on Blogger. From detailed posts about almost every </span><a href="https://adamapples.blogspot.com/" style="text-decoration-line: none;"><span style="color: #1155cc; font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;">apple variety</span></a><span style="font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;"> you could ever imagine to a blog dedicated to </span><a href="https://howtoblog.krishnainfotron.com/" style="text-decoration-line: none;"><span style="color: #1155cc; font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;">the art of blogging</span></a><span style="font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;"> itself, the ability to easily share, publish and express oneself on the web is at the core of Blogger’s mission. As the web constantly evolves, we want to ensure anyone using Blogger has an easy and intuitive experience publishing their content to the web.</span><span style="font-family: arial; font-size: 11pt; font-style: italic; vertical-align: baseline; white-space: pre-wrap;">&nbsp;&nbsp;</span></span></div><span id="docs-internal-guid-83e698cd-7fff-3537-1fd4-931000cddafb"><br /><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;"><span style="font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;">That’s why we’ve been slowly introducing an improved web experience for Blogger. Give the fresh interface a spin by clicking “Try the New Blogger” in the left-hand navigation pane.&nbsp;</span></div><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;"><span style="font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;"><br /></span></div><br /><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt; text-align: center;"><span style="font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;"><span style="border: none; display: inline-block; overflow: hidden;"><img src="https://lh5.googleusercontent.com/kWHfhyDmS0K6WMbTlfDV8Hq9RKq7Cs2sbPVl0otK3zDV5jNDO0SxM5-Ot89Wo3E11QvmNMI7VYMimqP-Vg9li-cz0cimWiGpJM65-uOSCmAvSN5n7M-lGcNWNW2u0cAfA54ZsGhZ" style="margin-left: 0px; margin-top: 0px;" width="508" /></span></span></div><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt; text-align: center;"><span style="color: red; font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></div><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt; text-align: center;"><span style="font-family: arial; font-size: 9pt; font-style: italic; vertical-align: baseline; white-space: pre-wrap;">&nbsp;</span><span style="font-family: arial; font-size: 9pt; font-style: italic; vertical-align: baseline; white-space: pre-wrap;">Click the “Try the New Blogger” button to see Blogger’s refreshed look and feel.</span></div><br /><br /><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;"><span style="font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;">In addition to a fresh feel, Blogger is now responsive on the web, making it easier to use on mobile devices. By investing in an improved web platform, it allows the potential for new features in the future.&nbsp;</span></div><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;"><span style="font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;"><br /></span></div><br /><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt; text-align: center;"><span style="font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;"><span style="border: none; display: inline-block; height: 299px; overflow: hidden; width: 146px;"><img height="299" src="https://lh4.googleusercontent.com/B-Tx1tl3m3_sH_4HiCg0XxhlTka0IV82jwT2LT4T9kzbXF15nMxjwNGe3NUAz-F42irNGdDINUiw4DM---nX_87Bb0X3OL_s5L19Rlyfhtm6oyEMNR1R4473TzkgsuxWQ3HXOIOV" style="margin-left: 0px; margin-top: 0px;" width="146" /></span></span></div><br /><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt; text-align: center;"><span style="font-family: arial; font-size: 8pt; vertical-align: baseline; white-space: pre-wrap;"><span style="font-size: x-small;"><font size="2">Blogger’s new responsive design makes it easy to manage your blog on-the-go.</font></span></span></div><br /><br /><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;"><span style="font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;"><br /></span></div><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;"><span style="font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;">Learn more about the page-specific updates we’ve released to make your Blogger experience even better:&nbsp;</span></div><br /><br /><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;"><span style="font-family: arial; font-size: 11pt; font-weight: 700; vertical-align: baseline; white-space: pre-wrap;">Stats</span></div><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;"><span style="font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;">The redesigned Stats page helps you focus on the most important data from your blog by highlighting your most recent post.&nbsp;&nbsp;&nbsp;&nbsp;</span></div><br /><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;"><span style="font-family: arial; font-size: 11pt; font-weight: 700; vertical-align: baseline; white-space: pre-wrap;">Comments</span></div><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;"><span style="font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;">A fresh Comments page helps you connect with readers more easily by surfacing areas that need your attention, like comment moderation.&nbsp;&nbsp;</span></div><br /><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;"><span style="font-family: arial; font-size: 11pt; font-weight: 700; vertical-align: baseline; white-space: pre-wrap;">Posts</span></div><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;"><span style="font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;">We’ve improved support for </span><a href="https://support.google.com/blogger/answer/9675453?hl=en" style="text-decoration-line: none;"><span style="color: #1155cc; font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;">Search Operators</span></a><span style="font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;"> on the Posts page to help you filter your Blogger posts and page search results more easily.&nbsp;</span></div><br /><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;"><span style="font-family: arial; font-size: 11pt; font-weight: 700; vertical-align: baseline; white-space: pre-wrap;">Editor</span></div><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;"><span style="font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;">The newly enhanced Editor page introduces table support, enables better transliteration, and includes an improved image/video upload experience.&nbsp;</span></div><br /><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;"><span style="font-family: arial; font-size: 11pt; font-weight: 700; vertical-align: baseline; white-space: pre-wrap;">Reading List&nbsp;</span></div><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;"><span style="font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;">Even if you don’t create from your phone, it’s now easier than ever to read blogs from other creators while you’re on the go.</span></div><br /><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;"><span style="font-family: arial; font-size: 11pt; font-weight: 700; vertical-align: baseline; white-space: pre-wrap;">Settings&nbsp;</span></div><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;"><span style="font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;">We’ve streamlined the Settings page to help you manage all your controls from one place.&nbsp;&nbsp;</span></div><br /><br /><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;"><span style="font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;">We’ll be moving everyone to the new interface over the coming months. Starting in late June, many Blogger creators will see the new interface become their default, though they can revert to the old interface by clicking “Revert to legacy Blogger” in the left-hand navigation. By late July, creators will no longer be able to revert to the legacy Blogger interface.&nbsp;&nbsp;</span></div><br /><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;"><span style="font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;">We recommend getting ahead of the transition by opting into the experience today. Be sure to let us know what you think about the new design by tapping the Help icon in the top navigation bar. We can’t wait to see how Blogger creators use the latest updates to share their voice with the world.</span></div><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;"><span style="font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;"><br /></span></div><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;"><span style="font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;"><i><br /></i></span></div><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;"><span style="font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;"><i>Posted by Fontaine on behalf of the Blogger team</i></span></div><div><span style="font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;"><br /></span></div></span></div></description><link>http://blogger.googleblog.com/2020/05/a-better-blogger-experience-on-web.html</link><author>noreply@blogger.com (A Googler)</author><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://lh5.googleusercontent.com/kWHfhyDmS0K6WMbTlfDV8Hq9RKq7Cs2sbPVl0otK3zDV5jNDO0SxM5-Ot89Wo3E11QvmNMI7VYMimqP-Vg9li-cz0cimWiGpJM65-uOSCmAvSN5n7M-lGcNWNW2u0cAfA54ZsGhZ=s72-c" height="72" width="72"/></item><item><guid isPermaLink="false">tag:blogger.com,1999:blog-2399953.post-7345193987064476834</guid><pubDate>Thu, 31 Jan 2019 02:01:00 +0000</pubDate><atom:updated>2019-01-30T18:03:34.810-08:00</atom:updated><title>An update on Google+ and Blogger</title><description><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">Following the announcement of Google+ API deprecation scheduled for March 2019, a number of changes will be made to Blogger’s Google+ integration on 4 February 2019.</span><br /><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;"><br /></span><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;"><strong>Google+ widgets:</strong> Support for the “+1 Button”, “Google+ Followers” and “Google+ Badge” widgets in Layout will no longer be available. All instances of these widgets will be removed from all blogs.&nbsp;</span><br /><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;"><br /></span><br /><div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBrnQ0IRXjDJNmdV1ILS_CKHFxmpaiBgLCjYnxOsqcyc-WQ82PtgjuI7EX-2GAtm8nXkMbkT0k5TAQIxiUi_ADWYU1hP5QCgB-IqeBWadA4GFlLF6Ch9czA0n_TApaCpebPAQ0AAo9GvhX/s1600/JzGHbwyZD1G.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="338" data-original-width="550" height="196" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBrnQ0IRXjDJNmdV1ILS_CKHFxmpaiBgLCjYnxOsqcyc-WQ82PtgjuI7EX-2GAtm8nXkMbkT0k5TAQIxiUi_ADWYU1hP5QCgB-IqeBWadA4GFlLF6Ch9czA0n_TApaCpebPAQ0AAo9GvhX/s320/JzGHbwyZD1G.png" width="320" /></a></div><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;"><br /></span><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;"><strong>+1 buttons:</strong> The +1/G+ buttons and Google+ share links
+
+
+Dark- Dose75
+4:46 PM (58 minutes ago)
+to syncshop, friohotbocachica, myhomehotelpc, West, Nroberts51, me
+
+376381173
+
+https://issuetracker.google.com/376381173
+
+https://issuetracker.google.com/376381173 Matthew Shannon Amos      this a templet to make productions right @myhomehotelpc@gmail.com
+
+
+Dark- Dose75
+4:48 PM (57 minutes ago)
+to syncshop, friohotbocachica, myhomehotelpc, West, Nroberts51, me
+
+https://console.cloud.google.com/welcome?_gl=1*7hm0cs*_up*MQ..&gclid=EAIaIQobChMIycGN5qC5iQMVFiRoCB1uTR5SEAEYASAAEgJJpPD_BwE&pli=1&project=inspired-photon-380110
+
+fast joke 
+
+
+Dark- Dose75
+4:54 PM (50 minutes ago)
+to syncshop, friohotbocachica, myhomehotelpc, West, Nroberts51, me
+
+https://developers.google.com/admin-sdk     
+
+https://rain-wizzard.blogspot.com/2023/03/httpsdraft.blogger.comblogposts1463136870274842065sharetruemp4audio.podcasl.link3Ewww.thug-radio.httpswww.youtube.comWhite-Boy-Papalega.N.B.html      ( i put it all over face book i got my IH5 usergooglecontent.com )
+
+https://www.youtube.com/playlist?list=PL1A_A4R6kMFQQC3Dirwrr-gGKJe7gR2xd @lordeus is fallowing @friohotbocachica@gmail.com   @myhomehotelpc@gmail.com
+
+
+Dark- Dose75
+5:00 PM (44 minutes ago)
+to syncshop, friohotbocachica, myhomehotelpc, West, Nroberts51, me
+
+@myhomehotelpc@gmail.com  good thing i own that content too    https://drive.google.com/file/d/1CyPjd_sbKEkqQFMSmz54D9lHi6TPPKMO/view?ts=671f37a0
+
+
+Dark- Dose75
+5:03 PM (42 minutes ago)
+to syncshop, friohotbocachica, myhomehotelpc, West, Nroberts51, me
+
+shannon annie
+shannon annie
+8:08 p.m. Oct 28
+<iframe width="560" height="315" src="https://xhamster.com/videos/anal-7122037"title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+   @friohotbocachica@gmail.com  your welcome i happen to own that now im pretty sure 
+
+Dark- Dose75
+5:00 PM (1 minute ago)
+
+to syncshop, friohotbocachica, myhomehotelpc, West, Nroberts51, me
+
+@myhomehotelpc@gmail.com  good thing i own that content too    https://drive.google.com/file/d/1CyPjd_sbKEkqQFMSmz54D9lHi6TPPKMO/view?ts=671f37a0
+
+ One attachment
+  •  Scanned by Gmail
+
+Dark- Dose75
+5:39 PM (5 minutes ago)
+to friohotbocachica, myhomehotelpc, West, syncshop, Nroberts51, me
+
+https://draft.blogger.com/blog/post/edit/preview/1463136870274842065/682136527419209246     whats this 
+
+shannon annie  >' 
+
+
+On Thu, Oct 31, 2024 at 5:03 PM Dark- Dose75 <mattamos250@gmail.com> wrote:
+shannon annie
+shannon annie
+8:08 p.m. Oct 28
+<iframe width="560" height="315" src="https://xhamster.com/videos/anal-7122037"title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+   @friohotbocachica@gmail.com  your welcome i happen to own that now im pretty sure 
+
+Dark- Dose75
+5:00 PM (1 minute ago)
+
+to syncshop, friohotbocachica, myhomehotelpc, West, Nroberts51, me
+
+@myhomehotelpc@gmail.com  good thing i own that content too    https://drive.google.com/file/d/1CyPjd_sbKEkqQFMSmz54D9lHi6TPPKMO/view?ts=671f37a0
+
+On Thu, Oct 31, 2024 at 5:00 PM Dark- Dose75 <mattamos250@gmail.com> wrote:
+@myhomehotelpc@gmail.com  good thing i own that content too    https://drive.google.com/file/d/1CyPjd_sbKEkqQFMSmz54D9lHi6TPPKMO/view?ts=671f37a0
+
+On Thu, Oct 31, 2024 at 4:54 PM Dark- Dose75 <mattamos250@gmail.com> wrote:
+https://developers.google.com/admin-sdk     
+
+https://rain-wizzard.blogspot.com/2023/03/httpsdraft.blogger.comblogposts1463136870274842065sharetruemp4audio.podcasl.link3Ewww.thug-radio.httpswww.youtube.comWhite-Boy-Papalega.N.B.html      ( i put it all over face book i got my IH5 usergooglecontent.com )
+
+https://www.youtube.com/playlist?list=PL1A_A4R6kMFQQC3Dirwrr-gGKJe7gR2xd @lordeus is fallowing @friohotbocachica@gmail.com   @myhomehotelpc@gmail.com 
+
+On Thu, Oct 31, 2024 at 4:48 PM Dark- Dose75 <mattamos250@gmail.com> wrote:
+https://console.cloud.google.com/welcome?_gl=1*7hm0cs*_up*MQ..&gclid=EAIaIQobChMIycGN5qC5iQMVFiRoCB1uTR5SEAEYASAAEgJJpPD_BwE&pli=1&project=inspired-photon-380110
+
+fast joke 
+
+On Thu, Oct 31, 2024 at 4:46 PM Dark- Dose75 <mattamos250@gmail.com> wrote:
+376381173
+
+https://issuetracker.google.com/376381173
+
+https://issuetracker.google.com/376381173 Matthew Shannon Amos      this a templet to make productions right @myhomehotelpc@gmail.com 
+
+
+
+
+On Thu, Oct 31, 2024 at 4:41 PM Dark- Dose75 <mattamos250@gmail.com> wrote:
+http://a dmiris01.2024.heriplayz
+
+https://www.facebook.com/share/p/1783WQo86q/
+
+Admiris01     
+
+  1000 percent mine @syncshop@sonymusic.com  https://issuetracker.google.com/issues/376381173?template_issue=245706296&template_comment=28&do_attribution=true
+To
+
+matthewshannonamos01@gmail.com  mattamos250@gmail.com   
+
+Cc
+
+  syncshop@sony.com
+
+Bcc
+
+@chodum91
+
+Subject
+
+
+Take it to the print but dont print right Madonna i cant belive all of this now youtube isn't allowing there none iframe j-son player means what chick ,this is just a link for content in the future links just business 
+
+
+miris01.2024.Heriplayz
+
+Admiris Investments Ltd
+
+Papa.Legba.506: Papa.Legba.506: Larry/Wacker
+
+on May 19, 2023
+
+                       Papa.Legba.506: Papa.Legba.506: Larry/Wacker: : https://github.com/LarryExpo
+
+
+1<?xml version='1.0' encoding='UTF-8'?><rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:blogger="http://schemas.google.com/blogger/2008" xmlns:georss="http://www.georss.org/georss" xmlns:gd="http://schemas.google.com/g/2005" xmlns:thr="http://purl.org/syndication/thread/1.0" version="2.0"><channel><atom:id>tag:blogger.com,1999:blog-2399953</atom:id><lastBuildDate>Sat, 28 Jan 2023 10:46:29 +0000</lastBuildDate><category>Blogger</category><category>10th Birthday</category><category>gadgets</category><category>google+</category><category>community</category><category>adsense</category><category>dynamic views</category><category>mobile</category><category>New UI</category><category>+1</category><category>GAN</category><category>Share</category><category>monetize</category><category>youtube</category><category>Android</category><category>Blogger Fiesta</category><category>Blogger Meetup</category><category>Blogger Stats</category><category>Chrome</category><category>SEO</category><category>blogspot</category><category>blogworld</category><category>commenting</category><category>conference</category><category>developers</category><category>events</category><category>feedburner</category><category>following</category><category>help</category><category>navbar</category><category>template designer</category><category>video</category><category>2010</category><category>Amazon</category><category>Blog2Print</category><category>BlogThis</category><category>Blogger Template Designer</category><category>Blogger birthday</category><category>Blogger2Print</category><category>Buzz</category><category>DMCA</category><category>FTP</category><category>Google Analytics</category><category>Google Buzz</category><category>Google Sites</category><category>OneTrueFan</category><category>OpenSky</category><category>Page Creator</category><category>SXSW</category><category>Viglink</category><category>accessibility</category><category>ads</category><category>calendar</category><category>code</category><category>custom domain</category><category>draft</category><category>feeds</category><category>firefox</category><category>follow by email</category><category>foxytunes</category><category>grandcentral</category><category>ios</category><category>jump</category><category>knol</category><category>lightbox</category><category>music</category><category>next blog</category><category>openid</category><category>pages</category><category>pixelodeon</category><category>polls</category><category>post summaries</category><category>read more</category><category>recommend</category><category>support</category><category>twitter</category><category>videoblogging</category><category>web fonts</category><category>webcall</category><category>zemanta</category><title>Official Blogger Blog</title><description>The latest tips and news from the Blogger team</description><link>http://blogger.googleblog.com/</link><managingEditor>noreply@blogger.com (Unknown)</managingEditor><generator>Blogger</generator><openSearch:totalResults>541</openSearch:totalResults><openSearch:startIndex>1</openSearch:startIndex><openSearch:itemsPerPage>25</openSearch:itemsPerPage><item><guid isPermaLink="false">tag:blogger.com,1999:blog-2399953.post-7531385161213212970</guid><pubDate>Wed, 20 May 2020 23:53:00 +0000</pubDate><atom:updated>2020-05-20T16:58:18.814-07:00</atom:updated><title>A better Blogger experience on the web</title><description><div dir="ltr" style="text-align: left;" trbidi="on"><span id="docs-internal-guid-83e698cd-7fff-3537-1fd4-931000cddafb"></span><br /><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;"><span id="docs-internal-guid-83e698cd-7fff-3537-1fd4-931000cddafb"><span style="font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;">Since 1999, millions of people have expressed themselves on Blogger. From detailed posts about almost every </span><a href="https://adamapples.blogspot.com/" style="text-decoration-line: none;"><span style="color: #1155cc; font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;">apple variety</span></a><span style="font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;"> you could ever imagine to a blog dedicated to </span><a href="https://howtoblog.krishnainfotron.com/" style="text-decoration-line: none;"><span style="color: #1155cc; font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;">the art of blogging</span></a><span style="font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;"> itself, the ability to easily share, publish and express oneself on the web is at the core of Blogger’s mission. As the web constantly evolves, we want to ensure anyone using Blogger has an easy and intuitive experience publishing their content to the web.</span><span style="font-family: arial; font-size: 11pt; font-style: italic; vertical-align: baseline; white-space: pre-wrap;">&nbsp;&nbsp;</span></span></div><span id="docs-internal-guid-83e698cd-7fff-3537-1fd4-931000cddafb"><br /><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;"><span style="font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;">That’s why we’ve been slowly introducing an improved web experience for Blogger. Give the fresh interface a spin by clicking “Try the New Blogger” in the left-hand navigation pane.&nbsp;</span></div><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;"><span style="font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;"><br /></span></div><br /><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt; text-align: center;"><span style="font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;"><span style="border: none; display: inline-block; overflow: hidden;"><img src="https://lh5.googleusercontent.com/kWHfhyDmS0K6WMbTlfDV8Hq9RKq7Cs2sbPVl0otK3zDV5jNDO0SxM5-Ot89Wo3E11QvmNMI7VYMimqP-Vg9li-cz0cimWiGpJM65-uOSCmAvSN5n7M-lGcNWNW2u0cAfA54ZsGhZ" style="margin-left: 0px; margin-top: 0px;" width="508" /></span></span></div><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt; text-align: center;"><span style="color: red; font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></div><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt; text-align: center;"><span style="font-family: arial; font-size: 9pt; font-style: italic; vertical-align: baseline; white-space: pre-wrap;">&nbsp;</span><span style="font-family: arial; font-size: 9pt; font-style: italic; vertical-align: baseline; white-space: pre-wrap;">Click the “Try the New Blogger” button to see Blogger’s refreshed look and feel.</span></div><br /><br /><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;"><span style="font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;">In addition to a fresh feel, Blogger is now responsive on the web, making it easier to use on mobile devices. By investing in an improved web platform, it allows the potential for new features in the future.&nbsp;</span></div><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;"><span style="font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;"><br /></span></div><br /><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt; text-align: center;"><span style="font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;"><span style="border: none; display: inline-block; height: 299px; overflow: hidden; width: 146px;"><img height="299" src="https://lh4.googleusercontent.com/B-Tx1tl3m3_sH_4HiCg0XxhlTka0IV82jwT2LT4T9kzbXF15nMxjwNGe3NUAz-F42irNGdDINUiw4DM---nX_87Bb0X3OL_s5L19Rlyfhtm6oyEMNR1R4473TzkgsuxWQ3HXOIOV" style="margin-left: 0px; margin-top: 0px;" width="146" /></span></span></div><br /><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt; text-align: center;"><span style="font-family: arial; font-size: 8pt; vertical-align: baseline; white-space: pre-wrap;"><span style="font-size: x-small;"><font size="2">Blogger’s new responsive design makes it easy to manage your blog on-the-go.</font></span></span></div><br /><br /><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;"><span style="font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;"><br /></span></div><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;"><span style="font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;">Learn more about the page-specific updates we’ve released to make your Blogger experience even better:&nbsp;</span></div><br /><br /><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;"><span style="font-family: arial; font-size: 11pt; font-weight: 700; vertical-align: baseline; white-space: pre-wrap;">Stats</span></div><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;"><span style="font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;">The redesigned Stats page helps you focus on the most important data from your blog by highlighting your most recent post.&nbsp;&nbsp;&nbsp;&nbsp;</span></div><br /><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;"><span style="font-family: arial; font-size: 11pt; font-weight: 700; vertical-align: baseline; white-space: pre-wrap;">Comments</span></div><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;"><span style="font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;">A fresh Comments page helps you connect with readers more easily by surfacing areas that need your attention, like comment moderation.&nbsp;&nbsp;</span></div><br /><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;"><span style="font-family: arial; font-size: 11pt; font-weight: 700; vertical-align: baseline; white-space: pre-wrap;">Posts</span></div><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;"><span style="font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;">We’ve improved support for </span><a href="https://support.google.com/blogger/answer/9675453?hl=en" style="text-decoration-line: none;"><span style="color: #1155cc; font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;">Search Operators</span></a><span style="font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;"> on the Posts page to help you filter your Blogger posts and page search results more easily.&nbsp;</span></div><br /><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;"><span style="font-family: arial; font-size: 11pt; font-weight: 700; vertical-align: baseline; white-space: pre-wrap;">Editor</span></div><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;"><span style="font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;">The newly enhanced Editor page introduces table support, enables better transliteration, and includes an improved image/video upload experience.&nbsp;</span></div><br /><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;"><span style="font-family: arial; font-size: 11pt; font-weight: 700; vertical-align: baseline; white-space: pre-wrap;">Reading List&nbsp;</span></div><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;"><span style="font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;">Even if you don’t create from your phone, it’s now easier than ever to read blogs from other creators while you’re on the go.</span></div><br /><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;"><span style="font-family: arial; font-size: 11pt; font-weight: 700; vertical-align: baseline; white-space: pre-wrap;">Settings&nbsp;</span></div><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;"><span style="font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;">We’ve streamlined the Settings page to help you manage all your controls from one place.&nbsp;&nbsp;</span></div><br /><br /><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;"><span style="font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;">We’ll be moving everyone to the new interface over the coming months. Starting in late June, many Blogger creators will see the new interface become their default, though they can revert to the old interface by clicking “Revert to legacy Blogger” in the left-hand navigation. By late July, creators will no longer be able to revert to the legacy Blogger interface.&nbsp;&nbsp;</span></div><br /><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;"><span style="font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;">We recommend getting ahead of the transition by opting into the experience today. Be sure to let us know what you think about the new design by tapping the Help icon in the top navigation bar. We can’t wait to see how Blogger creators use the latest updates to share their voice with the world.</span></div><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;"><span style="font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;"><br /></span></div><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;"><span style="font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;"><i><br /></i></span></div><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;"><span style="font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;"><i>Posted by Fontaine on behalf of the Blogger team</i></span></div><div><span style="font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;"><br /></span></div></span></div></description><link>http://blogger.googleblog.com/2020/05/a-better-blogger-experience-on-web.html</link><author>noreply@blogger.com (A Googler)</author><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://lh5.googleusercontent.com/kWHfhyDmS0K6WMbTlfDV8Hq9RKq7Cs2sbPVl0otK3zDV5jNDO0SxM5-Ot89Wo3E11QvmNMI7VYMimqP-Vg9li-cz0cimWiGpJM65-uOSCmAvSN5n7M-lGcNWNW2u0cAfA54ZsGhZ=s72-c" height="72" width="72"/></item><item><guid isPermaLink="false">tag:blogger.com,1999:blog-2399953.post-7345193987064476834</guid><pubDate>Thu, 31 Jan 2019 02:01:00 +0000</pubDate><atom:updated>2019-01-30T18:03:34.810-08:00</atom:updated><title>An update on Google+ and Blogger</title><description><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">Following the announcement of Google+ API deprecation scheduled for March 2019, a number of changes will be made to Blogger’s Google+ integration on 4 February 2019.</span><br /><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;"><br /></span><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;"><strong>Google+ widgets:</strong> Support for the “+1 Button”, “Google+ Followers” and “Google+ Badge” widgets in Layout will no longer be available. All instances of these widgets will be removed from all blogs.&nbsp;</span><br /><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;"><br /></span><br /><div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBrnQ0IRXjDJNmdV1ILS_CKHFxmpaiBgLCjYnxOsqcyc-WQ82PtgjuI7EX-2GAtm8nXkMbkT0k5TAQIxiUi_ADWYU1hP5QCgB-IqeBWadA4GFlLF6Ch9czA0n_TApaCpebPAQ0AAo9GvhX/s1600/JzGHbwyZD1G.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="338" data-original-width="550" height="196" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBrnQ0IRXjDJNmdV1ILS_CKHFxmpaiBgLCjYnxOsqcyc-WQ82PtgjuI7EX-2GAtm8nXkMbkT0k5TAQIxiUi_ADWYU1hP5QCgB-IqeBWadA4GFlLF6Ch9czA0n_TApaCpebPAQ0AAo9GvhX/s320/JzGHbwyZD1G.png" width="320" /></a></div><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;"><br /></span><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;"><strong>+1 buttons:</strong> The +1/G+ buttons and Google+ share links
+
+On Thu, Oct 31, 2024 at 4:23 PM Dark- Dose75 <mattamos250@gmail.com> wrote:
+
+https://docs.google.com/document/d/1deylYdnuIQc_W_rvGDVULnkIejeqLnZz8L-PJfFYHBc/edit?pli=1&tab=t.0
+--
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Thank You  Matthew Amos
+
+
+--
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Thank You  Matthew Amos
+
+
+--
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Thank You  Matthew Amos
+
+
+--
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Thank You  Matthew Amos
+
+
+--
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Thank You  Matthew Amos
+
+
+--
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Thank You  Matthew Amos
+
+
+--
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Thank You  Matthew Amos
+
+
+--
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Thank You  Matthew Amos
+
+Dark- Dose75
+5:41 PM (3 minutes ago)
+to syncshop, friohotbocachica, myhomehotelpc, West, Nroberts51, me
+
+https://docs.google.com/document/d/1IeywQ0go1qTL_LK5BwVqocF0ploIct2m/edit
+
+
+
+Dark- Dose75
+5:03 PM (37 minutes ago)
+
+to syncshop, friohotbocachica, myhomehotelpc, West, Nroberts51, me
+
+shannon annie
+shannon annie
+8:08 p.m. Oct 28
+<iframe width="560" height="315" src="https://xhamster.com/videos/anal-7122037"title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+   @friohotbocachica@gmail.com  your welcome i happen to own that now im pretty sure 
+
+
 
 
 
