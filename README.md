@@ -5,7 +5,2000 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-<link> 
+<link> ments(55)
+Dependencies(0)
+Duplicates(0)
+Blocking(0)
+Resources(99+)
+Infeasible
+Bug
+P2
+0133187
+Status Update
+No update yet.
+
+Descriptionsm...@gmail.com created issue #1
+Jun 25, 2022 09:28PM
+Please fill out the following:
+
+- Description
+
+- API request with parameters used (DO NOT include your credential)
+
+- Result (copy and paste a JSON response you received)
+
+- Expected result
+
+- Is it 100% reproducible?
+
+- Reproducible API explorer link
+Issue summary
+Similar issues
+Title	Dupes	+1s	
+Created
+Embed YouTube video don't start from startSeconds parameter
+0	6	Apr 24, 2024	
+YouTube embedded player fails when using Cross-Origin-Embedder-Policy (COEP) different than 'unsafe-none'
+0	8	Jul 8, 2024	
+Youtube embed using iframe API is causing a refresh look
+0	0	May 21, 2024	
+Mentioned issues (1)
+--
+--
+“
+https://issuetracker.google.com/issues/376381173?template_issue=245706296&template_comment=28&do_attribution=true
+”
+mattamos250@
+#41
+Links (119)
+“
+https://www.youtube.com/embed/5azaK2cBKGw
+”
+ma...@
+#4
+“
+youtube.com/watch?v=4AelJfotyhY
+”
+as...@
+#5
+“
+https://www.youtube.com/embed/RbAOX9U2NQQ
+”
+sh...@
+#6
+“
+https://www.youtube.com/embed/CB5qF2_rJQk?start=5
+”
+ap...@
+#7
+“
+https://www.youtube.com/embed/DNzi7riUrbw
+”
+al...@
+#9
+Comments
+All comments
+sm...@gmail.com<sm...@gmail.com> #2Jun 25, 2022 09:30PM
+237124737
+
+sm...@gmail.com<sm...@gmail.com> #3Jun 25, 2022 09:30PM
+rajaraja
+
+hu...@google.com<hu...@google.com>Jun 27, 2022 03:15AM
+Status: Won't Fix (Infeasible)
+ma...@gmail.com<ma...@gmail.com> #4Jul 14, 2022 10:16AM
+<iframe width="712" height="401" src="https://www.youtube.com/embed/5azaK2cBKGw" title="CS50 2018 - Lecture 0 - Computational Thinking, Scratch" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+as...@apptunix.com<as...@apptunix.com> #5Jul 18, 2022 07:14AM
+youtube.com/watch?v=4AelJfotyhY
+sh...@datasofttechnology.com<sh...@datasofttechnology.com> #6Dec 12, 2022 03:11AM
+<iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/RbAOX9U2NQQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+ap...@gmail.com<ap...@gmail.com> #7Jan 16, 2023 11:12AM
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CB5qF2_rJQk?start=5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+mk...@gmail.com<mk...@gmail.com> #8Feb 22, 2023 02:59AM
+asd
+al...@gmail.com<al...@gmail.com> #9Feb 24, 2023 03:33PM
+<iframe width="885" height="498" src="https://www.youtube.com/embed/DNzi7riUrbw" title="SLOW ASMR| 20 TRIGGERS IN 20 MINUTES ✨" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Dark- “Organized Crime” Dose75<mattamos250@gmail.com> #10Apr 3, 2023 12:08AM
+[.^.].^♤^.rainwizzard.com.^♠︎^.[.^.]
+
+la...@gmail.com<la...@gmail.com> #11Apr 30, 2023 02:08AM
+.^♠️^.Rainwizzard.com.^♠️^.
+
+ga...@gmail.com<ga...@gmail.com> #12Jul 5, 2023 02:08AM
+WRONG,WRONG,WRONG....
+af...@gmail.com<af...@gmail.com> #13Jul 7, 2023 03:28PM
+<iframe width="1179" height="663" src="https://www.youtube.com/embed/aGsnEuc-Pmg" title="در سایهٔ سایه - گفتگویی با هوشنگ ابتهاج" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+ev...@gmail.com<ev...@gmail.com> #14Aug 24, 2023 01:00PM
+<iframe width="1280" height="1024" src="https://www.youtube.com/embed/KCZCj2Inr8g" title="Class 7 Science Chapter 4 | Heat - NCERT Solutions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+si...@gmail.com<si...@gmail.com> #15Sep 28, 2023 01:15PM
+Comment has been deleted.
+Message last modified on Sep 28, 2023 01:16PM
+si...@gmail.com<si...@gmail.com> #16Sep 28, 2023 01:21PM
+<iframe width="2350" height="129" src="https://www.youtube.com/embed/t185cDQ8k3c" title="ความลับ - มัม ลาโคนิค [ COVER BY LETANA ]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>4</iframe>
+bb...@gmail.com<bb...@gmail.com> #17Oct 27, 2024 05:37PM
+https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYEDFFmkCBXsx-K43jrGtWWt93LtIJazWPrCLU6FgoUcFQOJKaPBHLjsjEjLcmXW7DkpA4oLO72auZ1tgMl3ENMK_yhMtz6joqvpPEvZ7HapByur3xJXsBhzb_NHTuIUlIVUsXVBCMj5fSMKxTg7X5hSysvltp5TnKXAKUxIfBBIzmhF4P_gzFthUvIA/s1600/IMG_20230607_142859.jpg {https://youtu.be/MCM-mf3Zl3M?list=RDMCM-mf3Zl3M "ns": "yt", "el": "detailpage}https://youtu.be/MCM-mf3Zl3M?list=RDMCM-mf3Zl3M "ns": "yt", "el": "detailpage", "cpn": "4JKKk5nu295IC28W", "ver": 2, "cmt": "79.221", "fmt": "243", "fs": "0", "rt": "133.361", "euri": "", "lact": 3, "cl": "678482515", "mos": 0, "state": "8", "volume": 100, "subscribed": "1", "cbrand": "google", "cbr": "Chrome", "cbrver": "128.0.0.0", "c": "WEB", "cver": "2.20240925.09.00", "cplayer": "UNIPLAYER", "cmodel": "chromebook", "cos": "CrOS", "cosver": "14541.0.0", "cplatform": "DESKTOP", "hl": "en_US", "cr": "CA", "len": "290.681", "fexp": "v1,23703445,282581,18618,434717,104308,23018,133212,14625955,11684381,7111,24166,12177,9954,1192,7913,18310,4420,2819,2,2870,11809,32240,7611,4582,19,2,1082,6953,11044,2471,6008,1538,17801,24021,2128,1336,4205,1823,3186,2912,4794,2774,328,13,142,3685,4,404,15577,3863,1033,8,5310,917,1861,2543,304,1324,2996,1008,2304,376,896,36,446,2740,77,7,14,2160,608,1175,3,54,65,364,1431,253", "feature": "g-high-rec", "afmt": "251", "muted": "0", "conn": "3", "docid": "MCM-mf3Zl3M", "ei": "VpL2ZtbBMqy0kucPlpTI0Qs", "plid": "AAYjF-J2L5N1Gp3b", "referrer": "https://www.youtube.com/", "sdetail": "p:/", "sourceid": "y", "list": "RDMCM-mf3Zl3M", "of": "m47hL5NGwagYCpXYZcc88A", "vm": "CAIQARgEOjJBSHFpSlRKeGRrU0tuM0hoUHVNZHktWF9RVm5JaGt2VDI4VmpwQ1c3TkNYNlhDZDRud2JmQU9BckJGdngtWkVwaXQwRTR4UWRoRW10algzQlctZlpvXzRmYUlUZy0tMHpqSlBIT3YyLVlMSC0wNThuSVFvRkV6azAtMEtMTWFZT29XVjN5TnVYcDg1YXVBaGF2SWlhVk51UWVnuAEB", "vct": "79.221", "vd": "290.681", "vpl": "0.000-79.221", "vbu": "0.000-171.500", "vbs": "0.000-290.681", "vpa": "0", "vsk": "0", "ven": "0", "vpr": "1", "vrs": "4", "vns": "2", "vec": "null", "vemsg": "", "vvol": "1", "vdom": "1", "vsrc": "1", "vw": "681", "vh": "383", "lct": "79.027", "lsk": false, "lmf": false, "lbw": "6650061.431", "lhd": "0.046", "lst": "0.000", "laa": "itag_251_type_3_src_reslicemakeSliceInfosMediaBytes_segsrc_reslicemakeSliceInfosMediaBytes_seg_17_range_3169460-3174468_time_179.7-180.0_off_164347_len_5009_end_1", "lva": "itag_243_type_3_src_reslicemakeSliceInfosMediaBytes_segsrc_reslicemakeSliceInfosMediaBytes_seg_38_range_7652963-7721478_time_169.6-171.5_off_168812_len_68516_end_1", "lar": "itag_251_type_3_src_reslicemakeSliceInfosMediaBytes_segsrc_reslicemakeSliceInfosMediaBytes_seg_17_range_3169460-3174468_time_179.7-180.0_off_164347_len_5009_end_1", "lvr": "itag_243_type_3_src_reslicemakeSliceInfosMediaBytes_segsrc_reslicemakeSliceInfosMediaBytes_seg_38_range_7652963-7721478_time_169.6-171.5_off_168812_len_68516_end_1", "laq": "0", "lvq": "0", "lab": "0.000-180.001", "lvb": "0.000-171.500", "ismb": 13170000, "leader": 1, "relative_loudness": "-0.110", "optimal_format": "360p", "user_qual": 0, "release_version": "youtube.player.web_20240924_01_RC00", "debug_videoId": "MCM-mf3Zl3M", "0sz": "false", "op": "", "yof": "false", "dis": "", "gpu": "ANGLE_(Intel,Vulkan_1.3.278(Intel(R)UHD_Graphics(JSL)_(0x00004E55)),_Intel_open-source_Mesa_driver)", "ps": "desktop-polymer", "debug_playbackQuality": "medium", "debug_date": "Fri Sep 27 2024 08:11:29 GMT-0300 (Atlantic Daylight Time)", "origin": "https://www.youtube.com", "timestamp": 1727435489801 }a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYEDFFmkCBXsx-K43jrGtWWt93LtIJazWPrCLU6FgoUcFQOJKaPBHLjsjEjLcmXW7DkpA4oLO72auZ1tgMl3ENMK_yhMtz6joqvpPEvZ7HapByur3xJXsBhzb_NHTuIUlIVUsXVBCMj5fSMKxTg7X5hSysvltp5TnKXAKUxIfBBIzmhF4P_gzFthUvIA/s1600/IMG_20230607_142859.jpg" style="display: block; padding: 1em 0; text-align: center; ">
+
+www.rainwizzard@blogspot.com ..June 05, 2023 21:07 PM[display:•^^^•~}{0.0}{~•^^^••^^^•~}{0.0}{~•^^^••^^^•~}{0.0}{•^^^• block •^^^•}{0.0}{•^^^••^^^•}{0.0}{•^^^••^^^•}{0.0{~•^^^• menuitem { display:•^^^•~}{0.0}{~•^^^••^^^•~}{0.0}{~•^^^••^^^•~}{0.0}{•^^^• block •^^^•}{0.0}{•^^^••^^^•}{0.0}{•^^^••^^^•}{0.0{~•^^^• {•^^^•le="--hterm-cursor-color: #669DF680display:•^^^•}{0.0}{•^^^••^^^•}{0.0}{•^^^••^^^•}{0.0}{~•^^^• block •^^^•~}{0.0}{~•^^^••^^^•~}{0.0}{~•^^^••^^^•~}{0.0{•^^^• menuitem { display:•^^^•}{0.0}{•^^^••^^^•}{0.0}{•^^^••^^^•}{0.0}{~•^^^• block •^^^•~}{0.0}{~•^^^••^^^•~}{0.0}{~•^^^••^^^•~}{0.0{_•^^^• {•^^^•le="--hterm-cursor-color: #669DF680 ...From: "Papa Legba.N.B" https://priv-policy.imrworldwide.com/priv/browser/us/en/optout.html%7Dhttps://www.blogger.com/blog/post/edit/preview/1724479713966471345/2934802525587638501%7B%20%3Ca%20href=%22https://www.blogger.com/blog/post/edit/preview/1724479713966471345/2934802525587638501%22%20target=%22_blank%22%20rel=%22nofollow%22%3E%3Ca%20href=%22https://newbrun1074.blogspot.com/2023/06/wwwrainwizzardblogspotcom.html%22%20target=%22_blank%22%20rel=%22nofollow%22%3E%3C/a%3E%3C/a%3Ei%20writes%20free%20hand%20toos ....To: , :https://developers.google.com/speed/public-dns/docs/using/chrome-extension://mihdfbecejheednfigjpdacgeilhlmnf/react-draggable.js.map}chrome-extension://mihdfbecejheednfigjpdacgeilhlmnf/react-draggable.js.map} ] }https://www.blogger.com/blog/post/edit/preview/1724479713966471345/2934802525587638501{ }.~ ¹♤³. wwwrainwizzard.com.¹♤³~.^^^•}{0..0}{•^^^••^^^•}{0.0}{•^^^••^^^•}{0.0}{0..0}{•^^^••^^^•}{0.0}{•^^^••^^^•}{0..0}...}. ] }url.www.rainwizzard@Rainwizzard.com{@}{0..0} trap[DOMStringMap {} {.. ¹♤³.wwwrainwizzard.com.¹♤³~.^^^•}{0..0}{•^^^••^^^•}{0.0}{•^^^••^^^•}{0.0}{0..0}{•^^^••^^^•}{0.0}{•^^^••^^^•}{0..0}~...}. 7times3 }}.¹♤³.{0..0}.¹♤³.{{ }}.¹♤³.{0..0}.¹♤³.{{ }}.¹♤³.{0..0}.¹♤³.{{ }}.¹♤³.{0..0}.¹♤³.{{ 3times7 ...https://embed.tumblr.com/embed/post/t:iPRP096YDH4tAP9ETV9_tg/720127509506736128/v2https://www.tumblr.com/darkdose-75/719933067816534016/245040906-ea6c92a1-4c9f-43b1-a4c0-bce44758b0bejpg?source=share...https://embed.tumblr.com/embed/post/t:iPRP096YDH4tAP9ETV9_tg/720127509506736128/v2https://www.tumblr.com/darkdose-75/719933067816534016/245040906-ea6c92a1-4c9f-43b1-a4c0-bce44758b0bejpg?source=shareREADME.mdhttps://www.tumblr.com/darkdose-75 https://priv-policy.imrworldwide.com/priv/browser/us/en/optout.html%7Dhttps://www.blogger.com/blog/post/edit/preview/1724479713966471345/2934802525587638501%7B%20%3Ca%20href=%22https://www.blogger.com/blog/post/edit/preview/1724479713966471345/2934802525587638501%22%20target=%22_blank%22%20rel=%22nofollow%22%3E%3Ca%20href=%22https://newbrun1074.blogspot.com/2023/06/wwwrainwizzardblogspotcom.html%22%20target=%22_blank%22%20rel=%22nofollow%22%3E%3C/a%3E%3C/a%3Ei%20writes%20free%20hand%20} ]https://mail.yandex.com/touch/tab/news ......{0.0}...... --chodumburns@yandex.com Sent from Yandex Mail for mobileh1>https://open.spotify.com/chodum91{https://youtu.be/MCM-mf3Zl3M?list=RDMCM-mf3Zl3M "ns": "yt", "el": "detailpage}https://youtu.be/MCM-mf3Zl3M?list=RDMCM-mf3Zl3M "ns": "yt", "el": "detailpage", "cpn": "4JKKk5nu295IC28W", "ver": 2, "cmt": "79.221", "fmt": "243", "fs": "0", "rt": "133.361", "euri": "", "lact": 3, "cl": "678482515", "mos": 0, "state": "8", "volume": 100, "subscribed": "1", "cbrand": "google", "cbr": "Chrome", "cbrver": "128.0.0.0", "c": "WEB", "cver": "2.20240925.09.00", "cplayer": "UNIPLAYER", "cmodel": "chromebook", "cos": "CrOS", "cosver": "14541.0.0", "cplatform": "DESKTOP", "hl": "en_US", "cr": "CA", "len": "290.681", "fexp": "v1,23703445,282581,18618,434717,104308,23018,133212,14625955,11684381,7111,24166,12177,9954,1192,7913,18310,4420,2819,2,2870,11809,32240,7611,4582,19,2,1082,6953,11044,2471,6008,1538,17801,24021,2128,1336,4205,1823,3186,2912,4794,2774,328,13,142,3685,4,404,15577,3863,1033,8,5310,917,1861,2543,304,1324,2996,1008,2304,376,896,36,446,2740,77,7,14,2160,608,1175,3,54,65,364,1431,253", "feature": "g-high-rec", "afmt": "251", "muted": "0", "conn": "3", "docid": "MCM-mf3Zl3M", "ei": "VpL2ZtbBMqy0kucPlpTI0Qs", "plid": "AAYjF-J2L5N1Gp3b", "referrer": "https://www.youtube.com/", "sdetail": "p:/", "sourceid": "y", "list": "RDMCM-mf3Zl3M", "of": "m47hL5NGwagYCpXYZcc88A", "vm": "CAIQARgEOjJBSHFpSlRKeGRrU0tuM0hoUHVNZHktWF9RVm5JaGt2VDI4VmpwQ1c3TkNYNlhDZDRud2JmQU9BckJGdngtWkVwaXQwRTR4UWRoRW10algzQlctZlpvXzRmYUlUZy0tMHpqSlBIT3YyLVlMSC0wNThuSVFvRkV6azAtMEtMTWFZT29XVjN5TnVYcDg1YXVBaGF2SWlhVk51UWVnuAEB", "vct": "79.221", "vd": "290.681", "vpl": "0.000-79.221", "vbu": "0.000-171.500", "vbs": "0.000-290.681", "vpa": "0", "vsk": "0", "ven": "0", "vpr": "1", "vrs": "4", "vns": "2", "vec": "null", "vemsg": "", "vvol": "1", "vdom": "1", "vsrc": "1", "vw": "681", "vh": "383", "lct": "79.027", "lsk": false, "lmf": false, "lbw": "6650061.431", "lhd": "0.046", "lst": "0.000", "laa": "itag_251_type_3_src_reslicemakeSliceInfosMediaBytes_segsrc_reslicemakeSliceInfosMediaBytes_seg_17_range_3169460-3174468_time_179.7-180.0_off_164347_len_5009_end_1", "lva": "itag_243_type_3_src_reslicemakeSliceInfosMediaBytes_segsrc_reslicemakeSliceInfosMediaBytes_seg_38_range_7652963-7721478_time_169.6-171.5_off_168812_len_68516_end_1", "lar": "itag_251_type_3_src_reslicemakeSliceInfosMediaBytes_segsrc_reslicemakeSliceInfosMediaBytes_seg_17_range_3169460-3174468_time_179.7-180.0_off_164347_len_5009_end_1", "lvr": "itag_243_type_3_src_reslicemakeSliceInfosMediaBytes_segsrc_reslicemakeSliceInfosMediaBytes_seg_38_range_7652963-7721478_time_169.6-171.5_off_168812_len_68516_end_1", "laq": "0", "lvq": "0", "lab": "0.000-180.001", "lvb": "0.000-171.500", "ismb": 13170000, "leader": 1, "relative_loudness": "-0.110", "optimal_format": "360p", "user_qual": 0, "release_version": "youtube.player.web_20240924_01_RC00", "debug_videoId": "MCM-mf3Zl3M", "0sz": "false", "op": "", "yof": "false", "dis": "", "gpu": "ANGLE(Intel,Vulkan_1.3.278(Intel(R)UHD_Graphics(JSL)(0x00004E55)),_Intel_open-source_Mesa_driver)", "ps": "desktop-polymer", "debug_playbackQuality": "medium", "debug_date": "Fri Sep 27 2024 08:11:29 GMT-0300 (Atlantic Daylight Time)", "origin": "https://www.youtube.com", "timestamp": 1727435489801 }a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYEDFFmkCBXsx-K43jrGtWWt93LtIJazWPrCLU6FgoUcFQOJKaPBHLjsjEjLcmXW7DkpA4oLO72auZ1tgMl3ENMK_yhMtz6joqvpPEvZ7HapByur3xJXsBhzb_NHTuIUlIVUsXVBCMj5fSMKxTg7X5hSysvltp5TnKXAKUxIfBBIzmhF4P_gzFthUvIA/s1600/IMG_20230607_142859.jpg" style="display: block; padding: 1em 0; text-align: center; ">
+
+www.rainwizzard@blogspot.com ..June 05, 2023 21:07 PM[display:•^^^•~}{0.0}{~•^^^••^^^•~}{0.0}{~•^^^••^^^•~}{0.0}{•^^^• block •^^^•}{0.0}{•^^^••^^^•}{0.0}{•^^^••^^^•}{0.0{~•^^^• menuitem { display:•^^^•~}{0.0}{~•^^^••^^^•~}{0.0}{~•^^^••^^^•~}{0.0}{•^^^• block •^^^•}{0.0}{•^^^••^^^•}{0.0}{•^^^••^^^•}{0.0{~•^^^• {•^^^•le="--hterm-cursor-color: #669DF680display:•^^^•}{0.0}{•^^^••^^^•}{0.0}{•^^^••^^^•}{0.0}{~•^^^• block •^^^•~}{0.0}{~•^^^••^^^•~}{0.0}{~•^^^••^^^•~}{0.0{•^^^• menuitem { display:•^^^•}{0.0}{•^^^••^^^•}{0.0}{•^^^••^^^•}{0.0}{~•^^^• block •^^^•~}{0.0}{~•^^^••^^^•~}{0.0}{~•^^^••^^^•~}{0.0{_•^^^• {_•^^^•le="--hterm-cursor-color: #669DF680 ...From: "Papa Legba.N.B" https://priv-policy.imrworldwide.com/priv/browser/us/en/optout.html%7Dhttps://www.blogger.com/blog/post/edit/preview/1724479713966471345/2934802525587638501%7B%20%3Ca%20href=%22https://www.blogger.com/blog/post/edit/preview/1724479713966471345/2934802525587638501%22%20target=%22_blank%22%20rel=%22nofollow%22%3E%3Ca%20href=%22https://newbrun1074.blogspot.com/2023/06/wwwrainwizzardblogspotcom.html%22%20target=%22_blank%22%20rel=%22nofollow%22%3E%3C/a%3E%3C/a%3Ei%20writes%20free%20hand%20toos ....To: , :https://developers.google.com/speed/public-dns/docs/using/chrome-extension://mihdfbecejheednfigjpdacgeilhlmnf/react-draggable.js.map}_chrome-extension://mihdfbecejheednfigjpdacgeilhlmnf/react-draggable.js.map} ] }https://www.blogger.com/blog/post/edit/preview/1724479713966471345/2934802525587638501{ }.~ ¹♤³. wwwrainwizzard.com.¹♤³~.^^^•}{0..0}{•^^^••^^^•}{0.0}{•^^^••^^^•}{0.0}{0..0}{•^^^••^^^•}{0.0}{•^^^••^^^•}{0..0}...}. ] }url.www.rainwizzard@Rainwizzard.com{@}{0..0} trap[DOMStringMap {} {.. ¹♤³.wwwrainwizzard.com.¹♤³~.^^^•}{0..0}{•^^^••^^^•}{0.0}{•^^^••^^^•}{0.0}{0..0}{•^^^••^^^•}{0.0}{•^^^••^^^•}{0..0}~...}. 7times3 }}.¹♤³.{0..0}.¹♤³.{{ }}.¹♤³.{0..0}.¹♤³.{{ }}.¹♤³.{0..0}.¹♤³.{{ }}.¹♤³.{0..0}.¹♤³.{{ 3times7 ...https://embed.tumblr.com/embed/post/t:iPRP096YDH4tAP9ETV9_tg/720127509506736128/v2https://www.tumblr.com/darkdose-75/719933067816534016/245040906-ea6c92a1-4c9f-43b1-a4c0-bce44758b0bejpg?source=share...https://embed.tumblr.com/embed/post/t:iPRP096YDH4tAP9ETV9_tg/720127509506736128/v2https://www.tumblr.com/darkdose-75/719933067816534016/245040906-ea6c92a1-4c9f-43b1-a4c0-bce44758b0bejpg?source=shareREADME.mdhttps://www.tumblr.com/darkdose-75 https://priv-policy.imrworldwide.com/priv/browser/us/en/optout.html%7Dhttps://www.blogger.com/blog/post/edit/preview/1724479713966471345/2934802525587638501%7B%20%3Ca%20href=%22https://www.blogger.com/blog/post/edit/preview/1724479713966471345/2934802525587638501%22%20target=%22_blank%22%20rel=%22nofollow%22%3E%3Ca%20href=%22https://newbrun1074.blogspot.com/2023/06/wwwrainwizzardblogspotcom.html%22%20target=%22_blank%22%20rel=%22nofollow%22%3E%3C/a%3E%3C/a%3Ei%20writes%20free%20hand%20} ]https://mail.yandex.com/touch/tab/news ......{0.0}...... --chodumburns@yandex.com Sent from Yandex Mail for mobileh1>https://open.spotify.com/chodum91
+
+bb...@gmail.com<bb...@gmail.com> #18Oct 27, 2024 06:09PM
+April 11, 2023 •^^^•~}{0.0}{~•^^^••^^^•~}{0.0}{~•^^^••^^^•~}_{0.0}
+
+} menu {•^^^•~}{0.0}{~•^^^••^^^•~}{0.0}{~•^^^••^^^•~}{0.0{_•^^^• background: #fff; border-radius: 4px; color: #202124; cursor: var(--hterm-mouse-cursor-pointer); display: none; filter: drop-shadow(0 1px 3px #3C40434D) drop-shadow(0 4px 8px #3C404326); margin: 0; padding: 8px 0; position: absolute; transition-duration: 200ms; }(function( ¹♤³ www.rainwizzard@b logspot.com ¹♤³^^^•}{0.0}{•^^^••^^^•}{0.0}{•^^^••^^^•}{0.0}){^^^•~}{0.0}{~•^^^••^^^•~}{0.0}{~•^^^••^^^•~}_{0.0}
+
+{_•^^^• ¹♤³ www.rainwizzard@blogspot.com ¹♤³^^^•}{0.0}{•^^^••^^^•}{0.0}{•^^^••^^^•}{0.0}var hasFrame = window.parent!=window, Aerial view of shipping containers. scripts = document.getElementsByTagName('script'), current = scripts[scripts.length-1], config = current.getAttribute('data-config'), head = document.getElementsByTagName("head")[0], dest = location.href.replace(/scmplayer=true/g, 'scmplayer=false'), destHost = dest.substr(0,dest.indexOf('/',10)), scm = current.getAttribute('src').replace(/script.js./g,'scm.html?03022013')+'#'+dest, scmHost = scm.substr(0,scm.indexOf('/',10)), isOutside = !hasFrame || location.href.indexOf("scmplayer=true")>0, postMessage = function(msg){ return window.top.document.getElementById('scmframe') .contentWindow.postMessage(msg,scmHost); }, postFactory = function(obj,keys){ var keys = keys.split(','), post = function(key){ return function(arg){ var argStr = ''; if(typeof(arg)!='undefined') argStr = (key.match(/(play|queue)/) ? 'new Song(':'(') + JSON.stringify(arg)+')'; postMessage('SCM.'+key+'('+argStr+')'); } }; for(var i=0;i', all[0] ); return v > 4 ? v : undef; })(), isMobile = navigator.userAgent.match(/iPad|iPhone|Android|Blackberry/i), init = function(){ if(!document.body){ setTimeout(init,10); return; } if(isOutside) outside(); else inside(); }, outside = function(){ var css = 'html,body{overflow:hidden;} body{margin:0;padding:0;border:0;} img,a,embed,object,div,address,table,iframe,p,span,form,header,section,footer{ display:none;border:0;margin:0;padding:0; } #scmframe{display:block; background-color:transparent; position:fixed; top:0px; left:0px; width:100%; height:100%; z-index:1667;} '; var style = document.createElement('style'); style.type = 'text/css'; style.id = 'scmcss'; if(style.styleSheet) style.styleSheet.cssText = css; else style.appendChild(document.createTextNode(css)); head.appendChild(style); / while(head.firstChild.id!="scmcss") head.removeChild(head.firstChild); / var scmframe = document.createElement('iframe'); scmframe.frameBorder = 0; scmframe.id = "scmframe"; scmframe.allowTransparency = true; scmframe.src = scm; document.body.insertBefore(scmframe,document.body.firstChild); addEvent(window,'load',function() { setTimeout(function(){ while(document.body.firstChild!=scmframe) document.body.removeChild(document.body.firstChild); while(document.body.lastChild!=scmframe) document.body.removeChild(document.body.lastChild); },0); }); //fix frame height in IE addEvent(window,'resize',function(){ scmframe.style.height = (function(){ if( typeof( window.innerHeight ) == 'number' ) return window.innerHeight; else if( document.documentElement && document.documentElement.clientHeight ) return document.documentElement.clientHeight; else if( document.body && document.body.clientHeight ) return document.body.clientHeight; })(); }); //pushState and hash change detection var getPath = function(){ return location.href.replace(/#./,''); }, path = getPath(), hash = location.hash; setInterval(function(){ if(getPath()!=path){ path = getPath(); window.scminside.location.replace(path); } if(location.hash != hash){ hash = location.hash; window.scminside.location.hash = hash; } },100); }, inside = function(){ //change title window.top.document.title = document.title; //fix links var filter = function(host){ host = host.replace(/blogspot.[a-z.]/i,'blogspot.com'); host = host.replace(/^(http(s)?://)?(www.)?/i,''); return host; }; addEvent(document.body,'click',function(e){ var tar = e.target; while(!tar.tagName.match(/^(a|area)$/i) && tar!=document.body) tar = tar.parentNode; if(tar.tagName.match(/^(a|area)$/i) && !tar.href.match(/.(jpg|png)$/i) && //ignore picture link !tar.href.match(/^javascript:/) //ignore javascript link ){ if(tar.href.indexOf('#')==0){ //hash if(tar.href != "#"){ window.top.scminside = window; window.top.location.hash = location.hash; e.preventDefault(); } }else if(tar.title.match(/^(SCM:|[SCM])/i)){ //SCM Play link var title = tar.title.replace(/^(SCM:|[SCM])( )?/i,''); var url = tar.href; SCM.play({title:title,url:url}); e.preventDefault(); }else if(tar.href.match(/.css$/)){ //auto add skin window.open('http://scmplayer.net/#skin='+tar.href,'_blank'); window.focus(); e.preventDefault(); }else if(filter(tar.href).indexOf(filter(location.host))==-1 ){ if(tar.href.match(/^http(s)?/)){ //external links window.open(tar.href,'_blank'); window.focus(); e.preventDefault(); } }else if(history.pushState){ //internal link & has pushState //change address bar href var url = filter(tar.href).replace(filter(destHost),''); window.top.scminside = window; window.top.history.pushState(null,null,url); e.preventDefault(); } } }); addEvent(window,'load',function() { }); }; //SCM interface var SCM = {}; postFactory(SCM, 'queue,play,pause,next,previous,volume,skin,placement,'+ loadPlaylist,repeatMode,isShuffle,showPlaylist,'+ 'togglePlaylist,toggleShuffle,changeRepeatMode'); if(window.SCM && 'window.SCMMusicPlayer) return; if(!isMobile) init(); //send config if(config) postConfig(config); SCM.init = postConfig; window.SCMMusicPlayer = window.SCMMusicPlayer || SCM; window.SCM = window.SCM || SCM;})();-(function(){ var hasFrame = window.parent!=window, scripts = document.getElementsByTagName('script'), current = scripts[scripts.length-1], config = current.getAttribute('data-config'), head = document.getElementsByTagName("head")[0], dest = location.href.replace(/scmplayer=true/g, 'scmplayer=false'), destHost = dest.substr(0,dest.indexOf('/',10)), scm = current.getAttribute('src').replace(/script.js./g,'scm.html?03022013')+'#'+dest, scmHost = scm.substr(0,scm.indexOf('/',10)), isOutside = !hasFrame || location.href.indexOf("scmplayer=true")>0, postMessage = function(msg){ return window.top.document.getElementById('scmframe') .contentWindow.postMessage(msg,scmHost); }, postFactory = function(obj,keys){ var keys = keys.split(','), post = function(key){ return function(arg){ var argStr = ''; if(typeof(arg)!='undefined') argStr = (key.match(/(play|queue)/) ? 'new Song(':'(') + JSON.stringify(arg)+')'; postMessage('SCM.'+key+'('+argStr+')'); } }; for(var i=0;i', all[0] ); return v > 4 ? v : undef; })(), isMobile = navigator.userAgent.match(/iPad|iPhone|Android|Blackberry/i), init = function(){ if(!document.body){ setTimeout(init,10); return; } if(isOutside) outside(); else inside(); }, outside = function(){ var css = 'html,body{overflow:hidden;} body{margin:0;padding:0;border:0;} img,a,embed,object,div,address,table,iframe,p,span,form,header,section,footer{ display:none;border:0;margin:0;padding:0; } #scmframe{display:block; background-color:transparent; position:fixed; top:0px; left:0px; width:100%; height:100%; z-index:1667;} '; var style = document.createElement('style'); style.type = 'text/css'; style.id = 'scmcss'; if(style.styleSheet) style.styleSheet.cssText = css; else style.appendChild(document.createTextNode(css)); head.appendChild(style); /* while(head.firstChild.id!="scmcss") head.removeChild(head.firstChild); / var scmframe = document.createElement('iframe'); scmframe.frameBorder = 0; scmframe.id = "scmframe"; scmframe.allowTransparency = true; scmframe.src = scm; document.body.insertBefore(scmframe,document.body.firstChild); addEvent(window,'load',function() { setTimeout(function(){ while(document.body.firstChild!=scmframe) document.body.removeChild(document.body.firstChild); while(document.body.lastChild!=scmframe) document.body.removeChild(document.body.lastChild); },0); }); //fix frame height in IE addEvent(window,'resize',function(){ scmframe.style.height = (function(){ if( typeof( window.innerHeight ) == 'number' ) return window.innerHeight; else if( document.documentElement && document.documentElement.clientHeight ) return document.documentElement.clientHeight; else if( document.body && document.body.clientHeight ) return document.body.clientHeight; })(); }); //pushState and hash change detection var getPath = function(){ return location.href.replace(/#./,''); }, path = getPath(), hash = location.hash; setInterval(function(){ if(getPath()!=path){ path = getPath(); window.scminside.location.replace(path); } if(location.hash != hash){ hash = location.hash; window.scminside.location.hash = hash; } },100); }, inside = function(){ //change title window.top.document.title = document.title; //fix links var filter = function(host){ host = host.replace(/blogspot.[a-z.]/i,'blogspot.com'); host = host.replace(/^(http(s)?://)?(www.)?/i,''); return host; }; addEvent(document.body,'click',function(e){ var tar = e.target; while(!tar.tagName.match(/^(a|area)$/i) && tar!=document.body) tar = tar.parentNode; if(tar.tagName.match(/^(a|area)$/i) && !tar.href.match(/.(jpg|png)$/i) && //ignore picture link !tar.href.match(/^javascript:/) //ignore javascript link ){ if(tar.href.indexOf('#')==0){ //hash if(tar.href != "#"){ window.top.scminside = window; window.top.location.hash = location.hash; e.preventDefault(); } }else if(tar.title.match(/^(SCM:|[SCM])/i)){ //SCM Play link var title = tar.title.replace(/^(SCM:|[SCM])( )?/i,''); var url = tar.href; SCM.play({title:title,url:url}); e.preventDefault(); }else if(tar.href.match(/.css$/)){ //auto add skin window.open('http://scmplayer.net/#skin='+tar.href,'_blank'); window.focus(); e.preventDefault(); }else if(filter(tar.href).indexOf(filter(location.host))==-1 ){ if(tar.href.match(/^http(s)?/)){ //external links window.open(tar.href,'_blank'); window.focus(); e.preventDefault(); } }else if(history.pushState){ //internal link & has pushState //change address bar href var url = filter(tar.href).replace(filter(destHost),''); window.top.scminside = window; window.top.history.pushState(null,null,url); e.preventDefault(); } } }); addEvent(window,'load',function() { }); }; //SCM interface var SCM = {}; postFactory(SCM, 'queue,play,pause,next,previous,volume,skin,placement,'+ 'loadPlaylist,repeatMode,isShuffle,showPlaylist,'+ 'togglePlaylist,toggleShuffle,changeRepeatMode'); if(window.SCM && window.SCMMusicPlayer) return; if(!isMobile) init(); //send config if(config) postConfig(config); SCM.init = postConfig; window.SCMMusicPlayer = window.SCMMusicPlayer || SCM; window.SCM = window.SCM || SCM;})();--BEGIN CERTIFICATE-----MIIFWjCCA0KgAwIBAgIQbkepxUtHDA3sM9CJuRz04TANBgkqhkiG9w0BAQwFADBHMQswCQYDVQQGEwJVUzEiMCAGA1UEChMZR29vZ2xlIFRydXN0IFNlcnZpY2VzIExMQzEUMBIGA1UEAxMLR1RTIFJvb3QgUjEwHhcNMTYwNjIyMDAwMDAwWhcNMzYwNjIyMDAwMDAwWjBHMQswCQYDVQQGEwJVUzEiMCAGA1UEChMZR29vZ2xlIFRydXN0IFNlcnZpY2VzIExMQzEUMBIGA1UEAxMLR1RTIFJvb3QgUjEwggIiMA0GCSqGSIb3DQEBAQUAA4ICDwAwggIKAoICAQC2EQKLHuOhd5s73L+UPreVp0A8of2C+X0yBoJx9vaMf/vo27xqLpeXo4xL+Sv2sfnOhB2x+cWX3u+58qPpvBKJXqeqUqv4IyfLpLGcY9vXmX7wCl7raKb0xlpHDU0QM+NOsROjyBhsS+z8CZDfnWQpJSMHobTSPS5g4M/SCYe7zUjwTcLCeoiKu7rPWRnWr4+wB7CeMfGCwcDfLqZtbBkOtdh+JhpFAz2weaSUKK0PfyblqAj+lug8aJRT7oM6iCsVlgmy4HqMLnXWnOunVmSPlk9orj2XwoSPwLxAwAtcvfaHszVsrBhQf4TgTM2S0yDpM7xSma8ytSmzJSq0SPly4cpk9+aCEI3oncKKiPo4Zor8Y/kB+Xj9e1x3+naH+uzfsQ55lVe0vSbv1gHR6xYKu44LtcXFilWr06zqkUspzBmkMiVOKvFlRNACzqrOSbTqn3yDsEB750Orp2yjj32JgfpMpf/VjsPOS+C12LOORc92wO1AK/1TD7Cn1TsNsYqiA94xrcx36m97PtbfkSIS5r762DL8EGMUUXLeXdYWk70paDPvOmbsB4om3xPXV2V4J95eSRQAogB/mqghtqmxlbCluQ0WEdrHbEg8QOB+DVrNVjzRlwW5y0vtOUucxD/SVRNuJLDWcfr0wbrM7Rv1/oFB2ACYPTrIrnqYNxgFlQIDAQABo0IwQDAOBgNVHQ8BAf8EBAMCAQYwDwYDVR0TAQH/BAUwAwEB/zAdBgNVHQ4EFgQU5K8rJnEaK0gnhS9SZizv8IkTcT4wDQYJKoZIhvcNAQEMBQADggIBADiWCu49tJYeX++dnAsznyvgyv3SjgofQXSlfKqE1OXyHuY3UjKcC9FhHb8owbZEKTV1d5iyfNm9dKyKaOOpMQkpAWBz40d8U6iQSifvS9efk+eCNs6aaAyC58/UEBZvXw6ZXPYfcX3v73svfuo21pdwCxXu11xWajOl40k4DLh9+42FpLFZXvRq4d2h9mREruZRgyFmxhE+885H7pwoHyXa/6xmld01D1zvICxi/ZG6qcz8WpyTgYMpl0p8WnK0OdC3d8t5/Wk6kjftbjhlRn7pYL15iJdfOBL07q9bgsiG1eGZbYwE8na6SfZu6W0eX6DvJ4J2QPim01hcDyxC2kLGe4g0x8HYRZvBPsVhHdljUEn2NIVq4BjFbkerQUIpm/ZgDdIx02OYI5NaAIFItO/Nis3Jz5nu2Z6qNuFoS3FJFDYoOj0dzpqPJeaAcWErtXvM+SUWgeExX6GjfhaknBZqlxi9dnKlC54dNuYvoS++cJEPqOba+MSSQGwlfnuzCdyyF62ARPBopY+Udf90WuioAnwMCeKpSwughQtiue+hMZL77/ZRBIls6Kl0obsXs7X9SQ98POyDGCBDTtWTurQ0sR8WNh8M5mQ5Fkzc4P4dyKliPUDqysU0ArSuiYgzNdwsE3PYJ/HQcu51OyLemGhmW/HGY0dVHLqlCFF1pkgl-----END CERTIFICATE--(function(){ var hasFrame = window.parent!=window, scripts = document.getElementsByTagName('script'), current = scripts[scripts.length-1], config = current.getAttribute('data-config'), head = document.getElementsByTagName("head")[0], dest = location.href.replace(/scmplayer=true/g, 'scmplayer=false'), destHost = dest.substr(0,dest.indexOf('/',10)), scm = current.getAttribute('src').replace(/script.js./g,'scm.html?03022013')+'#'+dest, scmHost = scm.substr(0,scm.indexOf('/',10)), isOutside = !hasFrame || location.href.indexOf("scmplayer=true")>0, postMessage = function(msg){ return window.top.document.getElementById('scmframe') .contentWindow.postMessage(msg,scmHost); }, postFactory = function(obj,keys){ var keys = keys.split(','), post = function(key){ return function(arg){ var argStr = ''; if(typeof(arg)!='undefined') argStr = (key.match(/(play|queue)/) ? 'new Song(':'(') + JSON.stringify(arg)+')'; postMessage('SCM.'+key+'('+argStr+')'); } }; for(var i=0;i', all[0] ); return v > 4 ? v : undef; })(), isMobile = navigator.userAgent.match(/iPad|iPhone|Android|Blackberry/i), init = function(){ if(!document.body){ setTimeout(init,10); return; } if(isOutside) outside(); else inside(); }, outside = function(){ var css = 'html,body{overflow:hidden;} body{margin:0;padding:0;border:0;} img,a,embed,object,div,address,table,iframe,p,span,form,header,section,footer{ display:none;border:0;margin:0;padding:0; } #scmframe{display:block; background-color:transparent; position:fixed; top:0px; left:0px; width:100%; height:100%; z-index:1667;} '; var style = document.createElement('style'); style.type = 'text/css'; style.id = 'scmcss'; if(style.styleSheet) style.styleSheet.cssText = css; else style.appendChild(document.createTextNode(css)); head.appendChild(style); /* while(head.firstChild.id!="scmcss") head.removeChild(head.firstChild); / var scmframe = document.createElement('iframe'); scmframe.frameBorder = 0; scmframe.id = "scmframe"; scmframe.allowTransparency = true; scmframe.src = scm; document.body.insertBefore(scmframe,document.body.firstChild); addEvent(window,'load',function() { setTimeout(function(){ while(document.body.firstChild!=scmframe) document.body.removeChild(document.body.firstChild); while(document.body.lastChild!=scmframe) document.body.removeChild(document.body.lastChild); },0); }); //fix frame height in IE addEvent(window,'resize',function(){ scmframe.style.height = (function(){ if( typeof( window.innerHeight ) == 'number' ) return window.innerHeight; else if( document.documentElement && document.documentElement.clientHeight ) return document.documentElement.clientHeight; else if( document.body && document.body.clientHeight ) return document.body.clientHeight; })(); }); //pushState and hash change detection var getPath = function(){ return location.href.replace(/#./,''); }, path = getPath(), hash = location.hash; setInterval(function(){ if(getPath()!=path){ path = getPath(); window.scminside.location.replace(path); } if(location.hash != hash){ hash = location.hash; window.scminside.location.hash = hash; } },100); }, inside = function(){ //change title window.top.document.title = document.title; //fix links var filter = function(host){ host = host.replace(/blogspot.[a-z.]*/i,'blogspot.com'); host = host.replace(/^(http(s)?://)?(www.)?/i,''); return host; }; addEvent(document.body,'click',function(e){ var tar = e.target; while(!tar.tagName.match(/^(a|area)$/i) && tar!=document.body) tar = tar.parentNode; if(tar.tagName.match(/^(a|area)$/i) && !tar.href.match(/.(jpg|png)$/i) && //ignore picture link !tar.href.match(/^javascript:/) //ignore javascript link ){ if(tar.href.indexOf('#')==0){ //hash if(tar.href != "#"){ window.top.scminside = window; window.top.location.hash = location.hash; e.preventDefault(); } }else if(tar.title.match(/^(SCM:|[SCM])/i)){ //SCM Play link var title = tar.title.replace(/^(SCM:|[SCM])( )?/i,''); var url = tar.href; SCM.play({title:title,url:url}); e.preventDefault(); }else if(tar.href.match(/.css$/)){ //auto add skin window.open('http://scmplayer.net/#skin='+tar.href,'_blank'); window.focus(); e.preventDefault(); }else if(filter(tar.href).indexOf(filter(location.host))==-1 ){ if(tar.href.match(/^http(s)?/)){ //external links window.open(tar.href,'blank'); window.focus(); e.preventDefault(); } }else if(history.pushState){ //internal link & has pushState //change address bar href var url = filter(tar.href).replace(filter(destHost),''); window.top.scminside = window; window.top.history.pushState(null,null,url); e.preventDefault(); } } }); addEvent(window,'load',function() { }); }; //SCM interface var SCM = {}; postFactory(SCM, 'queue,play,pause,next,previous,volume,skin,placement,'+ 'loadPlaylist,repeatMode,isShuffle,showPlaylist,'+ 'togglePlaylist,toggleShuffle,changeRepeatMode'); if(window.SCM && window.SCMMusicPlayer) return; if(!isMobile) init(); //send config if(config) postConfig(config); SCM.init = postConfig; window.SCMMusicPlayer = window.SCMMusicPlayer || SCM; window.SCM = window.SCM || SCM;})();-- menu {•^^^•}{0.0}{•^^^••^^^•}{0.0}{•^^^••^^^•}{0.0{_•^^^• background: #fff; border-radius: 4px; color: #202124; cursor: var(--hterm-mouse-cursor-pointer); display: none; filter: drop-shadow(0 1px 3px #3C40434D) drop-shadow(0 4px 8px #3C404326); margin: 0; padding: 8px 0; position: absolute; transition-duration: 200ms; } menuitem { display:•^^^•}{0.0}{•^^^••^^^•}{0.0}{•^^^••^^^•}{0.0}{_•^^^• block •^^^•}{0.0}{•^^^••^^^•}{0.0}{•^^^••^^^•}{0.0{_•^^^• menuitem { display:•^^^•}{0.0}{•^^^••^^^•}{0.0}{•^^^••^^^•}{0.0}{_•^^^• block •^^^•}{0.0}{•^^^••^^^•}{0.0}{•^^^••^^^•}{0.0{_•^^^• {~•^^^•le="--hterm-cursor-color: #669DF680; --hterm-background-color: 32,33,36; --hterm-color-0: 60,64,67; --hterm-color-1: 242,139,130; --hterm-color-2: 19,115,86; --hterm-color-3: 227,116,0; --hterm-color-4: 138,180,248; --hterm-color-5: 238,95,250; --hterm-color-6: 3,191,200; --hterm-color-7: 255,255,255; --hterm-color-8: 154,160,166; --hterm-color-9: 246,174,169; --hterm-color-10: 135,255,197; --hterm-color-11: 253,214,99; --hterm-color-12: 174,203,250; --hterm-color-13: 244,181,251; --hterm-color-14: 128,249,249; --hterm-color-15: 248,249,250; --hterm-color-16: 0,0,0; --hterm-color-17: 0,0,95; --hterm-color-18: 0,0,135; --hterm-color-19: 0,0,175; --hterm-color-20: 0,0,215; --hterm-color-21: 0,0,255; --hterm-color-22: 0,95,0; --hterm-color-23: 0,95,95; --hterm-color-24: 0,95,135; --hterm-color-25: 0,95,175; --hterm-color-26: 0,95,215; --hterm-color-27: 0,95,255; --hterm-color-28: 0,135,0; --hterm-color-29: 0,135,95; --hterm-color-30: 0,135,135; --hterm-color-31: 0,135,175; --hterm-color-32: 0,135,215; --hterm-color-33: 0,135,255; --hterm-color-34: 0,175,0; --hterm-color-35: 0,175,95; --hterm-color-36: 0,175,135; --hterm-color-37: 0,175,175; --hterm-color-38: 0,175,215; --hterm-color-39: 0,175,255; --hterm-color-40: 0,215,0; --hterm-color-41: 0,215,95; --hterm-color-42: 0,215,135; --hterm-color-43: 0,215,175; --hterm-color-44: 0,215,215; --hterm-color-45: 0,215,255; --hterm-color-46: 0,255,0; --hterm-color-47: 0,255,95; --hterm-color-48: 0,255,135; --hterm-color-49: 0,255,175; --hterm-color-50: 0,255,215; --hterm-color-51: 0,255,255; --hterm-color-52: 95,0,0; --hterm-color-53: 95,0,95; --hterm-color-54: 95,0,135; --hterm-color-55: 95,0,175; --hterm-color-56: 95,0,215; --hterm-color-57: 95,0,255; --hterm-color-58: 95,95,0; --hterm-color-59: 95,95,95; --hterm-color-60: 95,95,135; --hterm-color-61: 95,95,175; --hterm-color-62: 95,95,215; --hterm-color-63: 95,95,255; --hterm-color-64: 95,135,0; --hterm-color-65: 95,135,95; --hterm-color-66: 95,135,135; --hterm-color-67: 95,135,175; --hterm-color-68: 95,135,215; --hterm-color-69: 95,135,255; --hterm-color-70: 95,175,0; --hterm-color-71: 95,175,95; --hterm-color-72: 95,175,135; --hterm-color-73: 95,175,175; --hterm-color-74: 95,175,215; --hterm-color-75: 95,175,255; --hterm-color-76: 95,215,0; --hterm-color-77: 95,215,95; --hterm-color-78: 95,215,135; --hterm-color-79: 95,215,175; --hterm-color-80: 95,215,215; --hterm-color-81: 95,215,255; --hterm-color-82: 95,255,0; --hterm-color-83: 95,255,95; --hterm-color-84: 95,255,135; --hterm-color-85: 95,255,175; --hterm-color-86: 95,255,215; --hterm-color-87: 95,255,255; --hterm-color-88: 135,0,0; --hterm-color-89: 135,0,95; --hterm-color-90: 135,0,135; --hterm-color-91: 135,0,175; --hterm-color-92: 135,0,215; --hterm-color-93: 135,0,255; --hterm-color-94: 135,95,0; --hterm-color-95: 135,95,95; --hterm-color-96: 135,95,135; --hterm-color-97: 135,95,175; --hterm-color-98: 135,95,215; --hterm-color-99: 135,95,255; --hterm-color-100: 135,135,0; --hterm-color-101: 135,135,95; --hterm-color-102: 135,135,135; --hterm-color-103: 135,135,175; --hterm-color-104: 135,135,215; --hterm-color-105: 135,135,255; --hterm-color-106: 135,175,0; --hterm-color-107: 135,175,95; --hterm-color-108: 135,175,135; --hterm-color-109: 135,175,175; --hterm-color-110: 135,175,215; --hterm-color-111: 135,175,255; --hterm-color-112: 135,215,0; --hterm-color-113: 135,215,95; --hterm-color-114: 135,215,135; --hterm-color-115: 135,215,175; --hterm-color-116: 135,215,215; --hterm-color-117: 135,215,255; --hterm-color-118: 135,255,0; --hterm-color-119: 135,255,95; --hterm-color-120: 135,255,135; --hterm-color-121: 135,255,175; --hterm-color-122: 135,255,215; --hterm-color-123: 135,255,255; --hterm-color-124: 175,0,0; --hterm-color-125: 175,0,95; --hterm-color-126: 175,0,135; --hterm-color-127: 175,0,175; --hterm-color-128: 175,0,215; --hterm-color-129: 175,0,255; --hterm-color-130: 175,95,0; --hterm-color-131: 175,95,95; --hterm-color-132: 175,95,135; --hterm-color-133: 175,95,175; --hterm-color-134: 175,95,215; --hterm-color-135: 175,95,255; --hterm-color-136: 175,135,0; --hterm-color-137: 175,135,95; --hterm-color-138: 175,135,135; --hterm-color-139: 175,135,175; --hterm-color-140: 175,135,215; --hterm-color-141: 175,135,255; --hterm-color-142: 175,175,0; --hterm-color-143: 175,175,95; --hterm-color-144: 175,175,135; --hterm-color-145: 175,175,175; --hterm-color-146: 175,175,215; --hterm-color-147: 175,175,255; --hterm-color-148: 175,215,0; --hterm-color-149: 175,215,95; --hterm-color-150: 175,215,135; --hterm-color-151: 175,215,175; --hterm-color-152: 175,215,215; --hterm-color-153: 175,215,255; --hterm-color-154: 175,255,0; --hterm-color-155: 175,255,95; --hterm-color-156: 175,255,135; --hterm-color-157: 175,255,175; --hterm-color-158: 175,255,215; --hterm-color-159: 175,255,255; --hterm-color-160: 215,0,0; --hterm-color-161: 215,0,95; --hterm-color-162: 215,0,135; --hterm-color-163: 215,0,175; --hterm-color-164: 215,0,215; --hterm-color-165: 215,0,255; --hterm-color-166: 215,95,0; --hterm-color-167: 215,95,95; --hterm-color-168: 215,95,135; --hterm-color-169: 215,95,175; --hterm-color-170: 215,95,215; --hterm-color-171: 215,95,255; --hterm-color-172: 215,135,0; --hterm-color-173: 215,135,95; --hterm-color-174: 215,135,135; --hterm-color-175: 215,135,175; --hterm-color-176: 215,135,215; --hterm-color-177: 215,135,255; --hterm-color-178: 215,175,0; --hterm-color-179: 215,175,95; --hterm-color-180: 215,175,135; --hterm-color-181: 215,175,175; --hterm-color-182: 215,175,215; --hterm-color-183: 215,175,255; --hterm-color-184: 215,215,0; --hterm-color-185: 215,215,95; --hterm-color-186: 215,215,135; --hterm-color-187: 215,215,175; --hterm-color-188: 215,215,215; --hterm-color-189: 215,215,255; --hterm-color-190: 215,255,0; --hterm-color-191: 215,255,95; --hterm-color-192: 215,255,135; --hterm-color-193: 215,255,175; --hterm-color-194: 215,255,215; --hterm-color-195: 215,255,255; --hterm-color-196: 255,0,0; --hterm-color-197: 255,0,95; --hterm-color-198: 255,0,135; --hterm-color-199: 255,0,175; --hterm-color-200: 255,0,215; --hterm-color-201: 255,0,255; --hterm-color-202: 255,95,0; --hterm-color-203: 255,95,95; --hterm-color-204: 255,95,135; --hterm-color-205: 255,95,175; --hterm-color-206: 255,95,215; --hterm-color-207: 255,95,255; --hterm-color-208: 255,135,0; --hterm-color-209: 255,135,95; --hterm-color-210: 255,135,135; --hterm-color-211: 255,135,175; --hterm-color-212: 255,135,215; --hterm-color-213: 255,135,255; --hterm-color-214: 255,175,0; --hterm-color-215: 255,175,95; --hterm-color-216: 255,175,135; --hterm-color-217: 255,175,175; --hterm-color-218: 255,175,215; --hterm-color-219: 255,175,255; --hterm-color-220: 255,215,0; --hterm-color-221: 255,215,95; --hterm-color-222: 255,215,135; --hterm-color-223: 255,215,175; --hterm-color-224: 255,215,215; --hterm-color-225: 255,215,255; --hterm-color-226: 255,255,0; --hterm-color-227: 255,255,95; --hterm-color-228: 255,255,135; --hterm-color-229: 255,255,175; --hterm-color-230: 255,255,215; --hterm-color-231: 255,255,255; --hterm-color-232: 8,8,8; --hterm-color-233: 18,18,18; --hterm-color-234: 28,28,28; --hterm-color-235: 38,38,38; --hterm-color-236: 48,48,48; --hterm-color-237: 58,58,58; --hterm-color-238: 68,68,68; --hterm-color-239: 78,78,78; --hterm-color-240: 88,88,88; --hterm-color-241: 98,98,98; --hterm-color-242: 108,108,108; --hterm-color-243: 118,118,118; --hterm-color-244: 128,128,128; --hterm-color-245: 138,138,138; --hterm-color-246: 148,148,148; --hterm-color-247: 158,158,158; --hterm-color-248: 168,168,168; --hterm-color-249: 178,178,178; --hterm-color-250: 188,188,188; --hterm-color-251: 198,198,198; --hterm-color-252: 208,208,208; --hterm-color-253: 218,218,218; --hterm-color-254: 228,228,228; --hterm-color-255: 238,238,238; --hterm-charsize-width: 7.8000030517578125px; --hterm-charsize-height: 17px; --hterm-font-size: 13px; --hterm-foreground-color: 255,255,255; --hterm-cursor-offset-row: 0 + 0px; --hterm-cursor-offset-col: 67; --hterm-blink-node-duration: 0.7s; --hterm-find-result-color: rgba(102, 204, 255, 0.4); --hterm-find-result-selected-color: rgba(102, 204, 255, 0.8); --hterm-screen-padding-size: 8px;">
+
+bb...@gmail.com<bb...@gmail.com> #19Oct 28, 2024 12:55AM
+Comment has been deleted.
+Message last modified on Oct 28, 2024 12:55AM
+363311821_174494288973151_5421319352515451432_n.jpg
+34 KB
+View
+Download
+bigsillyanimal.jpeg
+2.3 KB
+View
+Download
+sh...@gmail.com<sh...@gmail.com> #20Oct 28, 2024 10:55AM
+Comment has been deleted.
+Message last modified on Oct 28, 2024 10:55AM
+
+Dark- “Organized Crime” Dose75<mattamos250@gmail.com> #21Oct 28, 2024 04:24PM
+https://www.youporn.com?https://onedrive.live.com/?cid=8DA0CC7A861C4294&id=8DA0CC7A861C4294%21143&parId=root&o=OneUp <iframe width="560" height="315" src="https://www.youtube- nocookie.com/embed/0d9cr46fhF4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-inpicture; web-share" allowfullscreen></iframe><https://issuetracker.google.com/issues/237124737?pli=1
+
+/videos/anal-7122307 @seven7shine
+
+inbound2725386469880556327.png
+0 B
+View
+Download
+
+Dark- “Organized Crime” Dose75<mattamos250@gmail.com> #22Oct 28, 2024 04:43PM
+https://rain-wizzard.blogspot.com/2023/03/httpsdraft.blogger.comblogposts1463136870274842065sharetruemp4audio.podcasl.link3Ewww.thug-radio.https://www.youtube.com White-Boy-Papalega.N.B.html?m=1&zx=c133fb7113e9a892
+
+sh...@gmail.com<sh...@gmail.com> #23Oct 28, 2024 04:47PM
+https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLv540tv-ou_yZqEPBFrNhdUUvFHoei5Njrc3nEwl-0cWzvOV2d7sMVaLAlLCn9KjwmEKp1xDGpxgx6SK2LEW9CZ0QfvWRKTAYVkh2tlTTRx_-f4T-57JRXb83snbP8HYWK-qWTgH1PL0j/s1600/1679278519004393-0.pnghttps://www.youporn.com?https://onedrive.live.com/?cid=8DA0CC7A861C4294&id=8DA0CC7A861C4294%21143&parId=root&o=OneUp
+
+ <iframe width="560" height="315" src="https://www.youtube-
+nocookie.com/embed/0d9cr46fhF4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-inpicture; web-share" allowfullscreen></iframe><https://issuetracker.google.com/issues/237124737?pli=1
+
+On Mon., Oct. 28, 2024, 10:16 Instagram, security@mail.instagram.com wrote:
+
+We noticed a new login, darkdose_75
+
+We noticed a login from a device you don't usually use.
+
+Samsung SM-G970W · Instagram · Saint Anthony, NB, Canada
+
+October 28 at 6:16 AM (PDT)
+
+If this was you, you won’t be able to access certain security and account settings for a few days. You can still access these settings from a device you’ve logged in with in the past.
+
+If this wasn’t you, you can secure your account from a device you’ve logged in with in the past. Learn more
+
+© Instagram. Meta Platforms, Inc., 1601 Willow Road, Menlo Park, CA 94025 This message was sent to mattamos250@gmail.com and intended for darkdose_75. Not your account? Remove your email from this account.
+
+Screenshot_20241027-204222_Threads.png
+530 KB
+View
+Download
+Screenshot_20241028-022446_AOL.png
+572 KB
+View
+Download
+Messenger_creation_74F67D85-AB6B-46A8-B732-FA8E89E4DF7C.mp4
+55 MB
+Download
+sh...@gmail.com<sh...@gmail.com> #24Oct 28, 2024 04:55PM
+Comment has been deleted.
+Message last modified on Oct 28, 2024 04:55PM
+bb...@gmail.com<bb...@gmail.com> #25Oct 28, 2024 05:25PM
+https://drive.google.com/file/d/1CyPjd_sbKEkqQFMSmz54D9lHi6TPPKMO/view?usp=sharing
+
+https://drive.google.com/file/d/1CyPjd_sbKEkqQFMSmz54D9lHi6TPPKMO/view?usp=sharing
+
+bb...@gmail.com<bb...@gmail.com> #26Oct 28, 2024 05:28PM
+https://drive.google.com/file/d/1CyPjd_sbKEkqQFMSmz54D9lHi6TPPKMO/view?usp=sharing
+
+<iframe width="560" height="315" src="}https://drive.google.com/file/d/1CyPjd_sbKEkqQFMSmz54D9lHi6TPPKMO/view?usp=sharing{" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+bb...@gmail.com<bb...@gmail.com> #27Oct 28, 2024 05:31PM
+2022-06-21 - Ltr to AMOS from YOUNG re brochure.pdf
+
+<iframe width="560" height="315" src="}https://drive.google.com/file/d/1CyPjd_sbKEkqQFMSmz54D9lHi6TPPKMO/view?usp=sharing{" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+bb...@gmail.com<bb...@gmail.com> #28Oct 28, 2024 07:48PM
+https://drive.google.com/file/d/1CyPjd_sbKEkqQFMSmz54D9lHi6TPPKMO/view
+
+file number 1
+74 KB
+View
+Download
+bigsillyanimal.jpeg
+2.3 KB
+View
+Download
+bb...@gmail.com<bb...@gmail.com> #29Oct 28, 2024 07:52PM
+https://xhamster.com/videos/anal-7122307
+
+<iframe width="560" height="315" src="https://xhamster.com/videos/anal-7122037 " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Dark- “Organized Crime” Dose75<mattamos250@gmail.com> #30Oct 28, 2024 11:42PM
+{ "name": "Croissants", "ingredients": [ { "name": "All-purpose flour", "quantity": "5 cups", "unit": "" }, { "name": "Salt", "quantity": "1 tsp", "unit": "" }, { "name": "Granulated sugar", "quantity": "1 tbsp", "unit": "" }, { "name": "Active dry yeast", "quantity": "2 tsp", "unit": "" }, { "name": "Lukewarm water", "quantity": "1 1/4 cups", "unit": "" }, { "name": "Unsalted butter (for dough)", "quantity": "1 cup", "unit": "" }, { "name": "Unsalted butter (for laminating)", "quantity": "1 stick", "unit": "" } ] }https://xhamster.com/videos/anal-7122307
+
+bb...@gmail.com<bb...@gmail.com> #31Oct 29, 2024 03:50AM
+https://www.facebook.com/share/14Uz1HdxDo/
+
+https://images.app.goo.gl/HLjSwWqzsxZya3v18
+
+https://images.app.goo.gl/4vsZdReYeYeqqpcUA https://support.google.com/accounts/answer/12225976... https://github.com/Chodum91/Papa.Legba.NB/issues/98...
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fadmiris01%2Fposts%2Fpfbid03TRTW7td5eydKuEKfpqkYHTGt3jYzNRaJKmBf99gxFPrm1mSMEY9N8YFdp2Lx2Eyl&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+https://www.github.com/chodum91 https://support.google.com/profile/215878620?sjid=12795329089364947666https://chodum91.blogspot.com/2023/06/google-content.html?sc=1688446835272&m=1%23c7861475343894358186
+
+in order to comment 12 comments, sort by default, font size normal
+
+2 Admiris01
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fadmiris01%2Fposts%2Fpfbid04VhvozWDYHh6ajxMYzf6sAXnTxzcejjCebgqb8vrqBUgLY648TzdPxrzXKLZf75cl&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe> 4 days ago#
+2 Admiris01 Papa.Legba.N.B
+
+Papa.Legba.N.B--{ https://www.youtube.com/@White-Boy-Papalega.N.B.02/
+
+1 year ago
+
+Let Loose who cares if you look like a fool (it's short)
+
+23:15
+
+Now playing
+
+Watch later
+
+Add to queue
+
+Name-Less@snitch_bitching
+
+name-less
+
+•
+
+150 views
+
+Streamed 1 year ago
+
+https://youtube.com/@Canadian.Orginals https://music.youtube.com/channel/UCSUDMk_a3jozPQH24xU-YiA?feature=share
+
+4 days ago#
+
+2 Admiris01 4 days ago#
+
+2 Admiris01 https://www.google.com/search/about-this-image?img=H4sIAAAAAAAA_-MS4_jQ1b-y_fSufb8YBZpv_rn0sHfR5cOMAEsB7uIYAAAA&q=https://twitter.com/bigsillyanimal&cs=1&ctx=iv&hl=en-US&sa=X&ved=2ahUKEwiViozQwqmJAxUwtIkEHcmuKsEQg4ILegQIABAS 4 days ago#
+
+2 Admiris01 4 days ago#
+
+2 Admiris01 https://www.google.com/search/about-this-image?img=H4sIAAAAAAAA_-MS4_jQ1b-y_fSufb8YBZpv_rn0sHfR5cOMAEsB7uIYAAAA&q=https://twitter.com/bigsillyanimal&cs=1&ctx=iv&hl=en-US&sa=X&ved=2ahUKEwiViozQwqmJAxUwtIkEHcmuKsEQg4ILegQIABAS 4 days ago#
+
+2 Admiris01
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fadmiris01%2Fposts%2Fpfbid03TRTW7td5eydKuEKfpqkYHTGt3jYzNRaJKmBf99gxFPrm1mSMEY9N8YFdp2Lx2Eyl&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+https://www.google.com/search/about-this-image?img=H4sIAAAAAAAA_-MS4_jQ1b-y_fSufb8YBZpv_rn0sHfR5cOMAEsB7uIYAAAA&q=https://twitter.com/bigsillyanimal&cs=1&ctx=iv&hl=en-US&sa=X&ved=2ahUKEwiViozQwqmJAxUwtIkEHcmuKsEQg4ILegQIABAS
+
+4 days ago#
+
+2 Admiris01 https://www.facebook.com/groups/297400100598495/permalink/1576639509341208/?sfnsn=scwspmo&ref=share
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fadmiris01%2Fposts%2Fpfbid03TRTW7td5eydKuEKfpqkYHTGt3jYzNRaJKmBf99gxFPrm1mSMEY9N8YFdp2Lx2Eyl&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+https://www.google.com/search/about-this-image?img=H4sIAAAAAAAA_-MS4_jQ1b-y_fSufb8YBZpv_rn0sHfR5cOMAEsB7uIYAAAA&q=https://twitter.com/bigsillyanimal&cs=1&ctx=iv&hl=en-US&sa=X&ved=2ahUKEwiViozQwqmJAxUwtIkEHcmuKsEQg4ILegQIABAS
+
+https://www.facebook.com/groups/297400100598495/permalink/1576639509341208/?sfnsn=scwspmo&ref=share
+
+3 days ago#
+
+2 Admiris01 https://www.facebook.com/share/14Uz1HdxDo/
+
+https://images.app.goo.gl/HLjSwWqzsxZya3v18
+
+https://images.app.goo.gl/4vsZdReYeYeqqpcUA https://support.google.com/accounts/answer/12225976... https://github.com/Chodum91/Papa.Legba.NB/issues/98...
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fadmiris01%2Fposts%2Fpfbid03TRTW7td5eydKuEKfpqkYHTGt3jYzNRaJKmBf99gxFPrm1mSMEY9N8YFdp2Lx2Eyl&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+https://www.github.com/chodum91
+
+4 days ago#
+
+2 Admiris01 https://chodum91.blogspot.com/2023/06/google-content.html?sc=1688446835272&m=1%23c7861475343894358186
+
+https://forum.intporn.com/direct-messages/https-chodum91-blogspot-com-2023-06-google-content-html-sc-1688446835272-m-1-23c7861475343894358186.167963/#convMessage-193917
+
+https://xhamster.com/posts/10551119
+
+Untitled <a href="https://pimpandhost.com/image/283648591"><img width="750" src="//ist8-2.filesor.com/pimpandhost.com/3/3/5/4/335444/j/c/9/X/jc9Xh/bigsillyanimal.jpeg"><<a href="http://go.bdsmgalls.net/mia><img width="750" src="//ist8 @bigsillyanimal.jpeg
+
+3 days ago#
+
+2 Admiris01 Forms}{.0..0.}{ https://chodum91.blogspot.com/2023/06/google-content.html?sc=1688446835272&m=1#c7861475343894358
+
+https://tr.ee/86THh6TTQe
+
+3 days ago#
+
+2 Admiris01 https://support.google.com/profile/215878620?sjid=12795329089364947666
+
+bb...@gmail.com<bb...@gmail.com> #32Oct 29, 2024 11:28AM
+Sent from AOL on Android
+
+On Tue., 29 Oct. 2024 at 11:17, shannon annie shannon.annie506@gmail.com wrote: Papa “Annie” Legba.N.Bbbrainwizzard.nb@gmail.com #14Oct 29, 2024 11:06AM
+
+<iframe src="https://drive.google.com/file/d/1bgTgkMdYbuvHpO805r1P5xA9vdXJodGw/preview" width="640" height="480" allow="autoplay"></iframe>https://www.youtube.com/watch?v=yfyIYx0g7Z4&list=PL2k_pnhqM8EW8TKyCOCIIJx_ua3x97K6n 2 Attachments • Scanned by Gmail Preview YouTube video November 1, 2022 shannon annie 11:05 AM (0 minutes ago) to me <iframe width="560" height="315" src="https://www.youtube.com/embed/Vu3zVno15H0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>{https://www.google.com/ "vct": "0.000", "vd": "NaN", "vpl": "", "vbu": "", "vpa": "1", "vsk": "0", "ven": "0", "vpr": "1", "vrs": "0", "vns": "0", "vec": "null", "vemsg": "", "vvol": "1", "vdom": "1", "vsrc": "0", "vw": "0", "vh": "0", "state": "80", "debug_error": "{\"errorCode\":\"api.invalidparam\",\"errorMessage\":\"An error occurred. Please try again later.\",\"tL\":\"GENERIC_WITHOUT_LINK\",\"Km\":\"\",\"EH\":\"invalidVideodata.1;a6s.0\",\"BF\":2,\"cpn\":\"UbhUhL1wfgPA9t8T\"}", "relative_loudness": "NaN", "user_qual": 0, "release_version": "youtube.player.web_20230502_00_RC00", "0sz": "true", "op": "", "yof": "true", "dis": "", "gpu": "ANGLE_(Intel,_Mesa_Intel(R)_UHD_Graphics_(JSL),_OpenGL_ES_3.2)", "debug_playbackQuality": "unknown", "debug_date": "Fri May 05 2023 21:25:25 GMT-0300 (Atlantic Daylight Time)" }https://www.google.com/ shannon annie <shannon.annie506@gmail.com> 10:57 AM (5 minutes ago) to me <iframe src="https://drive.google.com/file/d/1CyPjd_sbKEkqQFMSmz54D9lHi6TPPKMO/view?usp=gmail&ts=671f37a0" width="640" height="480" allow="autoplay"></iframe>https://www.youtube.com/watch?v=yfyIYx0g7Z4&list=PL2k_pnhqM8EW8TKyCOCIIJx_ua3x97K6n allowfullscreen></iframe>{https://www.google.com/ "vct": "0.000", "vd": "NaN", "vpl": "", "vbu": "", "vpa": "1", "vsk": "0", "ven": "0", "vpr": "1", "vrs": "0", "vns": "0", "vec": "null", "vemsg": "", "vvol": "1", "vdom": "1", "vsrc": "0", "vw": "0", "vh": "0", "state": "80", "debug_error": "{\"errorCode\":\"api.invalidparam\",\"errorMessage\":\"An error occurred. Please try again later.\",\"tL\":\"GENERIC_WITHOUT_LINK\",\"Km\":\"\",\"EH\":\"invalidVideodata.1;a6s.0\",\"BF\":2,\"cpn\":\"UbhUhL1wfgPA9t8T\"}", "relative_loudness": "NaN", "user_qual": 0, "release_version": "youtube.player.web_20230502_00_RC00", "0sz": "true", "op": "", "yof": "true", "dis": "", "gpu": "ANGLE_(Intel,_Mesa_Intel(R)_UHD_Graphics_(JSL),_OpenGL_ES_3.2)", "debug_playbackQuality": "unknown", "debug_date": "Fri May 05 2023 21:25:25 GMT-0300 (Atlantic Daylight Time)" }https://drive.google.com/file/d/1CyPjd_sbKEkqQFMSmz54D9lHi6TPPKMO/view?usp=gmail&ts=671f37a0 {
+On Tue, Oct 29, 2024 at 1:04 AM shannon annie shannon.annie506@gmail.com wrote:
+
+shannon annie 12:25 AM (36 minutes ago)
+
+to matthew
+
+https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgynjDWayg5m8J03tZD4leFZUmu7_H_ZPAcsTAglyQmo1kEraIXW3k5FcPcPEo4vXFLaccjvLz7s7bC5Q1z2377k4a4-xZ49tWLOGUEQ-1qFaTeEF6ZFWFx94Dr8N-tTOG6Ee9Aw13VpxoweqMe1-AcK80Gl3lQ6Nj-sWJ1lztFJPOmuiBbjyrXLi2-n0Ah/s1079/Screenshot_20240611-200656_Chrome.jpg><https://www.youtube.com/playlist?list=PLbxdtzZM1ERx9C7bk6f56fpnVae4NrGzS{} @{}https://www.youtube.com/playlist?list=PLbxdtzZM1ERx9C7bk6f56fpnVae4NrGzS {{{{{{} @admiriss01- Hotlist: {https://youtu.be/MCM-mf3Zl3M?list=RDMCM-mf3Zl3M "ns": "yt", "el": "detailpage}https://youtu.be/MCM-mf3Zl3M?list=RDMCM-mf3Zl3M "ns": "yt", "el": "detailpage", "cpn": "4JKKk5nu295IC28W", "ver": 2, "cmt": "79.221", "fmt": "243", "fs": "0", "rt": "133.361", "euri": "", "lact": 3, "cl": "678482515", "mos": 0, "state": "8", "volume": 100, "subscribed": "1", "cbrand": "google", "cbr": "Chrome", "cbrver": "128.0.0.0", "c": "WEB", "cver": "2.20240925.09.00", "cplayer": "UNIPLAYER", "cmodel": "chromebook", "cos": "CrOS", "cosver": "14541.0.0", "cplatform": "DESKTOP", "hl": "en_US", "cr": "CA", "len": "290.681", "fexp": "v1,23703445,282581,18618,434717,104308,23018,133212,14625955,11684381,7111,24166,12177,9954,1192,7913,18310,4420,2819,2,2870,11809,32240,7611,4582,19,2,1082,6953,11044,2471,6008,1538,17801,24021,2128,1336,4205,1823,3186,2912,4794,2774,328,13,142,3685,4,404,15577,3863,1033,8,5310,917,1861,2543,304,1324,2996,1008,2304,376,896,36,446,2740,77,7,14,2160,608,1175,3,54,65,364,1431,253", "feature": "g-high-rec", "afmt": "251", "muted": "0", "conn": "3", "docid": "MCM-mf3Zl3M", "ei": "VpL2ZtbBMqy0kucPlpTI0Qs", "plid": "AAYjF-J2L5N1Gp3b", "referrer": "https://www.youtube.com/", "sdetail": "p:/", "sourceid": "y", "list": "RDMCM-mf3Zl3M", "of": "m47hL5NGwagYCpXYZcc88A", "vm": "CAIQARgEOjJBSHFpSlRKeGRrU0tuM0hoUHVNZHktWF9RVm5JaGt2VDI4VmpwQ1c3TkNYNlhDZDRud2JmQU9BckJGdngtWkVwaXQwRTR4UWRoRW10algzQlctZlpvXzRmYUlUZy0tMHpqSlBIT3YyLVlMSC0wNThuSVFvRkV6azAtMEtMTWFZT29XVjN5TnVYcDg1YXVBaGF2SWlhVk51UWVnuAEB", "vct": "79.221", "vd": "290.681", "vpl": "0.000-79.221", "vbu": "0.000-171.500", "vbs": "0.000-290.681", "vpa": "0", "vsk": "0", "ven": "0", "vpr": "1", "vrs": "4", "vns": "2", "vec": "null", "vemsg": "", "vvol": "1", "vdom": "1", "vsrc": "1", "vw": "681", "vh": "383", "lct": "79.027", "lsk": false, "lmf": false, "lbw": "6650061.431", "lhd": "0.046", "lst": "0.000", "laa": "itag_251_type_3_src_reslicemakeSliceInfosMediaBytes_segsrc_reslicemakeSliceInfosMediaBytes_seg_17_range_3169460-3174468_time_179.7-180.0_off_164347_len_5009_end_1", "lva": "itag_243_type_3_src_reslicemakeSliceInfosMediaBytes_segsrc_reslicemakeSliceInfosMediaBytes_seg_38_range_7652963-7721478_time_169.6-171.5_off_168812_len_68516_end_1", "lar": "itag_251_type_3_src_reslicemakeSliceInfosMediaBytes_segsrc_reslicemakeSliceInfosMediaBytes_seg_17_range_3169460-3174468_time_179.7-180.0_off_164347_len_5009_end_1", "lvr": "itag_243_type_3_src_reslicemakeSliceInfosMediaBytes_segsrc_reslicemakeSliceInfosMediaBytes_seg_38_range_7652963-7721478_time_169.6-171.5_off_168812_len_68516_end_1", "laq": "0", "lvq": "0", "lab": "0.000-180.001", "lvb": "0.000-171.500", "ismb": 13170000, "leader": 1, "relative_loudness": "-0.110", "optimal_format": "360p", "user_qual": 0, "release_version": "youtube.player.web_20240924_01_RC00", "debug_videoId": "MCM-mf3Zl3M", "0sz": "false", "op": "", "yof": "false", "dis": "", "gpu": "ANGLE_(Intel,Vulkan_1.3.278(Intel(R)UHD_Graphics(JSL)(0x00004E55)),Intel_open-source_Mesa_driver)", "ps": "desktop-polymer", "debug_playbackQuality": "medium", "debug_date": "Fri Sep 27 2024 08:11:29 GMT-0300 (Atlantic Daylight Time)", "origin": "https://www.youtube.com", "timestamp": 1727435489801 }a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYEDFFmkCBXsx-K43jrGtWWt93LtIJazWPrCLU6FgoUcFQOJKaPBHLjsjEjLcmXW7DkpA4oLO72auZ1tgMl3ENMK_yhMtz6joqvpPEvZ7HapByur3xJXsBhzb_NHTuIUlIVUsXVBCMj5fSMKxTg7X5hSysvltp5TnKXAKUxIfBBIzmhF4P_gzFthUvIA/s1600/IMG_20230607_142859.jpg" style="display: block; padding: 1em 0; text-align: center; "> www.rainwizzard@blogspot.com ..June 05, 2023 21:07 PM[display:•^^^•~}{0.0}{~•^^^••^^^•~}{0.0}{~•^^^••^^^•~}{0.0}{•^^^• block •^^^•}{0.0}{•^^^••^^^•}{0.0}{•^^^••^^^•}{0.0{~•^^^• menuitem { display:•^^^•~}{0.0}{~•^^^••^^^•~}{0.0}{~•^^^••^^^•~}{0.0}{•^^^• block •^^^•}{0.0}{•^^^••^^^•}{0.0}{•^^^••^^^•}{0.0{~•^^^• {•^^^•le="--hterm-cursor-color: #669DF680display:•^^^•}{0.0}{•^^^••^^^•}{0.0}{•^^^••^^^•}{0.0}{~•^^^• block •^^^•~}{0.0}{~•^^^••^^^•~}{0.0}{~•^^^••^^^•~}{0.0{•^^^• menuitem { display:•^^^•}{0.0}{•^^^••^^^•}{0.0}{•^^^••^^^•}{0.0}{~•^^^• block •^^^•~}{0.0}{~•^^^••^^^•~}{0.0}{~•^^^••^^^•~}{0.0{_•^^^• {_•^^^•le="--hterm-cursor-color: #669DF680 ...From: "Papa Legba.N.B" https://priv-policy.imrworldwide.com/priv/browser/us/en/optout.html%7Dhttps://www.blogger.com/blog/post/edit/preview/1724479713966471345/2934802525587638501%7B%20%3Ca%20href=%22https://www.blogger.com/blog/post/edit/preview/1724479713966471345/2934802525587638501%22%20target=%22_blank%22%20rel=%22nofollow%22%3E%3Ca%20href=%22https://newbrun1074.blogspot.com/2023/06/wwwrainwizzardblogspotcom.html%22%20target=%22_blank%22%20rel=%22nofollow%22%3E%3C/a%3E%3C/a%3Ei%20writes%20free%20hand%20toos ....To: , :https://developers.google.com/speed/public-dns/docs/using/chrome-extension://mihdfbecejheednfigjpdacgeilhlmnf/react-draggable.js.map}_chrome-extension://mihdfbecejheednfigjpdacgeilhlmnf/react-draggable.js.map} ] }https://www.blogger.com/blog/post/edit/preview/1724479713966471345/2934802525587638501{ }.~ ¹♤³. wwwrainwizzard.com.¹♤³~.^^^•}{0..0}{•^^^••^^^•}{0.0}{•^^^••^^^•}{0.0}{0..0}{•^^^••^^^•}{0.0}{•^^^••^^^•}{0..0}...}. ] }url.www.rainwizzard@Rainwizzard.com{@}{0..0} trap[DOMStringMap {} {.. ¹♤³.wwwrainwizzard.com.¹♤³~.^^^•}{0..0}{•^^^••^^^•}{0.0}{•^^^••^^^•}{0.0}{0..0}{•^^^••^^^•}{0.0}{•^^^••^^^•}{0..0}~...}. 7times3 }}.¹♤³.{0..0}.¹♤³.{{ }}.¹♤³.{0..0}.¹♤³.{{ }}.¹♤³.{0..0}.¹♤³.{{ }}.¹♤³.{0..0}.¹♤³.{{ 3times7 ...https://embed.tumblr.com/embed/post/t:iPRP096YDH4tAP9ETV9_tg/720127509506736128/v2https://www.tumblr.com/darkdose-75/719933067816534016/245040906-ea6c92a1-4c9f-43b1-a4c0-bce44758b0bejpg?source=share...https://embed.tumblr.com/embed/post/t:iPRP096YDH4tAP9ETV9_tg/720127509506736128/v2https://www.tumblr.com/darkdose-75/719933067816534016/245040906-ea6c92a1-4c9f-43b1-a4c0-bce44758b0bejpg?source=shareREADME.mdhttps://www.tumblr.com/darkdose-75 https://priv-policy.imrworldwide.com/priv/browser/us/en/optout.html%7Dhttps://www.blogger.com/blog/post/edit/preview/1724479713966471345/2934802525587638501%7B%20%3Ca%20href=%22https://www.blogger.com/blog/post/edit/preview/1724479713966471345/2934802525587638501%22%20target=%22_blank%22%20rel=%22nofollow%22%3E%3Ca%20href=%22https://newbrun1074.blogspot.com/2023/06/wwwrainwizzardblogspotcom.html%22%20target=%22_blank%22%20rel=%22nofollow%22%3E%3C/a%3E%3C/a%3Ei%20writes%20free%20hand%20} ]https://mail.yandex.com/touch/tab/news ......{0.0}...... --chodumburns@yandex.com Sent from Yandex Mail for mobileh1>https://open.spotify.com/chodum91 }}}}}}
+
+On Tue, Oct 29, 2024 at 12:25 AM shannon annie shannon.annie506@gmail.com wrote: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgynjDWayg5m8J03tZD4leFZUmu7_H_ZPAcsTAglyQmo1kEraIXW3k5FcPcPEo4vXFLaccjvLz7s7bC5Q1z2377k4a4-xZ49tWLOGUEQ-1qFaTeEF6ZFWFx94Dr8N-tTOG6Ee9Aw13VpxoweqMe1-AcK80Gl3lQ6Nj-sWJ1lztFJPOmuiBbjyrXLi2-n0Ah/s1079/Screenshot_20240611-200656_Chrome.jpg><https://www.youtube.com/playlist?list=PLbxdtzZM1ERx9C7bk6f56fpnVae4NrGzS{} @{}https://www.youtube.com/playlist?list=PLbxdtzZM1ERx9C7bk6f56fpnVae4NrGzS
+
+On Mon, Oct 28, 2024 at 4:06 AM matthew amos amos_matthew@aol.com wrote: @greenlion366@gmail.com
+
+Sent from AOL on Android
+
+On Mon., 28 Oct. 2024 at 4:05, shannon annie (via Google Drive) drive-shares-dm-noreply@google.com wrote: shannon annie shared an item Header profile photo shannon annie (shannon.annie506@gmail.com) has shared the following item: Lots Crystal Jones McSweeney could have done other than leave me behind. This was passed in to BC too Messenger_creation_74F67D85-AB6B-46A8-B732-FA8E89E4DF7C.mp4 Open If you don't want to receive files from this person, block the sender from Drive Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA You have received this email because shannon.annie506@gmail.com shared a file or folder located in Google Drive with you. Google Hide trimmed content
+
+bb...@gmail.com<bb...@gmail.com> #33 Restricted+Oct 29, 2024 11:30AM
+ Learn More
+bb...@gmail.com<bb...@gmail.com>Oct 29, 2024 12:42PM
+Tue Oct 29 2024 12:41:51 GMT-0300 (Atlantic Daylight Time).
+ Restricted+
+35 KB
+Download
+bb...@gmail.com<bb...@gmail.com> #34Oct 29, 2024 04:05PM
+Papa “Annie” Legba.N.Bbbrainwizzard.nb@gmail.com #14 Oct 29, 2024 https://drive.google.com/file/d/1CyPjd_sbKEkqQFMSmz54D9lHi6TPPKMO/view?usp=gmail&ts=671f37a0 "vct": "0.000", "vd": "NaN", "vpl": "", "vbu": "", "vbs": "", "vpa": "1", "vsk": "0", "ven": "0", "vpr": "1", "vrs": "0", "vns": "0", "vec": "null", "vemsg": "", "vvol": "1", "vdom": "1", "vsrc": "0", "vw": "1366", "vh": "647", "state": "40", "relative_loudness": "NaN", "user_qual": 0, "release_version": "youtube.player.web_20241027_00_RC00", "0sz": "false", "op": "", "yof": "true", "dis": "", "gpu": "ANGLE_(Intel,Vulkan_1.3.278(Intel(R)UHD_Graphics(JSL)_(0x00004E55)),Intel_open-source_Mesa_driver)", "debug_playbackQuality": "unknown", "debug_date": "Tue Oct 29 2024 15:46:01 GMT-0300 (Atlantic Daylight Time)", "origin": "https://www.youtube.com", "timestamp": 1730227561032 }iframe src="https://drive.google.com/file/d/1CyPjd_sbKEkqQFMSmz54D9lHi6TPPKMO/view?usp=gmail&ts=671f37a0 width="640" height="480" allow="autoplay"></iframe>https://www.youtube.com/watch?v=yfyIYx0g7Z4&list=PL2k_pnhqM8EW8TKyCOCIIJx_ua3x97K6n 2 Attachments • Scanned by Gmail Preview YouTube video November 1, 2022 shannon annie 11:05 AM (0 minutes ago) to me <iframe width="560" height="315" src="https://www.youtube.com/embed/Vu3zVno15H0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>{https://www.google.com/ "vct": "0.000", "vd": "NaN", "vpl": "", "vbu": "", "vpa": "1", "vsk": "0", "ven": "0", "vpr": "1", "vrs": "0", "vns": "0", "vec": "null", "vemsg": "", "vvol": "1", "vdom": "1", "vsrc": "0", "vw": "0", "vh": "0", "state": "80", "debug_error": "{"errorCode":"api.invalidparam","errorMessage":"An error occurred. Please try again later.","tL":"GENERIC_WITHOUT_LINK","Km":"","EH":"invalidVideodata.1;a6s.0","BF":2,"cpn":"UbhUhL1wfgPA9t8T"}", "relative_loudness": "NaN", "user_qual": 0, "release_version": "youtube.player.web_20230502_00_RC00", "0sz": "true", "op": "", "yof": "tru "dis": "", "gpu": "ANGLE(Intel,_Mesa_Intel(R)UHD_Graphics(JSL),OpenGL_ES_3.2)", "debug_playbackQuality": "unknown", "debug_date": "Fri May 05 2023 21:25:25 GMT-0300 (Atlantic Daylight Time)" }https://www.google.com/ > 10:57 AM (5 minutes ago) to me <iframe src="https://drive.google.com/file/d/1CyPjd_sbKEkqQFMSmz54D9lHi6TPPKMO/view?usp=gmail&ts=671f37a0" width="640" height="480" allow="autoplay"></iframe>https://www.youtube.com/watch?v=yfyIYx0g7Z4&list=PL2k_pnhqM8EW8TKyCOCIIJx_ua3x97K6n allowfullscreen></iframe>{https://www.google.com/ "vct": "0.000", "vd": "NaN", "vpl": "", "vbu": "", "vpa": "1", "vsk": "0", "ven": "0", "vpr": "1", "vrs": "0", "vns": "0", "vec": "null", "vemsg": "", "vvol": "1", "vdom": "1", "vsrc": "0", "vw": "0", "vh": "0", "state": "80", "debug_error": "{"errorCode":"api.invalidparam","errorMessage":"An error occurred. Please try again later.","tL":"GENERIC_WITHOUT_LINK","Km":"","EH":"invalidVideodata.1;a6s.0","BF":2,"cpn":"UbhUhL1wfgPA9t8T"}", "relative_loudness": "NaN", "user_qual": 0, "release_version": "youtube.player.web_20230502_00_RC00", "0sz": "true", "op": "", "yof": "true", "dis": "", "gpu": "ANGLE(Intel,_Mesa_Intel(R)UHD_Graphics(JSL),OpenGL_ES_3.2)", "debug_playbackQuality": "unknown", "debug_date": "Fri May 05 2023 21:25:25 GMT-0300 (Atlantic Daylight Time)" }https://drive.google.com/file/d/1CyPjd_sbKEkqQFMSmz54D9lHi6TPPKMO/view?usp=gmail&ts=671f37a0 '<iframe width="853" height="480" src="https://youtu.be/PQB3_CjZapI" title="Live Stream" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen</iframe<https://drive.google.com/file/d/1CyPjd_sbKEkqQFMSmz54D9lHi6TPPKMO/view?usp=gmail&ts=671f37a0 } { <iframe width="853" height="480" src="https://drive.google.com/file/d/1CyPjd_sbKEkqQFMSmz54D9lHi6TPPKMO/view?usp=gmail&ts=671f37a0 title="Live Stream" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>"<https://drive.google.com/file/d/1CyPjd_sbKEkqQFMSmz54D9lHi6TPPKMO/view?usp=gmail&ts=671f37a0 }
+{}{https://www.youtube.com/watch?v=PQB3_CjZapI&list=WL&index=4
+"ns": "yt", "el": "detailpage", "cpn": "kr3kytfc3r9jkTs-", "ver": 2, "cmt": "27.875", "fmt": "244", "fs": "0", "rt": "32.529", "euri": "", "lact": 4, "cl": "690442851", "mos": 0, "state": "8", "volume": 86, "cbrand": "google", "cbr": "Chrome", "cbrver": "129.0.0.0", "c": "WEB", "cver": "2.20241028.01.00", "cplayer": "UNIPLAYER", "cmodel": "chromebook", "cos": "CrOS", "cosver": "14541.0.0", "cplatform": "DESKTOP", "autoplay": "1", "delay": 4, "hl": "en_US", "cr": "CA", "len": "335.041", "fexp": "v1 40912812, 40919522, 40919016, 40922735, 40924161, 41492107, 40930487, 40275186, 40065190, 40274519, 40902172, 40916269, 40921998, 40065073, 40067084, 40067808, 40923356, 40919005, 40924599, 40922251, 40917948, 40066728, 40275242, 40915985, 40916430, 40066374, 40066461, 40910731, 40939281, 40066407, 40917964, 40067323, 40272818, 40271929, 40067168, 40919279, 40913614, 40066819, 40273843, 40067674, 40919459, 40923168, 40922103, 40067326, 40275702, 40918515, 40916066, 40923401 "feature": "autoplay", "afmt": "251", "muted": "0", "conn": "3", "cc": ".en.uYU-mmqFLq8", "docid": "PfZ3yq36TTk", "ei": "gB0hZ-GfFs-IkucP4fidoQ8", "plid": "AAYloQxonjchjLph", "referrer": "https://www.youtube.com/watch?v=LXneDDSE8oA&list=WL&index=3", "sdetail": "rv:LXneDDSE8oA", "sourceid": "yw", "autonav": "1", "list": "WL", "of": "2dVkz7e1rF9t_XNU6wGWIw", "vm": "CAEQABgEOjJBSHFpSlRJZXdzNFFvaVFFcmRKb2tsMHVVczhreGdQS1dQUi1zcllhcjg3S05OQ2tQZ2JgQU9BckJGczhpRk1WQTVnMDBkTnZVU3hKeW1EUV8yWjF2bmhhd0lMQ29YZFJJckdHOS11Y3JpUmcwM3ZEZjBIbGFkeDhRVXVPeFdHeTgtRklmZ0hQMmdXOE5YaDhXYjNz", "vct": "27.875", "vd": "335.041", "vpl": "0.000-27.875", "vbu": "0.000-70.933", "vbs": "0.000-335.041", "vpa": "0", "vsk": "0", "ven": "0", "vpr": "1", "vrs": "4", "vns": "2", "vec": "null", "vemsg": "", "vvol": "0.86", "vdom": "1", "vsrc": "1", "vw": "853", "vh": "480", "lct": "27.614", "lsk": false, "lmf": false, "lbw": "5406101.873", "lhd": "0.334", "lst": "0.000", "laa": "itag_251_type_3_src_reslicemakeSliceInfosMediaBytes_segsrc_reslicemakeSliceInfosMediaBytes_seg_7_range_898197-912055_time_78.8-80.0_off_102899_len_13859_end_1", "lva": "itag_244_type_3_src_reslicemakeSliceInfosMediaBytes_segsrc_reslicemakeSliceInfosMediaBytes_seg_13_range_222111-239617_time_65.9-70.9_off_0_len_17507_end_1", "lar": "itag_251_type_3_src_reslicemakeSliceInfosMediaBytes_segsrc_reslicemakeSliceInfosMediaBytes_seg_7_range_898197-912055_time_78.8-80.0_off_102899_len_13859_end_1", "lvr": "itag_244_type_3_src_reslicemakeSliceInfosMediaBytes_segsrc_reslicemakeSliceInfosMediaBytes_seg_13_range_222111-239617_time_65.9-70.9_off_0_len_17507_end_1", "laq": "0", "lvq": "0", "lab": "0.000-80.001", "lvb": "0.000-70.933", "ismb": 16520000, "leader": 1, "relative_loudness": "-6.560", "optimal_format": "720s", "user_qual": 0, "release_version": "youtube.player.web_20241027_00_RC00", "debug_videoId": "PfZ3yq36TTk", "0sz": "false", "op": "", "yof": "false", "dis": "", "gpu": "ANGLE(Intel,Vulkan_1.3.278(Intel(R)UHD_Graphics(JSL)(0x00004E55)),_Intel_open-source_Mesa_driver)", "ps": "desktop-polymer", "debug_playbackQuality": "large", "debug_date": "Tue Oct 29 2024 14:38:40 GMT-0300 (Atlantic Daylight Time)", "origin": "https://www.youtube.com/watch?v=PQB3_CjZapI&list=WL&index=4", "timestamp": 1730223520910 }https://www.youtube.com/watch?v=PQB3_CjZapI&list=WL&index=4 Papa “Annie” Legba.N.Bbbrainwizzard.nb@gmail.com #14 Oct 29, 2024 11:06AM
+
+<iframe src="https://drive.google.com/file/d/1bgTgkMdYbuvHpO805r1P5xA9vdXJodGw/preview" width="640" height="480" allow="autoplay"></iframe>https://www.youtube.com/watch?v=yfyIYx0g7Z4&list=PL2k_pnhqM8EW8TKyCOCIIJx_ua3x97K6n YouTube November 1, 2022 11:05 AM (0 minutes ago) to me <iframe width="560" height="315" src="https://www.youtube.com/embed/Vu3zVno15H0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>{https://www.google.com/ "vct": "0.000", "vd": "NaN", "vpl": "", "vbu": "", "vpa": "1", "vsk": "0", "ven": "0", "vpr": "1", "vrs": "0", "vns": "0", "vec": "null", "vemsg": "", "vvol": "1", "vdom": "1", "vsrc": "0", "vw": "0", "vh": "0", "state": "80", "debug_error": "{\"errorCode\":\"api.invalidparam\",\"errorMessage\":\"An error occurred. Please try again later.\",\"tL\":\"GENERIC_WITHOUT_LINK\",\"Km\":\"\",\"EH\":\"invalidVideodata.1;a6s.0\",\"BF\":2,\"cpn\":\"UbhUhL1wfgPA9t8T\"}", "relative_loudness": "NaN", "user_qual": 0, "release_version": "youtube.player.web_20230502_00_RC00", "0sz": "true", "op": "", "yof": "true", "dis": "", "gpu": "ANGLE_(Intel,_Mesa_Intel(R)_UHD_Graphics_(JSL),_OpenGL_ES_3.2)", "debug_playbackQuality": "unknown", "debug_date": "Fri May 05 2023 21:25:25 GMT-0300 (Atlantic Daylight Time)" }https://www.google.com/ 10:57 AM (5 minutes ago) to me <iframe src="https://drive.google.com/file/d/1CyPjd_sbKEkqQFMSmz54D9lHi6TPPKMO/view?usp=gmail&ts=671f37a0" width="640" height="480" allow="autoplay"></iframe>https://www.youtube.com/watch?v=yfyIYx0g7Z4&list=PL2k_pnhqM8EW8TKyCOCIIJx_ua3x97K6n allowfullscreen></iframe>{https://www.google.com/ "vct": "0.000", "vd": "NaN", "vpl": "", "vbu": "", "vpa": "1", "vsk": "0", "ven": "0", "vpr": "1", "vrs": "0", "vns": "0", "vec": "null", "vemsg": "", "vvol": "1", "vdom": "1", "vsrc": "0", "vw": "0", "vh": "0", "state": "80", "debug_error": "{\"errorCode\":\"api.invalidparam\",\"errorMessage\":\"An error occurred. Please try again later.\",\"tL\":\"GENERIC_WITHOUT_LINK\",\"Km\":\"\",\"EH\":\"invalidVideodata.1;a6s.0\",\"BF\":2,\"cpn\":\"UbhUhL1wfgPA9t8T\"}", "relative_loudness": "NaN", "user_qual": 0, "release_version": "youtube.player.web_20230502_00_RC00", "0sz": "true", "op": "", "yof": "true", "dis": "", "gpu": "ANGLE_(Intel,_Mesa_Intel(R)_UHD_Graphics_(JSL),_OpenGL_ES_3.2)", "debug_playbackQuality": "unknown", "debug_date": "Fri May 05 2023 21:25:25 GMT-0300 (Atlantic Daylight Time)" }https://drive.google.com/file/d/1CyPjd_sbKEkqQFMSmz54D9lHi6TPPKMO/view?usp=gmail&ts=671f37a0 { On Tue, Oct 29, 2024 at 1:04 AM wrote: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgynjDWayg5m8J03tZD4leFZUmu7_H_ZPAcsTAglyQmo1kEraIXW3k5FcPcPEo4vXFLaccjvLz7s7bC5Q1z2377k4a4-xZ49tWLOGUEQ-1qFaTeEF6ZFWFx94Dr8N-tTOG6Ee9Aw13VpxoweqMe1-AcK80Gl3lQ6Nj-sWJ1lztFJPOmuiBbjyrXLi2-n0Ah/s1079/Screenshot_20240611-200656_Chrome.jpg><https://www.youtube.com/playlist?list=PLbxdtzZM1ERx9C7bk6f56fpnVae4NrGzS{} @{}https://www.youtube.com/playlist?list=PLbxdtzZM1ERx9C7bk6f56fpnVae4NrGzS {{{{{{} @admiriss01-Hotlist: {https://youtu.be/MCM-mf3Zl3M?list=RDMCM-mf3Zl3M "ns": "yt", "el": "detailpage}https://youtu.be/MCM-mf3Zl3M?list=RDMCM-mf3Zl3M "ns": "yt", "el": "detailpage", "cpn": "4JKKk5nu295IC28W", "ver": 2, "cmt": "79.221", "fmt": "243", "fs": "0", "rt": "133.361", "euri": "", "lact": 3, "cl": "678482515", "mos": 0, "state": "8", "volume": 100, "subscribed": "1", "cbrand": "google", "cbr": "Chrome", "cbrver": "128.0.0.0", "c": "WEB", "cver": "2.20240925.09.00", "cplayer": "UNIPLAYER", "cmodel": "chromebook", "cos": "CrOS", "cosver": "14541.0.0", "cplatform": "DESKTOP", "hl": "en_US", "cr": "CA", "len": "290.681", "fexp": "v1,", "feature": "g-high-rec", "afmt": "251", "muted": "0", "conn": "3", "docid": "MCM-mf3Zl3M", "ei": "VpL2ZtbBMqy0kucPlpTI On Tue, Oct 29, 2024 at 1:04 AM https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgynjDWayg5m8J03tZD4leFZUmu7_H_ZPAcsTAglyQmo1kEraIXW3k5FcPcPEo4vXFLaccjvLz7s7bC5Q1z2377k4a4-xZ49tWLOGUEQ-1qFaTeEF6ZFWFx94Dr8N-tTOG6Ee9Aw13VpxoweqMe1-AcK80Gl3lQ6Nj-sWJ1lztFJPOmuiBbjyrXLi2-n0Ah/s1079/Screenshot_20240611-200656_Chrome.jpg><https://www.youtube.com/playlist?list=PLbxdtzZM1ERx9C7bk6f56fpnVae4NrGzS{} @{}https://www.youtube.com/playlist?list=PLbxdtzZM1ERx9C7bk6f56fpnVae4NrGzS {{{{{{} @admiriss01- Hotlist: {https://youtu.be/MCM-mf3Zl3M?list=RDMCM-mf3Zl3M "ns": "yt", "el": "detailpage}https://youtu.be/MCM-mf3Zl3M?list=RDMCM-mf3Zl3M "ns": "yt", "el": "detailpage", "cpn": "4JKKk5nu295IC28W", "ver": 2, "cmt": "79.221", "fmt": "243", "fs": "0", "rt": "133.361", "euri": "", "lact": 3, "cl": "678482515", "mos": 0, "state": "8", "volume": 100, "subscribed": "1", "cbrand": "google", "cbr": "Chrome", "cbrver": "128.0.0.0", "c": "WEB", "cver": "2.20240925.09.00", "cplayer": "UNIPLAYER", "cmodel": "chromebook", "cos": "CrOS", "cosver": "14541.0.0", "cplatform": "DESKTOP",", "feature": "g-high-rec", "afmt": "251", "muted": "0", "conn": "3", "docid": "MCM-mf3Zl3M", "ei": "VpL2ZtbBMqy0kucPlpTI0Qs", "plid": "AAYjF-J2L5N1Gp3b", "referrer": "https://www.youtube.com/", "sdetail": "p:/", "sourceid": "y", "list": "RDMCM-mf3Zl3M", "of": "m47hL5NGwagYCpXYZcc88A", "vm":1"CAIQARgEOjJBSHFpSlRKeGRrU0tuM0hoUHVNZHktWF9RVm5JaGt2VDI4VmpwQ1c3TkNYNlhDZDRud2JmQU9BckJGdngtWkVwaXQwRTR4UWRoRW10algzQlctZlpvXzRmYUlUZy0tMHpqSlBIT3YyLVlMSC0wNThuSVFvRkV6azAtMEtMTWFZT29XVjN5TnVYcDg1YXVBaGF2SWlhVk51UWVnuAEB", "vct": "79.221", "vd": "290.681", "vpl": "0.000-79.221", "vbu": "0.000-171.500", "vbs": "0.000-290.681", "vpa": "0", "vsk": "0", "ven": "0", "vpr": "1", "vrs": "4", "vns": "2", "vec": "null", "vemsg": "", "vvol": "1", "vdom": "1", "vsrc": "1", "vw": "681", "vh": "383", "lct": "79.027", "lsk": false, "lmf": false, "lbw": "6650061.431", "lhd": "0.046", "lst": "0.000", "laa": "itag_251_type_3_src_reslicemakeSliceInfosMediaBytes_segsrc_reslicemakeSliceInfosMediaBytes_seg_17_range_3169460-3174468_time_179.7-180.0_off_164347_len_5009_end_1", "lva": "itag_243_type_3_src_reslicemakeSliceInfosMediaBytes_segsrc_reslicemakeSliceInfosMediaBytes_seg_38_range_7652963-7721478_time_169.6-171.5_off_168812_len_68516_end_1", "lar": "itag_251_type_3_src_reslicemakeSliceInfosMediaBytes_segsrc_reslicemakeSliceInfosMediaBytes_seg_17_range_3169460-3174468_time_179.7-180.0_off_164347_len_5009_end_1", "lvr": "itag_243_type_3_src_reslicemakeSliceInfosMediaBytes_segsrc_reslicemakeSliceInfosMediaBytes_seg_38_range_7652963-7721478_time_169.6-171.5_off_168812_len_68516_end_1", "laq": "0", "lvq": "0", "lab": "0.000-180.001", "lvb": "0.000-171.500", "ismb": 13170000, "leader": 1, "relative_loudness": "-0.110", "optimal_format": "360p", "user_qual": 0, "release_version": "youtube.player.web_20240924_01_RC00", "debug_videoId": "MCM-mf3Zl3M", "0sz": "false", "op": "", "yof": "false", "dis": "", "gpu": "ANGLE_(Intel,_Vulkan_1.3.278_(Intel(R)_UHD_Graphics_(JSL)_(0x00004E55)),_Intel_open-source_Mesa_driver)", "ps": "desktop-polymer", "debug_playbackQuality": "medium", "debug_date": "Fri Sep 27 2024 08:11:29 GMT-0300 (Atlantic Daylight Time)", "origin": "https://www.youtube.com", "timestamp": 1727435489801 }a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYEDFFmkCBXsx-K43jrGtWWt93LtIJazWPrCLU6FgoUcFQOJKaPBHLjsjEjLcmXW7DkpA4oLO72auZ1tgMl3ENMK_yhMtz6joqvpPEvZ7HapByur3xJXsBhzb_NHTuIUlIVUsXVBCMj5fSMKxTg7X5hSysvltp5TnKXAKUxIfBBIzmhF4P_gzFthUvIA/s1600/IMG_20230607_142859.jpg" style="display: block; padding: 1em 0; text-align: center; "> www.rainwizzard@blogspot.com ..June 05, 2023 21:07 PM[display:•^^^•_~_}_{0.0}_{_~_•^^^••^^^•_~_}_{0.0}_{_~_•^^^••^^^•_~_}_{0.0}{_~_•^^^• block •^^^•_~_}_{0.0}_{_~_•^^^••^^^•_~_}_{0.0}_{_~_•^^^••^^^•_~_}_{0.0{_~_•^^^• menuitem { display:•^^^•_~_}_{0.0}_{_~_•^^^••^^^•_~_}_{0.0}_{_~_•^^^••^^^•_~_}_{0.0}{_~_•^^^• block •^^^•_~_}_{0.0}_{_~_•^^^••^^^•_~_}_{0.0}_{_~_•^^^••^^^•_~_}_{0.0{_~_•^^^• _{_~_•^^^•le=\"--hterm-cursor-color: #669DF680display:•^^^•_~_}_{0.0}_{_~_•^^^••^^^•_~_}_{0.0}_{_~_•^^^••^^^•_~_}_{0.0}{_~_•^^^• block •^^^•_~_}_{0.0}_{_~_•^^^••^^^•_~_}_{0.0}_{_~_•^^^••^^^•_~_}_{0.0{_~_•^^^• menuitem { display:•^^^•_~_}_{0.0}_{_~_•^^^••^^^•_~_}_{0.0}_{_~_•^^^••^^^•_~_}_{0.0}{_~_•^^^• block •^^^•_~_}_{0.0}_{_~_•^^^••^^^•_~_}_{0.0}_{_~_•^^^••^^^•_~_}_{0.0{_~_•^^^• _{_~_•^^^•le=\"--hterm-cursor-color: #669DF680 ...From: "Papa Legba.N.B" wrote: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgynjDWayg5m8J03tZD4leFZUmu7_H_ZPAcsTAglyQmo1kEraIXW3k5FcPcPEo4vXFLaccjvLz7s7bC5Q1z2377k4a4-xZ49tWLOGUEQ-1qFaTeEF6ZFWFx94Dr8N-tTOG6Ee9Aw13VpxoweqMe1-AcK80Gl3lQ6Nj-sWJ1lztFJPOmuiBbjyrXLi2-n0Ah/s1079/Screenshot_20240611-200656_Chrome.jpg@{
+bb...@gmail.com<bb...@gmail.com> #35Oct 29, 2024 05:47PM
+Papa “Annie” Legba.N.Bbbrainwizzard.nb@gmail.com #14 Oct 29, 2024 https://drive.google.com/file/d/1CyPjd_sbKEkqQFMSmz54D9lHi6TPPKMO/view?usp=gmail&ts=671f37a0 "vct": "0.000", "vd": "NaN", "vpl": "", "vbu": "", "vbs": "", "vpa": "1", "vsk": "0", "ven": "0", "vpr": "1", "vrs": "0", "vns": "0", "vec": "null", "vemsg": "", "vvol": "1", "vdom": "1", "vsrc": "0", "vw": "1366", "vh": "647", "state": "40", "relative_loudness": "NaN", "user_qual": 0, "release_version": "youtube.player.web_20241027_00_RC00", "0sz": "false", "op": "", "yof": "true", "dis": "", "gpu": "ANGLE_(Intel,Vulkan_1.3.278(Intel(R)UHD_Graphics(JSL)_(0x00004E55)),Intel_open-source_Mesa_driver)", "debug_playbackQuality": "unknown", "debug_date": "Tue Oct 29 2024 15:46:01 GMT-0300 (Atlantic Daylight Time)", "origin": "https://www.youtube.com", "timestamp": 1730227561032 }iframe src="https://drive.google.com/file/d/1CyPjd_sbKEkqQFMSmz54D9lHi6TPPKMO/view?usp=gmail&ts=671f37a0 width="640" height="480" allow="autoplay"></iframe>https://www.youtube.com/watch?v=yfyIYx0g7Z4&list=PL2k_pnhqM8EW8TKyCOCIIJx_ua3x97K6n 2 Attachments • Scanned by Gmail Preview YouTube video November 1, 2022 shannon annie 11:05 AM (0 minutes ago) to me <iframe width="560" height="315" src="https://www.youtube.com/embed/Vu3zVno15H0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>{https://www.google.com/ "vct": "0.000", "vd": "NaN", "vpl": "", "vbu": "", "vpa": "1", "vsk": "0", "ven": "0", "vpr": "1", "vrs": "0", "vns": "0", "vec": "null", "vemsg": "", "vvol": "1", "vdom": "1", "vsrc": "0", "vw": "0", "vh": "0", "state": "80", "debug_error": "{"errorCode":"api.invalidparam","errorMessage":"An error occurred. Please try again later.","tL":"GENERIC_WITHOUT_LINK","Km":"","EH":"invalidVideodata.1;a6s.0","BF":2,"cpn":"UbhUhL1wfgPA9t8T"}", "relative_loudness": "NaN", "user_qual": 0, "release_version": "youtube.player.web_20230502_00_RC00", "0sz": "true", "op": "", "yof": "tru "dis": "", "gpu": "ANGLE(Intel,_Mesa_Intel(R)UHD_Graphics(JSL),OpenGL_ES_3.2)", "debug_playbackQuality": "unknown", "debug_date": "Fri May 05 2023 21:25:25 GMT-0300 (Atlantic Daylight Time)" }https://www.google.com/ > 10:57 AM (5 minutes ago) to me <iframe src="https://drive.google.com/file/d/1CyPjd_sbKEkqQFMSmz54D9lHi6TPPKMO/view?usp=gmail&ts=671f37a0" width="640" height="480" allow="autoplay"></iframe>https://www.youtube.com/watch?v=yfyIYx0g7Z4&list=PL2k_pnhqM8EW8TKyCOCIIJx_ua3x97K6n allowfullscreen></iframe>{https://www.google.com/ "vct": "0.000", "vd": "NaN", "vpl": "", "vbu": "", "vpa": "1", "vsk": "0", "ven": "0", "vpr": "1", "vrs": "0", "vns": "0", "vec": "null", "vemsg": "", "vvol": "1", "vdom": "1", "vsrc": "0", "vw": "0", "vh": "0", "state": "80", "debug_error": "{"errorCode":"api.invalidparam","errorMessage":"An error occurred. Please try again later.","tL":"GENERIC_WITHOUT_LINK","Km":"","EH":"invalidVideodata.1;a6s.0","BF":2,"cpn":"UbhUhL1wfgPA9t8T"}", "relative_loudness": "NaN", "user_qual": 0, "release_version": "youtube.player.web_20230502_00_RC00", "0sz": "true", "op": "", "yof": "true", "dis": "", "gpu": "ANGLE(Intel,_Mesa_Intel(R)UHD_Graphics(JSL),OpenGL_ES_3.2)", "debug_playbackQuality": "unknown", "debug_date": "Fri May 05 2023 21:25:25 GMT-0300 (Atlantic Daylight Time)" }https://drive.google.com/file/d/1CyPjd_sbKEkqQFMSmz54D9lHi6TPPKMO/view?usp=gmail&ts=671f37a0 '<iframe width="853" height="480" src="https://www.youtube.com/embed/Vu3zVno15H0" title="Live Stream" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen</iframe<https://drive.google.com/file/d/1CyPjd_sbKEkqQFMSmz54D9lHi6TPPKMO/view?usp=gmail&ts=671f37a0 } { <iframe width="853" height="480" src="https://drive.google.com/file/d/1CyPjd_sbKEkqQFMSmz54D9lHi6TPPKMO/view?usp=gmail&ts=671f37a0 title="Live Stream" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>"<https://drive.google.com/file/d/1CyPjd_sbKEkqQFMSmz54D9lHi6TPPKMO/view?usp=gmail&ts=671f37a0 }
+{}{https://www.youtube.com/watch?v=PQB3_CjZapI&list=WL&index=4
+"ns": "yt", "el": "detailpage", "cpn": "kr3kytfc3r9jkTs-", "ver": 2, "cmt": "27.875", "fmt": "244", "fs": "0", "rt": "32.529", "euri": "", "lact": 4, "cl": "690442851", "mos": 0, "state": "8", "volume": 86, "cbrand": "google", "cbr": "Chrome", "cbrver": "129.0.0.0", "c": "WEB", "cver": "2.20241028.01.00", "cplayer": "UNIPLAYER", "cmodel": "chromebook", "cos": "CrOS", "cosver": "14541.0.0", "cplatform": "DESKTOP", "autoplay": "1", "delay": 4, "hl": "en_US", "cr": "CA", "len": "335.041", "fexp": "v1 40912812, 40919522, 40919016, 40922735, 40924161, 41492107, 40930487, 40275186, 40065190, 40274519, 40902172, 40916269, 40921998, 40065073, 40067084, 40067808, 40923356, 40919005, 40924599, 40922251, 40917948, 40066728, 40275242, 40915985, 40916430, 40066374, 40066461, 40910731, 40939281, 40066407, 40917964, 40067323, 40272818, 40271929, 40067168, 40919279, 40913614, 40066819, 40273843, 40067674, 40919459, 40919016,, 40922103, 40067326, 40275702, 40918515, 40916066, 40923401 "feature": "autoplay", "afmt": "251", "muted": "0", "conn": "3", "cc": ".en.uYU-mmqFLq8", "docid": "PfZ3yq36TTk", "ei": "gB0hZ-GfFs-IkucP4fidoQ8", "plid": "AAYloQxonjchjLph", "referrer": "https://www.youtube.com/watch?v=LXneDDSE8oA&list=WL&index=3", "sdetail": "rv:LXneDDSE8oA", "sourceid": "yw", "autonav": "1", "list": "WL", "of": "2dVkz7e1rF9t_XNU6wGWIw", "vm": "CAEQABgEOjJBSHFpSlRJZXdzNFFvaVFFcmRKb2tsMHVVczhreGdQS1dQUi1zcllhcjg3S05OQ2tQZ2JgQU9BckJGczhpRk1WQTVnMDBkTnZVU3hKeW1EUV8yWjF2bmhhd0lMQ29YZFJJckdHOS11Y3JpUmcwM3ZEZjBIbGFkeDhRVXVPeFdHeTgtRklmZ0hQMmdXOE5YaDhXYjNz", "vct": "27.875", "vd": "335.041", "vpl": "0.000-27.875", "vbu": "0.000-70.933", "vbs": "0.000-335.041", "vpa": "0", "vsk": "0", "ven": "0", "vpr": "1", "vrs": "4", "vns": "2", "vec": "null", "vemsg": "", "vvol": "0.86", "vdom": "1", "vsrc": "1", "vw": "853", "vh": "480", "lct": "27.614", "lsk": false, "lmf": false, "lbw": "5406101.873", "lhd": "0.334", "lst": "0.000", "laa": "itag_251_type_3_src_reslicemakeSliceInfosMediaBytes_segsrc_reslicemakeSliceInfosMediaBytes_seg_7_range_898197-912055_time_78.8-80.0_off_102899_len_13859_end_1", "lva": "itag_244_type_3_src_reslicemakeSliceInfosMediaBytes_segsrc_reslicemakeSliceInfosMediaBytes_seg_13_range_222111-239617_time_65.9-70.9_off_0_len_17507_end_1", "lar": "itag_251_type_3_src_reslicemakeSliceInfosMediaBytes_segsrc_reslicemakeSliceInfosMediaBytes_seg_7_range_898197-912055_time_78.8-80.0_off_102899_len_13859_end_1", "lvr": "itag_244_type_3_src_reslicemakeSliceInfosMediaBytes_segsrc_reslicemakeSliceInfosMediaBytes_seg_13_range_222111-239617_time_65.9-70.9_off_0_len_17507_end_1", "laq": "0", "lvq": "0", "lab": "0.000-80.001", "lvb": "0.000-70.933", "ismb": 16520000, "leader": 1, "relative_loudness": "-6.560", "optimal_format": "720s", "user_qual": 0, "release_version": "youtube.player.web_20241027_00_RC00", "debug_videoId": "PfZ3yq36TTk", "0sz": "false", "op": "", "yof": "false", "dis": "", "gpu": "ANGLE(Intel,Vulkan_1.3.278(Intel(R)UHD_Graphics(JSL)(0x00004E55)),_Intel_open-source_Mesa_driver)", "ps": "desktop-polymer", "debug_playbackQuality": "large", "debug_date": "Tue Oct 29 2024 14:38:40 GMT-0300 (Atlantic Daylight Time)", "origin": "https://www.youtube.com/@Original.Crime.Organization, "timestamp": 1730223520910 }https://www.youtube.com/watch?v=PQB3_CjZapI&list=WL&index=4 Papa “Annie” Legba.N.Bbbrainwizzard.nb@gmail.com #14 Oct 29, 2024 11:06AM
+
+<iframe src="https://drive.google.com/file/d/1bgTgkMdYbuvHpO805r1P5xA9vdXJodGw/preview" width="640" height="480" allow="autoplay"></iframe>https://www.youtube.com/watch?v=yfyIYx0g7Z4&list=PL2k_pnhqM8EW8TKyCOCIIJx_ua3x97K6n YouTube November 1, 2022 11:05 AM (0 minutes ago) to me <iframe width="560" height="315" src="https://www.youtube.com/@Original.Crime.Organization" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>{https://www.google.com/ "vct": "0.000", "vd": "NaN", "vpl": "", "vbu": "", "vpa": "1", "vsk": "0", "ven": "0", "vpr": "1", "vrs": "0", "vns": "0", "vec": "null", "vemsg": "", "vvol": "1", "vdom": "1", "vsrc": "0", "vw": "0", "vh": "0", "state": "80", "debug_error": "{\"errorCode\":\"api.invalidparam\",\"errorMessage\":\"An error occurred. Please try again later.\",\"tL\":\"GENERIC_WITHOUT_LINK\",\"Km\":\"\",\"EH\":\"invalidVideodata.1;a6s.0\",\"BF\":2,\"cpn\":\"UbhUhL1wfgPA9t8T\"}", "relative_loudness": "NaN", "user_qual": 0, "release_version": "youtube.player.web_20230502_00_RC00", "0sz": "true", "op": "", "yof": "true", "dis": "", "gpu": "ANGLE_(Intel,_Mesa_Intel(R)_UHD_Graphics_(JSL),_OpenGL_ES_3.2)", "debug_playbackQuality": "unknown", "debug_date": "Fri May 05 2023 21:25:25 GMT-0300 (Atlantic Daylight Time)" }https://www.google.com/ 10:57 AM (5 minutes ago) to me <iframe src="https://drive.google.com/file/d/1CyPjd_sbKEkqQFMSmz54D9lHi6TPPKMO/view?usp=gmail&ts=671f37a0" width="640" height="480" allow="autoplay"></iframe>https://www.youtube.com/watch?v=yfyIYx0g7Z4&list=PL2k_pnhqM8EW8TKyCOCIIJx_ua3x97K6n allowfullscreen></iframe>{https://www.google.com/ "vct": "0.000", "vd": "NaN", "vpl": "", "vbu": "", "vpa": "1", "vsk": "0", "ven": "0", "vpr": "1", "vrs": "0", "vns": "0", "vec": "null", "vemsg": "", "vvol": "1", "vdom": "1", "vsrc": "0", "vw": "0", "vh": "0", "state": "80", "debug_error": "{\"errorCode\":\"api.invalidparam\",\"errorMessage\":\"An error occurred. Please try again later.\",\"tL\":\"GENERIC_WITHOUT_LINK\",\"Km\":\"\",\"EH\":\"invalidVideodata.1;a6s.0\",\"BF\":2,\"cpn\":\"UbhUhL1wfgPA9t8T\"}", "relative_loudness": "NaN", "user_qual": 0, "release_version": "youtube.player.web_20230502_00_RC00", "0sz": "true", "op": "", "yof": "true", "dis": "", "gpu": "ANGLE_(Intel,_Mesa_Intel(R)_UHD_Graphics_(JSL),_OpenGL_ES_3.2)", "debug_playbackQuality": "unknown", "debug_date": "Fri May 05 2023 21:25:25 GMT-0300 (Atlantic Daylight Time)" }https://drive.google.com/file/d/1CyPjd_sbKEkqQFMSmz54D9lHi6TPPKMO/view?usp=gmail&ts=671f37a0 { On Tue, Oct 29, 2024 at 1:04 AM wrote: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgynjDWayg5m8J03tZD4leFZUmu7_H_ZPAcsTAglyQmo1kEraIXW3k5FcPcPEo4vXFLaccjvLz7s7bC5Q1z2377k4a4-xZ49tWLOGUEQ-1qFaTeEF6ZFWFx94Dr8N-tTOG6Ee9Aw13VpxoweqMe1-AcK80Gl3lQ6Nj-sWJ1lztFJPOmuiBbjyrXLi2-n0Ah/s1079/Screenshot_20240611-200656_Chrome.jpg><https://www.youtube.com/playlist?list=PLbxdtzZM1ERx9C7bk6f56fpnVae4NrGzS{} @{}https://www.youtube.com/playlist?list=PLbxdtzZM1ERx9C7bk6f56fpnVae4NrGzS {{{{{{} @admiriss01-Hotlist: {https://youtu.be/MCM-mf3Zl3M?list=RDMCM-mf3Zl3M "ns": "yt", "el": "detailpage}https://youtu.be/MCM-mf3Zl3M?list=RDMCM-mf3Zl3M "ns": "yt", "el": "detailpage", "cpn": "4JKKk5nu295IC28W", "ver": 2, "cmt": "79.221", "fmt": "243", "fs": "0", "rt": "133.361", "euri": "", "lact": 3, "cl": "678482515", "mos": 0, "state": "8", "volume": 100, "subscribed": "1", "cbrand": "google", "cbr": "Chrome", "cbrver": "128.0.0.0", "c": "WEB", "cver": "2.20240925.09.00", "cplayer": "UNIPLAYER", "cmodel": "chromebook", "cos": "CrOS", "cosver": "14541.0.0", "cplatform": "DESKTOP", "hl": "en_US", "cr": "CA", "len": "290.681", "fexp": "v1,", "feature": "g-high-rec", "afmt": "251", "muted": "0", "conn": "3", "docid": "MCM-mf3Zl3M", "ei": "VpL2ZtbBMqy0kucPlpTI On Tue, Oct 29, 2024 at 1:04 AM https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgynjDWayg5m8J03tZD4leFZUmu7_H_ZPAcsTAglyQmo1kEraIXW3k5FcPcPEo4vXFLaccjvLz7s7bC5Q1z2377k4a4-xZ49tWLOGUEQ-1qFaTeEF6ZFWFx94Dr8N-tTOG6Ee9Aw13VpxoweqMe1-AcK80Gl3lQ6Nj-sWJ1lztFJPOmuiBbjyrXLi2-n0Ah/s1079/Screenshot_20240611-200656_Chrome.jpg><https://www.youtube.com/playlist?list=PLbxdtzZM1ERx9C7bk6f56fpnVae4NrGzS{} @{}https://www.youtube.com/@Porch-Monkeys {{{{{{} @admiriss01-Hotlist: {https://www.youtube.com/@Papa.Legba.NB 02 "ns": "yt", "el": "detailpage}https://www.github.com/chodum91 "ns": "yt", "el": "detailpage", "cpn": "4JKKk5nu295IC28W", "ver": 2, "cmt": "79.221", "fmt": "243", "fs": "0", "rt": "133.361", "euri": "", "lact": 3, "cl": "678482515", "mos": 0, "state": "8", "volume": 100, "subscribed": "1", "cbrand": "google", "cbr": "Chrome", "cbrver": "128.0.0.0", "c": "WEB", "cver": "2.20240925.09.00", "cplayer": "UNIPLAYER", "cmodel": "chromebook", "cos": "CrOS", "cosver": "14541.0.0", "cplatform": "DESKTOP",", "feature": "g-high-rec", "afmt": "251", "muted": "0", "conn": "3", "docid": "MCM-mf3Zl3M", "ei": "VpL2ZtbBMqy0kucPlpTI0Qs", "plid": "AAYjF-J2L5N1Gp3b", "referrer": "https://www.youtube.com/@Papa>Legba.NB", "sdetail": "p:/", "sourceid": "y", "list": "RDMCM-mf3Zl3M", "of": "m47hL5NGwagYCpXYZcc88A", "vm":1"CAIQARgEOjJBSHFpSlRKeGRrU0tuM0hoUHVNZHktWF9RVm5JaGt2VDI4VmpwQ1c3TkNYNlhDZDRud2JmQU9BckJGdngtWkVwaXQwRTR4UWRoRW10algzQlctZlpvXzRmYUlUZy0tMHpqSlBIT3YyLVlMSC0wNThuSVFvRkV6azAtMEtMTWFZT29XVjN5TnVYcDg1YXVBaGF2SWlhVk51UWVnuAEB", "vct": "79.221", "vd": "290.681", "vpl": "0.000-79.221", "vbu": "0.000-171.500", "vbs": "0.000-290.681", "vpa": "0", "vsk": "0", "ven": "0", "vpr": "1", "vrs": "4", "vns": "2", "vec": "null", "vemsg": "", "vvol": "1", "vdom": "1", "vsrc": "1", "vw": "681", "vh": "383", "lct": "79.027", "lsk": false, "lmf": false, "lbw": "6650061.431", "lhd": "0.046", "lst": "0.000", "laa": "itag_251_type_3_src_reslicemakeSliceInfosMediaBytes_segsrc_reslicemakeSliceInfosMediaBytes_seg_17_range_3169460-3174468_time_179.7-180.0_off_164347_len_5009_end_1", "lva": "itag_243_type_3_src_reslicemakeSliceInfosMediaBytes_segsrc_reslicemakeSliceInfosMediaBytes_seg_38_range_7652963-7721478_time_169.6-171.5_off_168812_len_68516_end_1", "lar": "itag_251_type_3_src_reslicemakeSliceInfosMediaBytes_segsrc_reslicemakeSliceInfosMediaBytes_seg_17_range_3169460-3174468_time_179.7-180.0_off_164347_len_5009_end_1", "lvr": "itag_243_type_3_src_reslicemakeSliceInfosMediaBytes_segsrc_reslicemakeSliceInfosMediaBytes_seg_38_range_7652963-7721478_time_169.6-171.5_off_168812_len_68516_end_1", "laq": "0", "lvq": "0", "lab": "0.000-180.001", "lvb": "0.000-171.500", "ismb": 13170000, "leader": 1, "relative_loudness": "-0.110", "optimal_format": "360p", "user_qual": 0, "release_version": "youtube.player.web_20240924_01_RC00", "debug_videoId": "MCM-mf3Zl3M", "0sz": "false", "op": "", "yof": "false", "dis": "", "gpu": "ANGLE_(Intel,_Vulkan_1.3.278_(Intel(R)_UHD_Graphics_(JSL)_(0x00004E55)),_Intel_open-source_Mesa_driver)", "ps": "desktop-polymer", "debug_playbackQuality": "medium", "debug_date": "Fri Sep 27 2024 08:11:29 GMT-0300 (Atlantic Daylight Time)", "origin": "https://www.youtube.com", "timestamp": 1727435489801 }a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYEDFFmkCBXsx-K43jrGtWWt93LtIJazWPrCLU6FgoUcFQOJKaPBHLjsjEjLcmXW7DkpA4oLO72auZ1tgMl3ENMK_yhMtz6joqvpPEvZ7HapByur3xJXsBhzb_NHTuIUlIVUsXVBCMj5fSMKxTg7X5hSysvltp5TnKXAKUxIfBBIzmhF4P_gzFthUvIA/s1600/IMG_20230607_142859.jpg" style="display: block; padding: 1em 0; text-align: center; "> www.rainwizzard@blogspot.com ..June 05, 2023 21:07 PM[display:•^^^•_~_}_{0.0}_{_~_•^^^••^^^•_~_}_{0.0}_{_~_•^^^••^^^•_~_}_{0.0}{_~_•^^^• block •^^^•_~_}_{0.0}_{_~_•^^^••^^^•_~_}_{0.0}_{_~_•^^^••^^^•_~_}_{0.0{_~_•^^^• menuitem { display:•^^^•_~_}_{0.0}_{_~_•^^^••^^^•_~_}_{0.0}_{_~_•^^^••^^^•_~_}_{0.0}{_~_•^^^• block •^^^•_~_}_{0.0}_{_~_•^^^••^^^•_~_}_{0.0}_{_~_•^^^••^^^•_~_}_{0.0{_~_•^^^• _{_~_•^^^•le=\"--hterm-cursor-color: #669DF680display:•^^^•_~_}_{0.0}_{_~_•^^^••^^^•_~_}_{0.0}_{_~_•^^^••^^^•_~_}_{0.0}{_~_•^^^• block •^^^•_~_}_{0.0}_{_~_•^^^••^^^•_~_}_{0.0}_{_~_•^^^••^^^•_~_}_{0.0{_~_•^^^• menuitem { display:•^^^•_~_}_{0.0}_{_~_•^^^••^^^•_~_}_{0.0}_{_~_•^^^••^^^•_~_}_{0.0}{_~_•^^^• block •^^^•_~_}_{0.0}_{_~_•^^^••^^^•_~_}_{0.0}_{_~_•^^^••^^^•_~_}_{0.0{_~_•^^^• _{_~_•^^^•le=\"--hterm-cursor-color: #669DF680 ...From: "Papa Legba.N.B" wrote: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgynjDWayg5m8J03tZD4leFZUmu7_H_ZPAcsTAglyQmo1kEraIXW3k5FcPcPEo4vXFLaccjvLz7s7bC5Q1z2377k4a4-xZ49tWLOGUEQ-1qFaTeEF6ZFWFx94Dr8N-tTOG6Ee9Aw13VpxoweqMe1-AcK80Gl3lQ6Nj-sWJ1lztFJPOmuiBbjyrXLi2-n0Ah/s1079/Screenshot_20240611-200656_Chrome.jpg@{
+On Mon, Oct 28, 2024 at 4:06 AM
+
+Papa.Legba.N.B 506 https://www.youtube.com/playlist?list=PLbxdtzZM1ERw79RxO-C7FSNHeY1RqLhqJ
+
+Papa.Legba.N.B 506 https://www.youtube.com/playlist?list=PLbxdtzZM1ERw79RxO-C7FSNHeY1RqLhqJ
+
+bb...@gmail.com<bb...@gmail.com> #36Oct 29, 2024 06:15PM
+<iframe src="https://drive.google.com/file/d/1fwTThZzUlKiktf4rYIHCyPbyzX_b61Ec/preview" width="640" height="480" allow="autoplay"></iframe>"363311821_174494288973151_5421319352515451432_n.j…"https://drive.google.com/file/d/1fwTThZzUlKiktf4rYIHCyPbyzX_b61Ec/view?usp=sharing<iframe src="https://www.youtube.com/watch?v=jM8dCGIm6yc&list=RDMM/preview" width="640" height="480" allow="autoplay"></iframe>"363311821_174494288973151_5421319352515451432_n.j…"https://drive.google.com/file/d/1fwTThZzUlKiktf4rYIHCyPbyzX_b61Ec/view?usp=sharing
+bb...@gmail.com<bb...@gmail.com> #37Oct 29, 2024 11:34PM
+shannon annie shannon.annie506@gmail.com 11:29 PM (3 minutes ago) to me, Sony
+
+{ "ns": "yt", "el": "detailpage", "cpn": "Dql6S2BFwIb2yUoR", "ver": 2, "cmt": "42.284", "fmt": "243", "fs": "0", "rt": "49.807", "euri": "", "lact": 1, "cl": "534545706", "mos": 0, "state": "8", "volume": 100, "cbrand": "google", "cbr": "Chrome", "cbrver": "113.0.0.0", "c": "WEB", "cver": "2.20230530.05.00", "cplayer": "UNIPLAYER", "cmodel": "chromebook", "cos": "CrOS", "cosver": "14541.0.0", "cplatform": "DESKTOP", "hl": "en_US", "cr": "CA", "len": "131.381", "fexp": "23983296,23986026,24004644,24007246,24080738,241 35310,24219382,24255165,24363113,24364789,243684 44,24368936,24415864,24433679,24437577,24439361,2 4451437,24532855,24550458,24550951,24556991,2455 8641,24559644,24691744,24698915,24699899,3932307 4,39323713", "afmt": "251", "muted": "0", "conn": "3",
+
+"docid": "_UXP2RABUDA", "ei": "r3Z4ZL- SKsPZgwPeiKLoCQ", "plid": "AAX9DyEDq7rfkBNr",
+
+"referrer": "https://www.google.com/", "sdetail": "p:www.google.com/", "sourceid": "r", "of": "iSv_ZmrtQNZCzWrEG0t5Pg", "osid": "NjVjMjgxODU:AOeUNAb7G7uKdVCL_BUYy0ASwsdbgw68 SA", "vm": "CAMQARgBOjJBQ00wQ1loR2hKSk1MS1AzWlpZWTlCSE1 4Q2JJWGVXZm9XVnBRN0tnbHJlQVhNbFEtd2JgQVBta0t ETG50ZnNCdlZvODlBaGdGZ0thQnIwTHBZZzRmLUh1Wm UxYlpIUjBRNk1meVpFTHlNTjNRbTgzelBseVh2bDFuREs3a zVGLWN0Mlh0VVR5MjUzSF9JMTJ4Tlg3aAE", "vct": "42.284", "vd": "131.381", "vpl": "0.000-42.284", "vbu": "0.000-110.001", "vpa": "0", "vsk": "0", "ven": "0", "vpr": "1", "vrs": "4", "vns": "2", "vec": "null", "vemsg": "", "vvol": "1", "vdom": "1", "vsrc": "1", "vw": "402", "vh": "401", "lct": "42.135", "lsk": false, "lmf": false, "lbw": "439876.393", "lhd": "0.310", "lst": "1478.238", "laa": "itag_251_type_3_src_reslicegetRequestInfoForRange_seg Papa.Legba.N.B White Boy Expo
+
+10/20/24, 1:19 PM { "ns": "yt", "el": "detailpage", "cpn": "Dql6S2BFwIb2yUoR", "ver": 2, "cmt": "42.284", "fmt": "243", "fs": "0", "rt": "49.807", "euri": "", "l...
+
+https://newbrun1074.blogspot.com/2023/05/httpsplus.html#comments 1/14
+
+src_reslicegetRequestInfoForRange_seg_10_range_12788 87-1404265_time_100.0-110.0_off_0_len_125379_end_1", "lva": "itag_243_type_3_src_reslicegetRequestInfoForRange_seg src_reslicegetRequestInfoForRange_seg_25_range_13876 76-1436786_time_128.0- 131.4_off_0_len_49111_end_1_eos_1", "lar": "itag_251_type_3_src_getRequestInfoForRange_segsrc_ge tRequestInfoForRange_seg_10_range_1278887- 1404265_time_100.0-110.0_off_0_len_125379_end_1", "lvr": "itag_243_type_3_src_getRequestInfoForRange_segsrc_ge tRequestInfoForRange_seg_25_range_1387676- 1436786_time_128.0- 131.4_off_0_len_49111_end_1_eos_1", "laq": "0", "lvq": "0", "lab": "0.000-110.001", "lvb": "0.000-131.360", "ismb": 25120000, "leader": 1, "relative_loudness": "-7.640", "optimal_format": "360p", "user_qual": 0, "release_version": "youtube.player.web_20230523_01_RC00", "debug_videoId": "_UXP2RABUDA", "0sz": "false", "op": "", "yof": "false", "dis": "", "gpu": "Mesa_Intel(R)UHD_Graphics(JSL)", "debug_playbackQuality": "medium", "debug_date": "Thu Jun 01 2023 07:45:56 GMT-0300 (Atlantic Daylight Time)" }
+
+May 30, 2023-qusq-muw {https://www.google.com/-/ https://drive.google.com/file/d/1Lay7jrAdTgMUw0eljM3uDqw9UnDW5qLT/view
+
+"vct": "0.000",
+
+"vd": "NaN",
+
+"vpl": "",
+
+"vbu": "",
+
+"vpa": "1",
+
+"vsk": "0",
+
+"ven": "0",
+
+"vpr": "1",
+
+"vrs": "0",
+
+"vns": "0",
+
+"vec": "null",
+
+"vemsg": "",
+
+"vvol": "1",
+
+"vdom": "1",
+
+"vsrc": "0",
+
+"vw": "0",
+
+"vh": "0",
+
+"state": "80",
+
+"debug_error": "{"errorCode":"api.invalidparam","errorMessage":"An error occurred. Please try again later.","tL":"GENERIC_WITHOUT_LINK","Km":"","EH":"invalidVideodata.1;a6s.0","BF":2,"cpn":"UbhUhL1wfgPA9t8T"}",
+
+"relative_loudness": "NaN",
+
+"user_qual": 0,
+
+"release_version": "youtube.player.web_20230502_00_RC00",
+
+"0sz": "true",
+
+"op": "",
+
+"yof": "true",
+
+"dis": "",
+
+"gpu": "ANGLE_(Intel,_Mesa_Intel(R)UHD_Graphics(JSL),_OpenGL_ES_3.2)",
+
+"debug_playbackQuality": "unknown",
+
+"debug_date": "Fri May 05 2023 21:25:25 GMT-0300 (Atlantic Daylight Time)"
+
+{ "vct": "0.000", "vd": "NaN", "vpl": "", "vbu": "", "vbs": "", "vpa": "1", "vsk": "0", "ven": "0", "vpr": "1", "vrs": "0", "vns": "0", "vec": "null", "vemsg": "", "vvol": "0.25", "vdom": "1", "vsrc": "0", "vw": "0", "vh": "0", "state": "80", "debug_error": "{"errorCode":"api.invalidparam","errorMessage":"An error occurred. Please try again later.","ZP":"GENERIC_WITHOUT_LINK","Bo":"","QM":"invalidVideodata.1;a6s.1","GA":2,"cpn":"XoWq43eGQcrqc2TJ"}", "relative_loudness": "NaN", "user_qual": 0, "release_version": "youtube.player.web_20241022_01_RC00", "0sz": "true", "op": "", "yof": "true", "dis": "", "gpu": "ANGLE_(Intel,Vulkan_1.3.278(Intel(R)UHD_Graphics(JSL)_(0x00004E55)),_Intel_open-source_Mesa_driver)", "debug_playbackQuality": "unknown", "debug_date": "Sun Oct 27 2024 13:08:27 GMT-0300 (Atlantic Daylight Time)", "origin": "https://****youtube.com", "timestamp": 1730045307243} https://github.com/Chodum91/Chodum91.git}https://www.google.com/
+
+https://chodum91.blogspot.com/
+<iframe src="https://assets.pinterest.com/ext/embed.html..." height="550" width="450" frameborder="0" scrolling="no" ></iframe> <src="https://assets.pinterest.com/ext/embed.html..." height="550" width="450" frameborder="0" scrolling="no" ></iframe>/Dark_Rose75 @keep2shareio https://support.google.com/profile/215878620?sjid=16098340748890879105%20%20%20%20%20%20 Edit Admirss01 Forms}{.0..0.}{ https://chodum91.blogspot.com/{ "ns": "yt", "el": "detailpage", "cpn": "Dql6S2BFwIb2yUoR", "ver": 2, "cmt": "42.284", "fmt": "243", "fs": "0", "rt": "49.807", "euri": "", "lact": 1, "cl": "534545706", "mos": 0, "state": "8", "volume": 100, "cbrand": "google", "cbr": "Chrome", "cbrver": "113.0.0.0", "c": "WEB", "cver": "2.20230530.05.00", "cplayer": "UNIPLAYER", "cmodel": "chromebook", "cos": "CrOS", "cosver": "14541.0.0", "cplatform": "DESKTOP", "hl": "en_US", "cr": "CA", "len": "131.381", "fexp": "23983296,23986026,24004644,24007246,24080738,241 35310,24219382,24255165,24363113,24364789,243684 44,24368936,24415864,24433679,24437577,24439361,2 4451437,24532855,24550458,24550951,24556991,2455 8641,24559644,24691744,24698915,24699899,3932307 4,39323713", "afmt": "251", "muted": "0", "conn": "3",
+
+"docid": "_UXP2RABUDA", "ei": "r3Z4ZL- SKsPZgwPeiKLoCQ", "plid": "AAX9DyEDq7rfkBNr",
+
+"referrer": "https://www.google.com/", "sdetail": "p:www.google.com/", "sourceid": "r", "of": "iSv_ZmrtQNZCzWrEG0t5Pg", "osid": "NjVjMjgxODU:AOeUNAb7G7uKdVCL_BUYy0ASwsdbgw68 SA", "vm": "CAMQARgBOjJBQ00wQ1loR2hKSk1MS1AzWlpZWTlCSE1 4Q2JJWGVXZm9XVnBRN0tnbHJlQVhNbFEtd2JgQVBta0t ETG50ZnNCdlZvODlBaGdGZ0thQnIwTHBZZzRmLUh1Wm UxYlpIUjBRNk1meVpFTHlNTjNRbTgzelBseVh2bDFuREs3a zVGLWN0Mlh0VVR5MjUzSF9JMTJ4Tlg3aAE", "vct": "42.284", "vd": "131.381", "vpl": "0.000-42.284", "vbu": "0.000-110.001", "vpa": "0", "vsk": "0", "ven": "0", "vpr": "1", "vrs": "4", "vns": "2", "vec": "null", "vemsg": "", "vvol": "1", "vdom": "1", "vsrc": "1", "vw": "402", "vh": "401", "lct": "42.135", "lsk": false, "lmf": false, "lbw": "439876.393", "lhd": "0.310", "lst": "1478.238", "laa": "itag_251_type_3_src_reslicegetRequestInfoForRange_seg Papa.Legba.N.B White Boy Expo
+
+10/20/24, 1:19 PM { "ns": "yt", "el": "detailpage", "cpn": "Dql6S2BFwIb2yUoR", "ver": 2, "cmt": "42.284", "fmt": "243", "fs": "0", "rt": "49.807", "euri": "", "l...
+
+https://newbrun1074.blogspot.com/2023/05/httpsplus.html#comments 1/14
+
+src_reslicegetRequestInfoForRange_seg_10_range_12788 87-1404265_time_100.0-110.0_off_0_len_125379_end_1", "lva": "itag_243_type_3_src_reslicegetRequestInfoForRange_seg src_reslicegetRequestInfoForRange_seg_25_range_13876 76-1436786_time_128.0- 131.4_off_0_len_49111_end_1_eos_1", "lar": "itag_251_type_3_src_getRequestInfoForRange_segsrc_ge tRequestInfoForRange_seg_10_range_1278887- 1404265_time_100.0-110.0_off_0_len_125379_end_1", "lvr": "itag_243_type_3_src_getRequestInfoForRange_segsrc_ge tRequestInfoForRange_seg_25_range_1387676- 1436786_time_128.0- 131.4_off_0_len_49111_end_1_eos_1", "laq": "0", "lvq": "0", "lab": "0.000-110.001", "lvb": "0.000-131.360", "ismb": 25120000, "leader": 1, "relative_loudness": "-7.640", "optimal_format": "360p", "user_qual": 0, "release_version": "youtube.player.web_20230523_01_RC00", "debug_videoId": "_UXP2RABUDA", "0sz": "false", "op": "", "yof": "false", "dis": "", "gpu": "Mesa_Intel(R)UHD_Graphics(JSL)", "debug_playbackQuality": "medium", "debug_date": "Thu Jun 01 2023 07:45:56 GMT-0300 (Atlantic Daylight Time)" }
+
+May 30, 2023une 21, 2023 Image https://github.com/Chodum91/Papa.Legba.NB/issues/29 (m=bJWsSeKlbyaT)(mh=4N6NZAtseWL0p9UF)male.jpg {https://github.com/.../blob/master/names.conf.proposed} https://toolbox.googleapps.com/apps/main/ https://drive.google.com/.../1p8X-n.../view... http://getpocket.com/@050A8g3cdu224Tu07ep7851p0gTKd039876... https://github.com/Chodum91/Papa.Legba.NB/, Google Content https://newbrun1074.blogspot.com/2023/06/blog-post.html
+
+https://support.google.com/profile/215878620?sjid=16098340748890879105%20%20%20%20%20%20to Sony, me Papa.Legba.N.B image.png Sony, me
+
+<iframe src="https://drive.google.com/file/d/1fwTThZzUlKiktf4rYIHCyPbyzX_b61Ec/preview" width="640" height="480" allow="autoplay"></iframe>"363311821_174494288973151_5421319352515451432_n.j…"https://drive.google.com/file/d/1fwTThZzUlKiktf4rYIHCyPbyzX_b61Ec/view?usp=sharing<iframe src="https://www.youtube.com/watch?v=jM8dCGIm6yc&list=RDMM/preview" width="640" height="480" allow="autoplay"></iframe>"363311821_174494288973151_5421319352515451432_n.j…"https://drive.google.com/file/d/1fwTThZzUlKiktf4rYIHCyPbyzX_b61Ec/view?usp=sharing · Papa.Legba.N.B 8 followers https://youtube.com/@White-Boy-Papalega.N.B ; My Way. CRUCIFIX. 2M views ; Eminem - Till I Collapse Remix Nate Dogg, Lil Jon, 2Pac, Ice Cube, Dr. Dre, Eazy E, DMX ... Missing: PLbxdtzZM1ERw79RxO- ‎C7FSNHeY1RqLhqJ Sony, me
+<iframe src="https://drive.google.com/file/d/1fwTThZzUlKiktf4rYIHCyPbyzX_b61Ec/preview" width="640" height="480" allow="autoplay"></iframe>"363311821_174494288973151_5421319352515451432_n.j…"https://drive.google.com/file/d/1fwTThZzUlKiktf4rYIHCyPbyzX_b61Ec/view?usp=sharing<iframe src="https://www.youtube.com/watch?v=jM8dCGIm6yc&list=RDMM/preview" width="640" height="480" allow="autoplay"></iframe>"363311821_174494288973151_5421319352515451432_n.j…"https://drive.google.com/file/d/1fwTThZzUlKiktf4rYIHCyPbyzX_b61Ec/view?usp=sharing hI D=8958248863274614623&postID=982138496058676472
+meet.google.com/pue-qusq-muw {https://www.google.com/-/ https://drive.google.com/file/d/1Lay7jrAdTgMUw0eljM3uDqw9UnDW5qLT/view
+
+"vct": "0.000",
+
+"vd": "NaN",
+
+"vpl": "",
+
+"vbu": "",
+
+"vpa": "1",
+
+"vsk": "0",
+
+"ven": "0",
+
+"vpr": "1",
+
+"vrs": "0",
+
+"vns": "0",
+
+"vec": "null",
+
+"vemsg": "",
+
+"vvol": "1",
+
+"vdom": "1",
+
+"vsrc": "0",
+
+...
+
+[Message clipped] View entire message 3 Attachments • Scanned by Gmail Preview YouTube video The HU - Wolf Totem (Official Music Video)
+
+bb...@gmail.com<bb...@gmail.com> #38Oct 29, 2024 11:35PM
+shannon annie shannon.annie506@gmail.com 11:29 PM (3 minutes ago) to me, Sony
+
+{ "ns": "yt", "el": "detailpage", "cpn": "Dql6S2BFwIb2yUoR", "ver": 2, "cmt": "42.284", "fmt": "243", "fs": "0", "rt": "49.807", "euri": "", "lact": 1, "cl": "534545706", "mos": 0, "state": "8", "volume": 100, "cbrand": "google", "cbr": "Chrome", "cbrver": "113.0.0.0", "c": "WEB", "cver": "2.20230530.05.00", "cplayer": "UNIPLAYER", "cmodel": "chromebook", "cos": "CrOS", "cosver": "14541.0.0", "cplatform": "DESKTOP", "hl": "en_US", "cr": "CA", "len": "131.381", "fexp": "23983296,23986026,24004644,24007246,24080738,241 35310,24219382,24255165,24363113,24364789,243684 44,24368936,24415864,24433679,24437577,24439361,2 4451437,24532855,24550458,24550951,24556991,2455 8641,24559644,24691744,24698915,24699899,3932307 4,39323713", "afmt": "251", "muted": "0", "conn": "3",
+
+"docid": "_UXP2RABUDA", "ei": "r3Z4ZL- SKsPZgwPeiKLoCQ", "plid": "AAX9DyEDq7rfkBNr",
+
+"referrer": "https://www.google.com/", "sdetail": "p:www.google.com/", "sourceid": "r", "of": "iSv_ZmrtQNZCzWrEG0t5Pg", "osid": "NjVjMjgxODU:AOeUNAb7G7uKdVCL_BUYy0ASwsdbgw68 SA", "vm": "CAMQARgBOjJBQ00wQ1loR2hKSk1MS1AzWlpZWTlCSE1 4Q2JJWGVXZm9XVnBRN0tnbHJlQVhNbFEtd2JgQVBta0t ETG50ZnNCdlZvODlBaGdGZ0thQnIwTHBZZzRmLUh1Wm UxYlpIUjBRNk1meVpFTHlNTjNRbTgzelBseVh2bDFuREs3a zVGLWN0Mlh0VVR5MjUzSF9JMTJ4Tlg3aAE", "vct": "42.284", "vd": "131.381", "vpl": "0.000-42.284", "vbu": "0.000-110.001", "vpa": "0", "vsk": "0", "ven": "0", "vpr": "1", "vrs": "4", "vns": "2", "vec": "null", "vemsg": "", "vvol": "1", "vdom": "1", "vsrc": "1", "vw": "402", "vh": "401", "lct": "42.135", "lsk": false, "lmf": false, "lbw": "439876.393", "lhd": "0.310", "lst": "1478.238", "laa": "itag_251_type_3_src_reslicegetRequestInfoForRange_seg Papa.Legba.N.B White Boy Expo
+
+10/20/24, 1:19 PM { "ns": "yt", "el": "detailpage", "cpn": "Dql6S2BFwIb2yUoR", "ver": 2, "cmt": "42.284", "fmt": "243", "fs": "0", "rt": "49.807", "euri": "", "l...
+
+https://newbrun1074.blogspot.com/2023/05/httpsplus.html#comments 1/14
+
+src_reslicegetRequestInfoForRange_seg_10_range_12788 87-1404265_time_100.0-110.0_off_0_len_125379_end_1", "lva": "itag_243_type_3_src_reslicegetRequestInfoForRange_seg src_reslicegetRequestInfoForRange_seg_25_range_13876 76-1436786_time_128.0- 131.4_off_0_len_49111_end_1_eos_1", "lar": "itag_251_type_3_src_getRequestInfoForRange_segsrc_ge tRequestInfoForRange_seg_10_range_1278887- 1404265_time_100.0-110.0_off_0_len_125379_end_1", "lvr": "itag_243_type_3_src_getRequestInfoForRange_segsrc_ge tRequestInfoForRange_seg_25_range_1387676- 1436786_time_128.0- 131.4_off_0_len_49111_end_1_eos_1", "laq": "0", "lvq": "0", "lab": "0.000-110.001", "lvb": "0.000-131.360", "ismb": 25120000, "leader": 1, "relative_loudness": "-7.640", "optimal_format": "360p", "user_qual": 0, "release_version": "youtube.player.web_20230523_01_RC00", "debug_videoId": "_UXP2RABUDA", "0sz": "false", "op": "", "yof": "false", "dis": "", "gpu": "Mesa_Intel(R)UHD_Graphics(JSL)", "debug_playbackQuality": "medium", "debug_date": "Thu Jun 01 2023 07:45:56 GMT-0300 (Atlantic Daylight Time)" }
+
+May 30, 2023-qusq-muw {https://www.google.com/-/ https://drive.google.com/file/d/1Lay7jrAdTgMUw0eljM3uDqw9UnDW5qLT/view
+
+"vct": "0.000",
+
+"vd": "NaN",
+
+"vpl": "",
+
+"vbu": "",
+
+"vpa": "1",
+
+"vsk": "0",
+
+"ven": "0",
+
+"vpr": "1",
+
+"vrs": "0",
+
+"vns": "0",
+
+"vec": "null",
+
+"vemsg": "",
+
+"vvol": "1",
+
+"vdom": "1",
+
+"vsrc": "0",
+
+"vw": "0",
+
+"vh": "0",
+
+"state": "80",
+
+"debug_error": "{"errorCode":"api.invalidparam","errorMessage":"An error occurred. Please try again later.","tL":"GENERIC_WITHOUT_LINK","Km":"","EH":"invalidVideodata.1;a6s.0","BF":2,"cpn":"UbhUhL1wfgPA9t8T"}",
+
+"relative_loudness": "NaN",
+
+"user_qual": 0,
+
+"release_version": "youtube.player.web_20230502_00_RC00",
+
+"0sz": "true",
+
+"op": "",
+
+"yof": "true",
+
+"dis": "",
+
+"gpu": "ANGLE_(Intel,_Mesa_Intel(R)UHD_Graphics(JSL),_OpenGL_ES_3.2)",
+
+"debug_playbackQuality": "unknown",
+
+"debug_date": "Fri May 05 2023 21:25:25 GMT-0300 (Atlantic Daylight Time)"
+
+{ "vct": "0.000", "vd": "NaN", "vpl": "", "vbu": "", "vbs": "", "vpa": "1", "vsk": "0", "ven": "0", "vpr": "1", "vrs": "0", "vns": "0", "vec": "null", "vemsg": "", "vvol": "0.25", "vdom": "1", "vsrc": "0", "vw": "0", "vh": "0", "state": "80", "debug_error": "{"errorCode":"api.invalidparam","errorMessage":"An error occurred. Please try again later.","ZP":"GENERIC_WITHOUT_LINK","Bo":"","QM":"invalidVideodata.1;a6s.1","GA":2,"cpn":"XoWq43eGQcrqc2TJ"}", "relative_loudness": "NaN", "user_qual": 0, "release_version": "youtube.player.web_20241022_01_RC00", "0sz": "true", "op": "", "yof": "true", "dis": "", "gpu": "ANGLE_(Intel,Vulkan_1.3.278(Intel(R)UHD_Graphics(JSL)_(0x00004E55)),_Intel_open-source_Mesa_driver)", "debug_playbackQuality": "unknown", "debug_date": "Sun Oct 27 2024 13:08:27 GMT-0300 (Atlantic Daylight Time)", "origin": "https://****youtube.com", "timestamp": 1730045307243} https://github.com/Chodum91/Chodum91.git}https://www.google.com/
+
+https://chodum91.blogspot.com/
+<iframe src="https://assets.pinterest.com/ext/embed.html..." height="550" width="450" frameborder="0" scrolling="no" ></iframe> <src="https://assets.pinterest.com/ext/embed.html..." height="550" width="450" frameborder="0" scrolling="no" ></iframe>/Dark_Rose75 @keep2shareio https://support.google.com/profile/215878620?sjid=16098340748890879105%20%20%20%20%20%20 Edit Admirss01 Forms}{.0..0.}{ https://chodum91.blogspot.com/{ "ns": "yt", "el": "detailpage", "cpn": "Dql6S2BFwIb2yUoR", "ver": 2, "cmt": "42.284", "fmt": "243", "fs": "0", "rt": "49.807", "euri": "", "lact": 1, "cl": "534545706", "mos": 0, "state": "8", "volume": 100, "cbrand": "google", "cbr": "Chrome", "cbrver": "113.0.0.0", "c": "WEB", "cver": "2.20230530.05.00", "cplayer": "UNIPLAYER", "cmodel": "chromebook", "cos": "CrOS", "cosver": "14541.0.0", "cplatform": "DESKTOP", "hl": "en_US", "cr": "CA", "len": "131.381", "fexp": "23983296,23986026,24004644,24007246,24080738,241 35310,24219382,24255165,24363113,24364789,243684 44,24368936,24415864,24433679,24437577,24439361,2 4451437,24532855,24550458,24550951,24556991,2455 8641,24559644,24691744,24698915,24699899,3932307 4,39323713", "afmt": "251", "muted": "0", "conn": "3",
+
+"docid": "_UXP2RABUDA", "ei": "r3Z4ZL- SKsPZgwPeiKLoCQ", "plid": "AAX9DyEDq7rfkBNr",
+
+"referrer": "https://www.google.com/", "sdetail": "p:www.google.com/", "sourceid": "r", "of": "iSv_ZmrtQNZCzWrEG0t5Pg", "osid": "NjVjMjgxODU:AOeUNAb7G7uKdVCL_BUYy0ASwsdbgw68 SA", "vm": "CAMQARgBOjJBQ00wQ1loR2hKSk1MS1AzWlpZWTlCSE1 4Q2JJWGVXZm9XVnBRN0tnbHJlQVhNbFEtd2JgQVBta0t ETG50ZnNCdlZvODlBaGdGZ0thQnIwTHBZZzRmLUh1Wm UxYlpIUjBRNk1meVpFTHlNTjNRbTgzelBseVh2bDFuREs3a zVGLWN0Mlh0VVR5MjUzSF9JMTJ4Tlg3aAE", "vct": "42.284", "vd": "131.381", "vpl": "0.000-42.284", "vbu": "0.000-110.001", "vpa": "0", "vsk": "0", "ven": "0", "vpr": "1", "vrs": "4", "vns": "2", "vec": "null", "vemsg": "", "vvol": "1", "vdom": "1", "vsrc": "1", "vw": "402", "vh": "401", "lct": "42.135", "lsk": false, "lmf": false, "lbw": "439876.393", "lhd": "0.310", "lst": "1478.238", "laa": "itag_251_type_3_src_reslicegetRequestInfoForRange_seg Papa.Legba.N.B White Boy Expo
+
+10/20/24, 1:19 PM { "ns": "yt", "el": "detailpage", "cpn": "Dql6S2BFwIb2yUoR", "ver": 2, "cmt": "42.284", "fmt": "243", "fs": "0", "rt": "49.807", "euri": "", "l...
+
+https://newbrun1074.blogspot.com/2023/05/httpsplus.html#comments 1/14
+
+src_reslicegetRequestInfoForRange_seg_10_range_12788 87-1404265_time_100.0-110.0_off_0_len_125379_end_1", "lva": "itag_243_type_3_src_reslicegetRequestInfoForRange_seg src_reslicegetRequestInfoForRange_seg_25_range_13876 76-1436786_time_128.0- 131.4_off_0_len_49111_end_1_eos_1", "lar": "itag_251_type_3_src_getRequestInfoForRange_segsrc_ge tRequestInfoForRange_seg_10_range_1278887- 1404265_time_100.0-110.0_off_0_len_125379_end_1", "lvr": "itag_243_type_3_src_getRequestInfoForRange_segsrc_ge tRequestInfoForRange_seg_25_range_1387676- 1436786_time_128.0- 131.4_off_0_len_49111_end_1_eos_1", "laq": "0", "lvq": "0", "lab": "0.000-110.001", "lvb": "0.000-131.360", "ismb": 25120000, "leader": 1, "relative_loudness": "-7.640", "optimal_format": "360p", "user_qual": 0, "release_version": "youtube.player.web_20230523_01_RC00", "debug_videoId": "_UXP2RABUDA", "0sz": "false", "op": "", "yof": "false", "dis": "", "gpu": "Mesa_Intel(R)UHD_Graphics(JSL)", "debug_playbackQuality": "medium", "debug_date": "Thu Jun 01 2023 07:45:56 GMT-0300 (Atlantic Daylight Time)" }
+
+May 30, 2023une 21, 2023 Image https://github.com/Chodum91/Papa.Legba.NB/issues/29 (m=bJWsSeKlbyaT)(mh=4N6NZAtseWL0p9UF)male.jpg {https://github.com/.../blob/master/names.conf.proposed} https://toolbox.googleapps.com/apps/main/ https://drive.google.com/.../1p8X-n.../view... http://getpocket.com/@050A8g3cdu224Tu07ep7851p0gTKd039876... https://github.com/Chodum91/Papa.Legba.NB/, Google Content https://newbrun1074.blogspot.com/2023/06/blog-post.html
+
+https://support.google.com/profile/215878620?sjid=16098340748890879105%20%20%20%20%20%20to Sony, me Papa.Legba.N.B image.png Sony, me
+
+<iframe src="https://drive.google.com/file/d/1fwTThZzUlKiktf4rYIHCyPbyzX_b61Ec/preview" width="640" height="480" allow="autoplay"></iframe>"363311821_174494288973151_5421319352515451432_n.j…"https://drive.google.com/file/d/1fwTThZzUlKiktf4rYIHCyPbyzX_b61Ec/view?usp=sharing<iframe src="https://www.youtube.com/watch?v=jM8dCGIm6yc&list=RDMM/preview" width="640" height="480" allow="autoplay"></iframe>"363311821_174494288973151_5421319352515451432_n.j…"https://drive.google.com/file/d/1fwTThZzUlKiktf4rYIHCyPbyzX_b61Ec/view?usp=sharing · Papa.Legba.N.B 8 followers https://youtube.com/@White-Boy-Papalega.N.B ; My Way. CRUCIFIX. 2M views ; Eminem - Till I Collapse Remix Nate Dogg, Lil Jon, 2Pac, Ice Cube, Dr. Dre, Eazy E, DMX ... Missing: PLbxdtzZM1ERw79RxO- ‎C7FSNHeY1RqLhqJ Sony, me
+<iframe src="https://drive.google.com/file/d/1fwTThZzUlKiktf4rYIHCyPbyzX_b61Ec/preview" width="640" height="480" allow="autoplay"></iframe>"363311821_174494288973151_5421319352515451432_n.j…"https://drive.google.com/file/d/1fwTThZzUlKiktf4rYIHCyPbyzX_b61Ec/view?usp=sharing<iframe src="https://www.youtube.com/watch?v=jM8dCGIm6yc&list=RDMM/preview" width="640" height="480" allow="autoplay"></iframe>"363311821_174494288973151_5421319352515451432_n.j…"https://drive.google.com/file/d/1fwTThZzUlKiktf4rYIHCyPbyzX_b61Ec/view?usp=sharing hI D=8958248863274614623&postID=982138496058676472
+meet.google.com/pue-qusq-muw {https://www.google.com/-/ https://drive.google.com/file/d/1Lay7jrAdTgMUw0eljM3uDqw9UnDW5qLT/view
+
+"vct": "0.000",
+
+"vd": "NaN",
+
+"vpl": "",
+
+"vbu": "",
+
+"vpa": "1",
+
+"vsk": "0",
+
+"ven": "0",
+
+"vpr": "1",
+
+"vrs": "0",
+
+"vns": "0",
+
+"vec": "null",
+
+"vemsg": "",
+
+"vvol": "1",
+
+"vdom": "1",
+
+"vsrc": "0",
+
+...
+
+[Message clipped] View entire message 3 Attachments • Scanned by Gmail Preview YouTube video The HU - Wolf Totem (Official Music Video)
+
+I frame pages z.pdf.1730236263638
+559 KB
+View
+Download
+matttamos.JPG
+8 KB
+View
+Download
+matttamos.JPG
+8 KB
+View
+Download
+bb...@gmail.com<bb...@gmail.com> #39Oct 30, 2024 09:57AM
+All my content was really approved but Sony doesnt want to admit it lol shannon annie shannon.annie506@gmail.com Wed, Oct 30, 2024 at 9:47 AM To: Sony MUSIC syncshop@sonymusic.com, greenlion366@hotmail.com, friohotbocachica@gmail.com, myhomehotelpc@gmail.com, oshawahg@gmail.com, Three Monkeys Tattoo threemonkeystattoo17@gmail.com, "Nroberts51@live.com" nroberts51@live.com, Eric Martin eric.promo23@gmail.com, Facebook cassiemarie95@outlook.com, Brian Butler judoman0197@gmail.com, Judy Amos j.amos@outlook.com, emosbaa@xplornet.com https://newbrun1074.blogspot.com/2024/10/im-being-good-for-now.html Bookmark Group: Matthew Shannon Amos
+
+40919522, 40912812, 40913665, 40913114, 40912661, 280831533 shannon annie shannon.annie506@gmail.com 11:29 PM (3 minutes ago) to me, Sony { "ns": "yt", "el": "detailpage", "cpn": "Dql6S2BFwIb2yUoR", "ver": 2, "cmt": "42.284", "fmt": "243", "fs": "0", "rt": "49.807", the <iframe> tag, or the videoId and player parameters, which are are specified in the src URL. As an extra security measure, you should also include the origin parameter to the URL, specifying the URL scheme (http:// or https://) loadVideoById("bHQqvYy5KYo", 5, "large") Object syntax loadVideoById({'videoId': 'bHQqvYy5KYo', 'startSeconds': 5, 'endSeconds': 60}); Queueing functions for videos cueVideoById Argument syntax player.cueVideoById(videoId:String, startSeconds:Number):Void Object syntax player.cueVideoById({videoId:String, startSeconds:Number, endSeconds:Number}):Void This function loads the specified video's thumbnail and prepares the player to play the video. The player does not request the FLV until playVideo() or seekTo() is called. player.loadVideoById(videoId:String, startSeconds:Number):Void Object syntax player.loadVideoById({videoId:String, startSeconds:Number, endSeconds:Number}):Void This function loads and plays the specified video. player.cueVideoByUrl(mediaContentUrl:String, startSeconds:Number):Void Object syntax player.cueVideoByUrl({mediaContentUrl:String, startSeconds:Number, endSeconds:Number}):Void player.loadVideoByUrl(mediaContentUrl:String, startSeconds:Number):Void Object syntax player.loadVideoByUrl({mediaContentUrl:String, startSeconds:Number, endSeconds:Number}):Void This function loads and plays the specified video. player.cuePlaylist(playlist:String|Array, index:Number, startSeconds:Number):Void player.cuePlaylist({listType:String, list:String, index:Number, startSeconds:Number}):Void player.loadPlaylist(playlist:String|Array, index:Number, startSeconds:Number):Void player.loadPlaylist({list:String, listType:String, index:Number, startSeconds:Number}):Void Properties yaw See definition above. pitch See definition above. roll See definition above. fov See definition above. enableOrientationSensor Changing the player volume player.mute():Void Mutes the player. player.unMute():Void Unmutes the player. player.isMuted():Boolean Returns true if the player is muted, false if not. player.setVolume(volume:Number):Void Sets the volume. Accepts an integer between 0 and 100. player.getVolume():Number Returns the player's current volume, an integer between 0 and 100. Note that getVolume() will return the volume even if the player is muted. Setting the player size player.setSize(width:Number, height:Number):Object Sets the size in pixels of the <iframe> that contains the player. Setting the playback rate player.getPlaybackRate():Number player.setShuffle(shufflePlaylist:Boolean):Void -1 – unstarted 0 – ended 1 – playing 2 – paused 3 – buffering 5 – video cued player.getCurrentTime():Number player.getPlaylist():Array function onPlayerReady(event) { var embedCode = event.target.getVideoEmbedCode(); event.target.playVideo(); if (document.getElementById('embed-code')) { document.getElementById('embed-code').innerHTML = embedCode; } } onStateChange -1 (unstarted) 0 (ended) 1 (playing) 2 (paused) 3 (buffering) 5 (video cued). YT.PlayerState.ENDED YT.PlayerState.PLAYING YT.PlayerState.PAUSED YT.PlayerState.BUFFERING YT.PlayerState.CUED onPlaybackQualityChange <!DOCTYPE html> <html> <body> <!-- 1. The <iframe> (and video player) will replace this <div> tag. --> <div id="player"></div> <script> // 2. This code loads the IFrame Player API code asynchronously. var tag = document.createElement('script'); tag.src = "https://www.youtube.com/iframe_api"; var firstScriptTag = document.getElementsByTagName('script')[0]; firstScriptTag.parentNode.insertBefore(tag, firstScriptTag); // 3. This function creates an <iframe> (and YouTube player) // after the API code downloads. var player; function onYouTubeIframeAPIReady() { player = new YT.Player('player', { height: '390', width: '640', videoId: 'M7lc1UVf-VE', playerVars: { 'playsinline': 1 }, events: { 'onReady': onPlayerReady, 'onStateChange': onPlayerStateChange } }); } // 4. The API will call this function when the video player is ready. function onPlayerReady(event) { event.target.playVideo(); } // 5. The API calls this function when the player's state changes. // The function indicates that when playing a video (state=1), // the player should play for six seconds and then stop. var done = false; function onPlayerStateChange(event) { if (event.data == YT.PlayerState.PLAYING && !done) { setTimeout(stopVideo, 6000); done = true; } } function stopVideo() { player.stopVideo(); } </script> </body> </html> var player; function onYouTubeIframeAPIReady() { player = new YT.Player('player', { height: '390', width: '640', videoId: 'M7lc1UVf-VE', playerVars: { 'playsinline': 1 }, events: { 'onReady': onPlayerReady, 'onStateChange': onPlayerStateChange } }); } <iframe> element. default, an <iframe> : width (number) – The width of the video player. The default value is 640. height (number) – The height of the video player. The default value is 390. videoId (string) – . playerVars (object) – events (object) – <iframe id="player" type="text/html" width="640" height="390" src="http://www.youtube.com/embed/M7lc1UVf-VE?enablejsapi=1&origin=http://example.com" frameborder="0"></iframe> <iframe> loadVideoById("bHQqvYy5KYo", 5, "large") Object syntax loadVideoById({'videoId': 'bHQqvYy5KYo', 'startSeconds': 5, 'endSeconds': 60}); Queueing functions for videos cueVideoById player.cueVideoById(videoId:String, startSeconds:Number):Void player.cueVideoById({videoId:String, startSeconds:Number, endSeconds:Number}):Void This function loads the specified video's thumbnail and prepares the player to play the video. The player does not request the FLV until playVideo() or seekTo() is called. player.loadVideoById(videoId:String, startSeconds:Number):Voi player.loadVideoById({videoId:String, startSeconds:Number, endSeconds:Number}):Void This function loads and plays the specified video. player.cueVideoByUrl(mediaContentUrl:String, startSeconds:Number):Void player.cueVideoByUrl({mediaContentUrl:String, startSeconds:Number, endSeconds:Number}):Void This function loads the specified video's thumbnail and prepares the player to play the video. The player does not request the FLV until playVideo() or seekTo() is called. The required mediaContentUrl parameter specifies a fully qualified YouTube player URL in the format http://www.youtube.com/v/VIDEO_ID?version=3. player.loadVideoByUrl(mediaContentUrl:String, startSeconds:Number):Void Object syntax player.loadVideoByUrl({mediaContentUrl:String, startSeconds:Number, endSeconds:Number}):Void This function loads and plays the specified video. The required mediaContentUrl parameter specifies a fully qualified YouTube player URL in the format http://www.youtube.com/v/VIDEO_ID?version=3. player.cuePlaylist(playlist:String|Array, index:Number, startSeconds:Number):Void player.cuePlaylist({listType:String, list:String, index:Number, startSeconds:Number}):Void Queues the specified list of videos. The list can be a playlist or a user player.loadPlaylist(playlist:String|Array, index:Number, startSeconds:Number):Void This function loads the specified playlist and plays it. player.loadPlaylist({list:String, listType:String, index:Number, startSeconds:Number}):Void enableOrientationSensor Changing the player volume player.mute():Void Mutes the player. player.unMute():Void Unmutes the player. player.isMuted():Boolean Returns true if the player is muted, false if not. player.setVolume(volume:Number):Void Sets the volume. Accepts an integer between 0 and 100. player.getVolume():Number Returns the player Setting the player size player.setSize(width:Number, height:Number):Object Sets the size in pixels of the <iframe> that contains the player. Setting the playback rate player.getPlaybackRate():Number This function retrieves the playback rate of the currently playing video. player.setPlaybackRate Calling this function does not guarantee that the playback rate will actually change. This function returns the set of playback rates least one value (1). player.setLoop(loopPlaylists:Boolean):Void This function indicates whether the video player should continuously play a playlist or player.setShuffle(shufflePlaylist:Boolean):Void This function indicates whether a playlist' Playback status player.getVideoLoadedFraction():Float Returns a number between 0 and 1 that specifies the percentage of the video that the player shows as buffered. This method returns a more reliable number than the now-deprecated getVideoBytesLoaded and getVideoBytesTotal methods. player.getPlayerState():Number Returns the state of the player. Possible values are: -1 – unstarted 0 – ended 1 – playing 2 – paused 3 – buffering 5 – video cued player.getCurrentTime():Number Returns the elapsed time in seconds since the video started playing. player.getVideoStartBytes():Number ue of 1000. You could calculate the fraction of the video that has been loaded by dividing the getVideoBytesLoaded value by the getVideoBytesTotal value. Retrieving video information player.getDuration():Number start time. player.getVideoUrl():String Returns the YouTube.com URL player.getVideoEmbedCode():String player.getPlaylist():Array This function returns an array of the video IDs This function returns the index of the playlist video that is currently playing. player.addEventListener(event:String, listener:String):Void Adds a listener function for player.removeEventListener(event:String, listener:String):Void player.getIframe():Object embedded <iframe>. player.destroy():Void Removes the <iframe> Events The event' The event' function onPlayerReady(event) { var embedCode = event.target.getVideoEmbedCode(); event.target.playVideo(); if (document.getElementById('embed-code')) { document.getElementById('embed-code').innerHTML = embedCode; } } onStateChange -1 (unstarted) 0 (ended) 1 (playing) 2 (paused) 3 (buffering) 5 (video cued). YT.PlayerState.ENDED YT.PlayerState.PLAYING YT.PlayerState.PAUSED YT.PlayerState.BUFFERING YT.PlayerState.CUED onPlaybackQualityChange autoplay parameter loadPlaylist function loadVideoById function loadVideoByUrl function playVideo function Most browsers have policies that can block autoplay . Creating YT.Player objects Example 1: Use API with existing <iframe> In this example, an <iframe> o<iframe> <iframe id="existing-iframe-example" width="640" height="360" src="https://www.youtube.com/embed/M7lc1UVf-VE?enablejsapi=1" frameborder="0" style="border: solid 4px #37474F" ></iframe> <script type="text/javascript"> var tag = document.createElement('script'); tag.id = 'iframe-demo'; tag.src = 'https://www.youtube.com/iframe_api'; var firstScriptTag = document.getElementsByTagName('script')[0]; firstScriptTag.parentNode.insertBefore(tag, firstScriptTag); var player; function onYouTubeIframeAPIReady() { player = new YT.Player('existing-iframe-example', { events: { 'onReady': onPlayerReady, 'onStateChange': onPlayerStateChange } }); } function onPlayerReady(event) { document.getElementById('existing-iframe-example').style.borderColor = '#FF6D00'; } function changeBorderColor(playerStatus) { var color; if (playerStatus == -1) { color = "#37474F"; // unstarted = gray } else if (playerStatus == 0) { color = "#FFFF00"; // ended = yellow } else if (playerStatus == 1) { color = "#33691E"; // playing = green } else if (playerStatus == 2) { color = "#DD2C00"; // paused = red } else if (playerStatus == 3) { color = "#AA00FF"; // buffering = purple } else if (playerStatus == 5) { color = "#FF6DOO"; // video cued = orange } if (color) { document.getElementById('existing-iframe-example').style.borderColor = color; } } function onPlayerStateChange(event) { changeBorderColor(event.data); } </script> Example 2: Loud playback function onYouTubeIframeAPIReady() { var player; player = new YT.Player('player', { width: 1280, height: 720, videoId: 'M7lc1UVf-VE', events: { 'onReady': onPlayerReady, 'onStateChange': onPlayerStateChange, 'onError': onPlayerError } }); } function onPlayerReady(event) { event.target.setVolume(100); event.target.playVideo(); } Example 3: This example sets player parameters to automatically play the video when it loads and to hide the video player's controls. It also adds event listeners for several events that the API broadcasts. function onYouTubeIframeAPIReady() { var player; player = new YT.Player('player', { videoId: 'M7lc1UVf-VE', playerVars: { 'autoplay': 1, 'controls': 0 }, events: { 'onReady': onPlayerReady, 'onStateChange': onPlayerStateChange, 'onError': onPlayerError } }); } Controlling 360° videos This example uses the following code: <style> .current-values { color: #666; font-size: 12px; } </style> <!-- The player is inserted in the following div element --> <div id="spherical-video-player"></div> <!-- Display spherical property values and enable user to update them. --> <table style="border: 0; width: 640px;"> <tr style="background: #fff;"> <td> <label for="yaw-property">yaw: </label> <input type="text" id="yaw-property" style="width: 80px"><br> <div id="yaw-current-value" class="current-values"> </div> </td> <td> <label for="pitch-property">pitch: </label> <input type="text" id="pitch-property" style="width: 80px"><br> <div id="pitch-current-value" class="current-values"> </div> </td> <td> <label for="roll-property">roll: </label> <input type="text" id="roll-property" style="width: 80px"><br> <div id="roll-current-value" class="current-values"> </div> </td> <td> <label for="fov-property">fov: </label> <input type="text" id="fov-property" style="width: 80px"><br> <div id="fov-current-value" class="current-values"> </div> </td> <td style="vertical-align: bottom;"> <button id="spherical-properties-button">Update properties</button> </td> </tr> </table> <script type="text/javascript"> var tag = document.createElement('script'); tag.id = 'iframe-demo'; tag.src = 'https://www.youtube.com/iframe_api'; var firstScriptTag = document.getElementsByTagName('script')[0]; firstScriptTag.parentNode.insertBefore(tag, firstScriptTag); var PROPERTIES = ['yaw', 'pitch', 'roll', 'fov']; var updateButton = document.getElementById('spherical-properties-button'); // Create the YouTube Player. var ytplayer; function onYouTubeIframeAPIReady() { ytplayer = new YT.Player('spherical-video-player', { height: '360', width: '640', videoId: 'FAtdv94yzp4', }); } // Don't display current spherical settings because there aren't any. function hideCurrentSettings() { for (var p = 0; p < PROPERTIES.length; p++) { document.getElementById(PROPERTIES[p] + '-current-value').innerHTML = ''; } } // Retrieve current spherical property values from the API and display them. function updateSetting() { if (!ytplayer || !ytplayer.getSphericalProperties) { hideCurrentSettings(); } else { let newSettings = ytplayer.getSphericalProperties(); if (Object.keys(newSettings).length === 0) { hideCurrentSettings(); } else { for (var p = 0; p < PROPERTIES.length; p++) { if (newSettings.hasOwnProperty(PROPERTIES[p])) { currentValueNode = document.getElementById(PROPERTIES[p] + '-current-value'); currentValueNode.innerHTML = ('current: ' + newSettings[PROPERTIES[p]].toFixed(4)); } } } } requestAnimationFrame(updateSetting); } updateSetting(); // Call the API to update spherical property values. updateButton.onclick = function() { var sphericalProperties = {}; for (var p = 0; p < PROPERTIES.length; p++) { var propertyInput = document.getElementById(PROPERTIES[p] + '-property'); sphericalProperties[PROPERTIES[p]] = parseFloat(propertyInput.value); } ytplayer.setSphericalProperties(sphericalProperties); } </script> http://www.youtube.com/iframe_api. <iframe> <iframe> <iframe> <iframe> <iframe> . <iframe id="existing-iframe-example" width="640" height="360" src="https://www.youtube.com/embed/M7lc1UVf-VE?enablejsapi=1" frameborder="0" style="border: solid 4px #37474F" ></iframe> <script type="text/javascript"> var tag = document.createElement('script'); tag.id = 'iframe-demo'; tag.src = 'https://www.youtube.com/iframe_api'; var firstScriptTag = document.getElementsByTagName('script')[0]; firstScriptTag.parentNode.insertBefore(tag, firstScriptTag); var player; function onYouTubeIframeAPIReady() { player = new YT.Player('existing-iframe-example', { events: { 'onReady': onPlayerReady, 'onStateChange': onPlayerStateChange } }); } function onPlayerReady(event) { document.getElementById('existing-iframe-example').style.borderColor = '#FF6D00'; } function changeBorderColor(playerStatus) { var color; if (playerStatus == -1) { color = "#37474F"; // unstarted = gray } else if (playerStatus == 0) { color = "#FFFF00"; // ended = yellow } else if (playerStatus == 1) { color = "#33691E"; // playing = green } else if (playerStatus == 2) { color = "#DD2C00"; // paused = red } else if (playerStatus == 3) { color = "#AA00FF"; // buffering = purple } else if (playerStatus == 5) { color = "#FF6DOO"; // video cued = orange } if (color) { document.getElementById('existing-iframe-example').style.borderColor = color; } } function onPlayerStateChange(event) { changeBorderColor(event.data); } </script> Example 2: Loud playback This example creates a 1280px by 720px video player. The event listener for the onReady event then calls the setVolume function to adjust the volume to the highest setting. function onYouTubeIframeAPIReady() { var player; player = new YT.Player('player', { width: 1280, height: 720, videoId: 'M7lc1UVf-VE', events: { 'onReady': onPlayerReady, 'onStateChange': onPlayerStateChange, 'onError': onPlayerError } }); } function onPlayerReady(event) { event.target.setVolume(100); event.target.playVideo(); } Example 3: This example sets player parameters to automatically play the video when it loads and to hide the video player's controls. It also adds event listeners for several events that the API broadcasts. function onYouTubeIframeAPIReady() { var player; player = new YT.Player('player', { videoId: 'M7lc1UVf-VE', playerVars: { 'autoplay': 1, 'controls': 0 }, events: { 'onReady': onPlayerReady, 'onStateChange': onPlayerStateChange, 'onError': onPlayerError } }); } Controlling 360° videos This example uses the following code: <style> .current-values { color: #666; font-size: 12px; } </style> <!-- The player is inserted in the following div element --> <div id="spherical-video-player"></div> <!-- Display spherical property values and enable user to update them. --> <table style="border: 0; width: 640px;"> <tr style="background: #fff;"> <td> <label for="yaw-property">yaw: </label> <input type="text" id="yaw-property" style="width: 80px"><br> <div id="yaw-current-value" class="current-values"> </div> </td> <td> <label for="pitch-property">pitch: </label> <input type="text" id="pitch-property" style="width: 80px"><br> <div id="pitch-current-value" class="current-values"> </div> </td> <td> <label for="roll-property">roll: </label> <input type="text" id="roll-property" style="width: 80px"><br> <div id="roll-current-value" class="current-values"> </div> </td> <td> <label for="fov-property">fov: </label> <input type="text" id="fov-property" style="width: 80px"><br> <div id="fov-current-value" class="current-values"> </div> </td> <td style="vertical-align: bottom;"> <button id="spherical-properties-button">Update properties</button> </td> </tr> </table> <script type="text/javascript"> var tag = document.createElement('script'); tag.id = 'iframe-demo'; tag.src = 'https://www.youtube.com/iframe_api'; var firstScriptTag = document.getElementsByTagName('script')[0]; firstScriptTag.parentNode.insertBefore(tag, firstScriptTag); var PROPERTIES = ['yaw', 'pitch', 'roll', 'fov']; var updateButton = document.getElementById('spherical-properties-button'); // Create the YouTube Player. var ytplayer; function onYouTubeIframeAPIReady() { ytplayer = new YT.Player('spherical-video-player', { height: '360', width: '640', videoId: 'FAtdv94yzp4', }); } // Don't display current spherical settings because there aren't any. function hideCurrentSettings() { for (var p = 0; p < PROPERTIES.length; p++) { document.getElementById(PROPERTIES[p] + '-current-value').innerHTML = ''; } } // Retrieve current spherical property values from the API and display them. function updateSetting() { if (!ytplayer || !ytplayer.getSphericalProperties) { hideCurrentSettings(); } else { let newSettings = ytplayer.getSphericalProperties(); if (Object.keys(newSettings).length === 0) { hideCurrentSettings(); } else { for (var p = 0; p < PROPERTIES.length; p++) { if (newSettings.hasOwnProperty(PROPERTIES[p])) { currentValueNode = document.getElementById(PROPERTIES[p] + '-current-value'); currentValueNode.innerHTML = ('current: ' + newSettings[PROPERTIES[p]].toFixed(4)); } } } } requestAnimationFrame(updateSetting); } updateSetting(); // Call the API to update spherical property values. updateButton.onclick = function() { var sphericalProperties = {}; for (var p = 0; p < PROPERTIES.length; p++) { var propertyInput = document.getElementById(PROPERTIES[p] + '-property'); sphericalProperties[PROPERTIES[p]] = parseFloat(propertyInput.value); } ytplayer.setSphericalProperties(sphericalProperties); } </script> "euri": "", "lact": 1, "cl": "534545706", "mos": 0, "state": "8", "volume": 100, "cbrand": "google", "cbr": "Chrome", "cbrver": "113.0.0.0", "c": "WEB", "cver": "2.20230530.05.00", "cplayer": "UNIPLAYER", "cmodel": "chromebook", "cos": "CrOS", "cosver": "14541.0.0", "cplatform": "DESKTOP", "hl": "en_US", "cr": "CA", "len": "131.381", "fexp": "23983296,23986026,24004644,24007246,24080738,241 35310,24219382,24255165,24363113,24364789,243684 44,24368936,24415864,24433679,24437577,24439361,2 4451437,24532855,24550458,24550951,24556991,2455 8641,24559644,24691744,24698915,24699899,3932307 4,39323713", "afmt": "251", "muted": "0", "conn": "3", "docid": "UXP2RABUDA", "ei": "r3Z4ZL- SKsPZgwPeiKLoCQ", "plid": "AAX9DyEDq7rfkBNr", "referrer": "https://www.google.com/", "sdetail": "p:www.google.com/", "sourceid": "r", "of": "iSv_ZmrtQNZCzWrEG0t5Pg", "osid": "NjVjMjgxODU:AOeUNAb7G7uKdVCL_BUYy0ASwsdbgw68 SA", "vm": "CAMQARgBOjJBQ00wQ1loR2hKSk1MS1AzWlpZWTlCSE1 4Q2JJWGVXZm9XVnBRN0tnbHJlQVhNbFEtd2JgQVBta0t ETG50ZnNCdlZvODlBaGdGZ0thQnIwTHBZZzRmLUh1Wm UxYlpIUjBRNk1meVpFTHlNTjNRbTgzelBseVh2bDFuREs3a zVGLWN0Mlh0VVR5MjUzSF9JMTJ4Tlg3aAE", "vct": "42.284", "vd": "131.381", "vpl": "0.000-42.284", "vbu": "0.000-110.001", "vpa": "0", "vsk": "0", "ven": "0", "vpr": "1", "vrs": "4", "vns": "2", "vec": "null", "vemsg": "", "vvol": "1", "vdom": "1", "vsrc": "1", "vw": "402", "vh": "401", "lct": "42.135", "lsk": false, "lmf": false, "lbw": "439876.393", "lhd": "0.310", "lst": "1478.238", "laa": "itag_251_type_3_src_reslicegetRequestInfoForRange_seg Papa.Legba.N.B White Boy Expo 10/20/24, 1:19 PM { "ns": "yt", "el": "detailpage", "cpn": "Dql6S2BFwIb2yUoR", "ver": 2, "cmt": "42.284", "fmt": "243", "fs": "0", "rt": "49.807", "euri": "", "l... https://newbrun1074.blogspot.com/2023/05/httpsplus.html#comments 1/14 src_reslicegetRequestInfoForRange_seg_10_range_12788 87-1404265_time_100.0-110.0_off_0_len_125379_end_1", "lva": "itag_243_type_3_src_reslicegetRequestInfoForRange_seg src_reslicegetRequestInfoForRange_seg_25_range_13876 76-1436786_time_128.0- 131.4_off_0_len_49111_end_1_eos_1", "lar": "itag_251_type_3_src_getRequestInfoForRange_segsrc_ge tRequestInfoForRange_seg_10_range_1278887- 1404265_time_100.0-110.0_off_0_len_125379_end_1", "lvr": "itag_243_type_3_src_getRequestInfoForRange_segsrc_ge tRequestInfoForRange_seg_25_range_1387676- 1436786_time_128.0- 131.4_off_0_len_49111_end_1_eos_1", "laq": "0", "lvq": "0", "lab": "0.000-110.001", "lvb": "0.000-131.360", "ismb": 25120000, "leader": 1, "relative_loudness": "-7.640", "optimal_format": "360p", "user_qual": 0, "release_version": "youtube.player.web_20230523_01_RC00", "debug_videoId": "UXP2RABUDA", "0sz": "false", "op": "", "yof": "false", "dis": "", "gpu": "Mesa_Intel(R)UHD_Graphics(JSL)", "debug_playbackQuality": "medium", "debug_date": "Thu Jun 01 2023 07:45:56 GMT-0300 (Atlantic Daylight Time)" } - May 30, 2023-qusq-muw {https://www.google.com/-/ https://drive.google.com/file/d/1Lay7jrAdTgMUw0eljM3uDqw9UnDW5qLT/view "vct": "0.000", "vd": "NaN", "vpl": "", "vbu": "", "vpa": "1", "vsk": "0", "ven": "0", "vpr": "1", "vrs": "0", "vns": "0", "vec": "null", "vemsg": "", "vvol": "1", "vdom": "1", "vsrc": "0", "vw": "0", "vh": "0", "state": "80", "debug_error": "{"errorCode":"api.invalidparam","errorMessage":"An error occurred. Please try again later.","tL":"GENERIC_WITHOUT_LINK","Km":"","EH":"invalidVideodata.1;a6s.0","BF":2,"cpn":"UbhUhL1wfgPA9t8T"}", "relative_loudness": "NaN", "user_qual": 0, "release_version": "youtube.player.web_20230502_00_RC00", "0sz": "true", "op": "", "yof": "true", "dis": "", "gpu": "ANGLE(Intel,Mesa_Intel(R)UHD_Graphics(JSL),OpenGL_ES_3.2)", "debug_playbackQuality": "unknown", "debug_date": "Fri May 05 2023 21:25:25 GMT-0300 (Atlantic Daylight Time)" { "vct": "0.000", "vd": "NaN", "vpl": "", "vbu": "", "vbs": "", "vpa": "1", "vsk": "0", "ven": "0", "vpr": "1", "vrs": "0", "vns": "0", "vec": "null", "vemsg": "", "vvol": "0.25", "vdom": "1", "vsrc": "0", "vw": "0", "vh": "0", "state": "80", "debug_error": "{"errorCode":"api.invalidparam","errorMessage":"An error occurred. Please try again later.","ZP":"GENERIC_WITHOUT_LINK","Bo":"","QM":"invalidVideodata.1;a6s.1","GA":2,"cpn":"XoWq43eGQcrqc2TJ"}", "relative_loudness": "NaN", "user_qual": 0, "release_version": "youtube.player.web_20241022_01_RC00", "0sz": "true", "op": "", "yof": "true", "dis": "", "gpu": "ANGLE(Intel,Vulkan_1.3.278(Intel(R)UHD_Graphics(JSL)(0x00004E55)),Intel_open-source_Mesa_driver)", "debug_playbackQuality": "unknown", "debug_date": "Sun Oct 27 2024 13:08:27 GMT-0300 (Atlantic Daylight Time)", "origin": "https://****youtube.com", "timestamp": 1730045307243} https://github.com/Chodum91/Chodum91.git}https://www.google.com/ https://chodum91.blogspot.com/ <iframe src="https://assets.pinterest.com/ext/embed.html..." height="550" width="450" frameborder="0" scrolling="no" ></iframe> <src="https://assets.pinterest.com/ext/embed.html..." height="550" width="450" frameborder="0" scrolling="no" ></iframe>/Dark_Rose75 @keep2shareio https://support.google.com/profile/215878620?sjid=16098340748890879105%20%20%20%20%20%20 Edit Admirss01 Forms}{.0..0.}{ https://chodum91.blogspot.com/{ "ns": "yt", "el": "detailpage", "cpn": "Dql6S2BFwIb2yUoR", "ver": 2, "cmt": "42.284", "fmt": "243", "fs": "0", "rt": "49.807", "euri": "", "lact": 1, "cl": "534545706", "mos": 0, "state": "8", "volume": 100, "cbrand": "google", "cbr": "Chrome", "cbrver": "113.0.0.0", "c": "WEB", "cver": "2.20230530.05.00", "cplayer": "UNIPLAYER", "cmodel": "chromebook", "cos": "CrOS", "cosver": "14541.0.0", "cplatform": "DESKTOP", "hl": "en_US", "cr": "CA", "len": "131.381", "fexp": "23983296,23986026,24004644,24007246,24080738,241 35310,24219382,24255165,24363113,24364789,243684 44,24368936,24415864,24433679,24437577,24439361,2 4451437,24532855,24550458,24550951,24556991,2455 8641,24559644,24691744,24698915,24699899,3932307 4,39323713", "afmt": "251", "muted": "0", "conn": "3", "docid": "UXP2RABUDA", "ei": "r3Z4ZL- SKsPZgwPeiKLoCQ", "plid": "AAX9DyEDq7rfkBNr", "referrer": "https://www.google.com/", "sdetail": "p:www.google.com/", "sourceid": "r", "of": "iSv_ZmrtQNZCzWrEG0t5Pg", "osid": "NjVjMjgxODU:AOeUNAb7G7uKdVCL_BUYy0ASwsdbgw68 SA", "vm": "CAMQARgBOjJBQ00wQ1loR2hKSk1MS1AzWlpZWTlCSE1 4Q2JJWGVXZm9XVnBRN0tnbHJlQVhNbFEtd2JgQVBta0t ETG50ZnNCdlZvODlBaGdGZ0thQnIwTHBZZzRmLUh1Wm UxYlpIUjBRNk1meVpFTHlNTjNRbTgzelBseVh2bDFuREs3a zVGLWN0Mlh0VVR5MjUzSF9JMTJ4Tlg3aAE", "vct": "42.284", "vd": "131.381", "vpl": "0.000-42.284", "vbu": "0.000-110.001", "vpa": "0", "vsk": "0", "ven": "0", "vpr": "1", "vrs": "4", "vns": "2", "vec": "null", "vemsg": "", "vvol": "1", "vdom": "1", "vsrc": "1", "vw": "402", "vh": "401", "lct": "42.135", "lsk": false, "lmf": false, "lbw": "439876.393", "lhd": "0.310", "lst": "1478.238", "laa": "itag_251_type_3_src_reslicegetRequestInfoForRange_seg Papa.Legba.N.B White Boy Expo 10/20/24, 1:19 PM { "ns": "yt", "el": "detailpage", "cpn": "Dql6S2BFwIb2yUoR", "ver": 2, "cmt": "42.284", "fmt": "243", "fs": "0", "rt": "49.807", "euri": "", "l... https://newbrun1074.blogspot.com/2023/05/httpsplus.html#comments 1/14 src_reslicegetRequestInfoForRange_seg_10_range_12788 87-1404265_time_100.0-110.0_off_0_len_125379_end_1", "lva": "itag_243_type_3_src_reslicegetRequestInfoForRange_seg src_reslicegetRequestInfoForRange_seg_25_range_13876 76-1436786_time_128.0- 131.4_off_0_len_49111_end_1_eos_1", "lar": "itag_251_type_3_src_getRequestInfoForRange_segsrc_ge tRequestInfoForRange_seg_10_range_1278887- 1404265_time_100.0-110.0_off_0_len_125379_end_1", "lvr": "itag_243_type_3_src_getRequestInfoForRange_segsrc_ge tRequestInfoForRange_seg_25_range_1387676- 1436786_time_128.0- 131.4_off_0_len_49111_end_1_eos_1", "laq": "0", "lvq": "0", "lab": "0.000-110.001", "lvb": "0.000-131.360", "ismb": 25120000, "leader": 1, "relative_loudness": "-7.640", "optimal_format": "360p", "user_qual": 0, "release_version": "youtube.player.web_20230523_01_RC00", "debug_videoId": "UXP2RABUDA", "0sz": "false", "op": "", "yof": "false", "dis": "", "gpu": "Mesa_Intel(R)UHD_Graphics(JSL)", "debug_playbackQuality": "medium", "debug_date": "Thu Jun 01 2023 07:45:56 GMT-0300 (Atlantic Daylight Time)" } - May 30, 2023une 21, 2023 Image https://github.com/Chodum91/Papa.Legba.NB/issues/29 (m=bJWsSeKlbyaT)(mh=4N6NZAtseWL0p9UF)male.jpg {https://github.com/.../blob/master/names.conf.proposed} https://toolbox.googleapps.com/apps/main/ https://drive.google.com/.../1p8X-n.../view... http://getpocket.com/@050A8g3cdu224Tu07ep7851p0gTKd039876... https://github.com/Chodum91/Papa.Legba.NB/, Google Content https://newbrun1074.blogspot.com/2023/06/blog-post.html https://support.google.com/profile/215878620?sjid=16098340748890879105%20%20%20%20%20%20to Sony, me Papa.Legba.N.B image.png Sony, me <iframe src="https://drive.google.com/file/d/1fwTThZzUlKiktf4rYIHCyPbyzX_b61Ec/preview" width="640" height="480" allow="autoplay"></iframe>"363311821_174494288973151_5421319352515451432_n.j…"https://drive.google.com/file/d/1fwTThZzUlKiktf4rYIHCyPbyzX_b61Ec/view?usp=sharing<iframe src="https://www.youtube.com/watch?v=jM8dCGIm6yc&list=RDMM/preview" width="640" height="480" allow="autoplay"></iframe>"363311821_174494288973151_5421319352515451432_n.j…"https://drive.google.com/file/d/1fwTThZzUlKiktf4rYIHCyPbyzX_b61Ec/view?usp=sharing · Papa.Legba.N.B 8 followers https://youtube.com/@White-Boy-Papalega.N.B ; My Way. CRUCIFIX. 2M views ; Eminem - Till I Collapse Remix Nate Dogg, Lil Jon, 2Pac, Ice Cube, Dr. Dre, Eazy E, DMX ... Missing: PLbxdtzZM1ERw79RxO- ‎C7FSNHeY1RqLhqJ Sony, me <iframe src="https://drive.google.com/file/d/1fwTThZzUlKiktf4rYIHCyPbyzX_b61Ec/preview" width="640" height="480" allow="autoplay"></iframe>"363311821_174494288973151_5421319352515451432_n.j…"https://drive.google.com/file/d/1fwTThZzUlKiktf4rYIHCyPbyzX_b61Ec/view?usp=sharing<iframe src="https://www.youtube.com/watch?v=jM8dCGIm6yc&list=RDMM/preview" width="640" height="480" allow="autoplay"></iframe>"363311821_174494288973151_5421319352515451432_n.j…"https://drive.google.com/file/d/1fwTThZzUlKiktf4rYIHCyPbyzX_b61Ec/view?usp=sharing hI D=8958248863274614623&postID=982138496058676472 meet.google.com/pue-qusq-muw {https://www.google.com/-/ https://drive.google.com/file/d/1Lay7jrAdTgMUw0eljM3uDqw9UnDW5qLT/view "vct": "0.000", "vd": "NaN", "vpl": "", "vbu": "", "vpa": "1", "vsk": "0", "ven": "0", "vpr": "1", "vrs": "0", "vns": "0", "vec": "null", "vemsg": "", "vvol": "1", "vdom": "1", "vsrc": "0", {}https://www.blogger.com/blog/post/edit/preview/1724479713966471345/2934802525587638501{ }.~ ¹♤³. wwwrainwizzard.com.¹♤³~.^^^•}{0..0}{•^^^••^^^•}{0.0}{•^^^••^^^•}{0.0}{0..0}{•^^^••^^^•}{0.0}{•^^^••^^^•}{0..0}...}. ] }url.www.rainwizzard@Rainwizzard.com{@}{0..0} trap[DOMStringMap {} {.. ¹♤³.wwwrainwizzard.com.¹♤³~.^^^•}{0..0}{•^^^••^^^•}{0.0}{•^^^••^^^•}{0.0}{0..0}{•^^^••^^^•}{0.0}{•^^^••^^^•}{0..0}~...}. 7times3 }}.¹♤³.{0..0}.¹♤³.{{ }}.¹♤³.{0..0}.¹♤³.{{ }}.¹♤³.{0..0}.¹♤³.{{ }}.¹♤³.{0..0}.¹♤³.{{ 3times7 ...https://embed.tumblr.com/embed/post/t:iPRP096YDH4tAP9ETV9_tg/720127509506736128 "name": "Croissants", "ingredients": [ { "name": "All-purpose flour", "quantity": "5 cups", "unit": "" }, { "name": "Salt", "quantity": "1 tsp", "unit": "" }, { "name": "Granulated sugar", "quantity": "1 tbsp", "unit": "" }, { "name": "Active dry yeast", "quantity": "2 tsp", "unit": "" }, { "name": "Lukewarm water", "quantity": "1 1/4 cups", "unit": "" }, { "name": "Unsalted butter (for dough)", "quantity": "1 cup", "unit": "" }, { "name": "Unsalted butter (for laminating)", "quantity": "1 stick", "unit": "" } ] }https://xhamster.com/videos/anal-7122307... [Message clipped] View entire message 3 Attachments • Scanned by Gmail Preview YouTube video The HU - Wolf Totem (Official Music Video) ============================================================================================================================================================ IFrame Player API Was this helpful? YouTube Player API Reference for iframe Embeds bookmark_border The IFrame player API lets you embed a YouTube video player on your website and control the player using JavaScript. Using the API's JavaScript functions, you can queue videos for playback; play, pause, or stop those videos; adjust the player volume; or retrieve information about the video being played. You can also add event listeners that will execute in response to certain player events, such as a player state change. This guide explains how to use the IFrame API. It identifies the different types of events that the API can send and explains how to write event listeners to respond to those events. It also details the different JavaScript functions that you can call to control the video player as well as the player parameters you can use to further customize the player. Requirements The user's browser must support the HTML5 postMessage feature. Most modern browsers support postMessage. Embedded players must have a viewport that is at least 200px by 200px. If the player displays controls, it must be large enough to fully display the controls without shrinking the viewport below the minimum size. We recommend 16:9 players be at least 480 pixels wide and 270 pixels tall. Any web page that uses the IFrame API must also implement the following JavaScript function: onYouTubeIframeAPIReady – The API will call this function when the page has finished downloading the JavaScript for the player API, which enables you to then use the API on your page. Thus, this function might create the player objects that you want to display when the page loads. Getting started The sample HTML page below creates an embedded player that will load a video, play it for six seconds, and then stop the playback. The numbered comments in the HTML are explained in the list below the example. <!DOCTYPE html> <html> <body> <!-- 1. The <iframe> (and video player) will replace this <div> tag. --> <div id="player"></div> <script> // 2. This code loads the IFrame Player API code asynchronously. var tag = document.createElement('script'); tag.src = "https://www.youtube.com/iframe_api"; var firstScriptTag = document.getElementsByTagName('script')[0]; firstScriptTag.parentNode.insertBefore(tag, firstScriptTag); // 3. This function creates an <iframe> (and YouTube player) // after the API code downloads. var player; function onYouTubeIframeAPIReady() { player = new YT.Player('player', { height: '390', width: '640', videoId: 'M7lc1UVf-VE', playerVars: { 'playsinline': 1 }, events: { 'onReady': onPlayerReady, 'onStateChange': onPlayerStateChange } }); } // 4. The API will call this function when the video player is ready. function onPlayerReady(event) { event.target.playVideo(); } // 5. The API calls this function when the player's state changes. // The function indicates that when playing a video (state=1), // the player should play for six seconds and then stop. var done = false; function onPlayerStateChange(event) { if (event.data == YT.PlayerState.PLAYING && !done) { setTimeout(stopVideo, 6000); done = true; } } function stopVideo() { player.stopVideo(); } </script> </body> </html> The following list provides more details about the sample above: The <div> tag in this section identifies the location on the page where the IFrame API will place the video player. The constructor for the player object, which is described in the Loading a video player section, identifies the <div> tag by its id to ensure that the API places the <iframe> in the proper location. Specifically, the IFrame API will replace the <div> tag with the <iframe> tag. As an alternative, you could also put the <iframe> element directly on the page. The Loading a video player section explains how to do so. The code in this section loads the IFrame Player API JavaScript code. The example uses DOM modification to download the API code to ensure that the code is retrieved asynchronously. (The <script> tag's async attribute, which also enables asynchronous downloads, is not yet supported in all modern browsers as discussed in this Stack Overflow answer. The onYouTubeIframeAPIReady function will execute as soon as the player API code downloads. This portion of the code defines a global variable, player, which refers to the video player you are embedding, and the function then constructs the video player object. The onPlayerReady function will execute when the onReady event fires. In this example, the function indicates that when the video player is ready, it should begin to play. The API will call the onPlayerStateChange function when the player's state changes, which may indicate that the player is playing, paused, finished, and so forth. The function indicates that when the player state is 1 (playing), the player should play for six seconds and then call the stopVideo function to stop the video. Loading a video player After the API's JavaScript code loads, the API will call the onYouTubeIframeAPIReady function, at which point you can construct a YT.Player object to insert a video player on your page. The HTML excerpt below shows the onYouTubeIframeAPIReady function from the example above: var player; function onYouTubeIframeAPIReady() { player = new YT.Player('player', { height: '390', width: '640', videoId: 'M7lc1UVf-VE', playerVars: { 'playsinline': 1 }, events: { 'onReady': onPlayerReady, 'onStateChange': onPlayerStateChange } }); } The constructor for the video player specifies the following parameters: The first parameter specifies either the DOM element or the id of the HTML element where the API will insert the <iframe> tag containing the player. The IFrame API will replace the specified element with the <iframe> element containing the player. This could affect the layout of your page if the element being replaced has a different display style than the inserted <iframe> element. By default, an <iframe> displays as an inline-block element. The second parameter is an object that specifies player options. The object contains the following properties: width (number) – The width of the video player. The default value is 640. height (number) – The height of the video player. The default value is 390. videoId (string) – The YouTube video ID that identifies the video that the player will load. playerVars (object) – The object's properties identify player parameters that can be used to customize the player. events (object) – The object's properties identify the events that the API fires and the functions (event listeners) that the API will call when those events occur. In the example, the constructor indicates that the onPlayerReady function will execute when the onReady event fires and that the onPlayerStateChange function will execute when the onStateChange event fires. As mentioned in the Getting started section, instead of writing an empty <div> element on your page, which the player API's JavaScript code will then replace with an <iframe> element, you could create the <iframe> tag yourself. The first example in the Examples section shows how to do this. <iframe id="player" type="text/html" width="640" height="390" src="http://www.youtube.com/embed/M7lc1UVf-VE?enablejsapi=1&origin=http://example.com" frameborder="0"></iframe> Note that if you do write the <iframe> tag, then when you construct the YT.Player object, you do not need to specify values for the width and height, which are specified as attributes of the <iframe> tag, or the videoId and player parameters, which are are specified in the src URL. As an extra security measure, you should also include the origin parameter to the URL, specifying the URL scheme (http:// or https://) and full domain of your host page as the parameter value. While origin is optional, including it protects against malicious third-party JavaScript being injected into your page and hijacking control of your YouTube player. For other examples on constructing video player objects, see Examples. Operations To call the player API methods, you must first get a reference to the player object you wish to control. You obtain the reference by creating a YT.Player object as discussed in the Getting started and Loading a video player sections of this document. Functions Queueing functions Queueing functions allow you to load and play a video, a playlist, or another list of videos. If you are using the object syntax described below to call these functions, then you can also queue or load a list of a user's uploaded videos. The API supports two different syntaxes for calling the queueing functions. The argument syntax requires function arguments to be listed in a prescribed order. The object syntax lets you pass an object as a single parameter and to define object properties for the function arguments that you wish to set. In addition, the API may support additional functionality that the argument syntax does not support. For example, the loadVideoById function can be called in either of the following ways. Note that the object syntax supports the endSeconds property, which the argument syntax does not support. Argument syntax loadVideoById("bHQqvYy5KYo", 5, "large") Object syntax loadVideoById({'videoId': 'bHQqvYy5KYo', 'startSeconds': 5, 'endSeconds': 60}); Queueing functions for videos cueVideoById Argument syntax player.cueVideoById(videoId:String, startSeconds:Number):Void Object syntax player.cueVideoById({videoId:String, startSeconds:Number, endSeconds:Number}):Void This function loads the specified video's thumbnail and prepares the player to play the video. The player does not request the FLV until playVideo() or seekTo() is called. The required videoId parameter specifies the YouTube Video ID of the video to be played. In the YouTube Data API, a video resource's id property specifies the ID. The optional startSeconds parameter accepts a float/integer and specifies the time from which the video should start playing when playVideo() is called. If you specify a startSeconds value and then call seekTo(), then the player plays from the time specified in the seekTo() call. When the video is cued and ready to play, the player will broadcast a video cued event (5). The optional endSeconds parameter, which is only supported in object syntax, accepts a float/integer and specifies the time when the video should stop playing when playVideo() is called. If you specify an endSeconds value and then call seekTo(), the endSeconds value will no longer be in effect. loadVideoById Argument syntax player.loadVideoById(videoId:String, startSeconds:Number):Void Object syntax player.loadVideoById({videoId:String, startSeconds:Number, endSeconds:Number}):Void This function loads and plays the specified video. The required videoId parameter specifies the YouTube Video ID of the video to be played. In the YouTube Data API, a video resource's id property specifies the ID. The optional startSeconds parameter accepts a float/integer. If it is specified, then the video will start from the closest keyframe to the specified time. The optional endSeconds parameter accepts a float/integer. If it is specified, then the video will stop playing at the specified time. cueVideoByUrl Argument syntax player.cueVideoByUrl(mediaContentUrl:String, startSeconds:Number):Void Object syntax player.cueVideoByUrl({mediaContentUrl:String, startSeconds:Number, endSeconds:Number}):Void This function loads the specified video's thumbnail and prepares the player to play the video. The player does not request the FLV until playVideo() or seekTo() is called. The required mediaContentUrl parameter specifies a fully qualified YouTube player URL in the format http://www.youtube.com/v/VIDEO_ID?version=3. The optional startSeconds parameter accepts a float/integer and specifies the time from which the video should start playing when playVideo() is called. If you specify startSeconds and then call seekTo(), then the player plays from the time specified in the seekTo() call. When the video is cued and ready to play, the player will broadcast a video cued event (5). The optional endSeconds parameter, which is only supported in object syntax, accepts a float/integer and specifies the time when the video should stop playing when playVideo() is called. If you specify an endSeconds value and then call seekTo(), the endSeconds value will no longer be in effect. loadVideoByUrl Argument syntax player.loadVideoByUrl(mediaContentUrl:String, startSeconds:Number):Void Object syntax player.loadVideoByUrl({mediaContentUrl:String, startSeconds:Number, endSeconds:Number}):Void This function loads and plays the specified video. The required mediaContentUrl parameter specifies a fully qualified YouTube player URL in the format http://www.youtube.com/v/VIDEO_ID?version=3. The optional startSeconds parameter accepts a float/integer and specifies the time from which the video should start playing. If startSeconds (number can be a float) is specified, the video will start from the closest keyframe to the specified time. The optional endSeconds parameter, which is only supported in object syntax, accepts a float/integer and specifies the time when the video should stop playing. Queueing functions for lists The cuePlaylist and loadPlaylist functions allow you to load and play a playlist. If you are using object syntax to call these functions, you can also queue (or load) a list of a user's uploaded videos. Since the functions work differently depending on whether they are called using the argument syntax or the object syntax, both calling methods are documented below. cuePlaylist Argument syntax player.cuePlaylist(playlist:String|Array, index:Number, startSeconds:Number):Void Queues the specified playlist. When the playlist is cued and ready to play, the player will broadcast a video cued event (5). The required playlist parameter specifies an array of YouTube video IDs. In the YouTube Data API, the video resource's id property identifies that video's ID. The optional index parameter specifies the index of the first video in the playlist that will play. The parameter uses a zero-based index, and the default parameter value is 0, so the default behavior is to load and play the first video in the playlist. The optional startSeconds parameter accepts a float/integer and specifies the time from which the first video in the playlist should start playing when the playVideo() function is called. If you specify a startSeconds value and then call seekTo(), then the player plays from the time specified in the seekTo() call. If you cue a playlist and then call the playVideoAt() function, the player will start playing at the beginning of the specified video. Object syntax player.cuePlaylist({listType:String, list:String, index:Number, startSeconds:Number}):Void Queues the specified list of videos. The list can be a playlist or a user's uploaded videos feed. The ability to queue a list of search results is deprecated and will no longer be supported as of 15 November 2020. When the list is cued and ready to play, the player will broadcast a video cued event (5). The optional listType property specifies the type of results feed that you are retrieving. Valid values are playlist and user_uploads. A deprecated value, search, will no longer be supported as of 15 November 2020. The default value is playlist. The required list property contains a key that identifies the particular list of videos that YouTube should return. If the listType property value is playlist, then the list property specifies the playlist ID or an array of video IDs. In the YouTube Data API, the playlist resource's id property identifies a playlist's ID, and the video resource's id property specifies a video ID. If the listType property value is user_uploads, then the list property identifies the user whose uploaded videos will be returned. If the listType property value is search, then the list property specifies the search query. Note: This functionality is deprecated and will no longer be supported as of 15 November 2020. The optional index property specifies the index of the first video in the list that will play. The parameter uses a zero-based index, and the default parameter value is 0, so the default behavior is to load and play the first video in the list. The optional startSeconds property accepts a float/integer and specifies the time from which the first video in the list should start playing when the playVideo() function is called. If you specify a startSeconds value and then call seekTo(), then the player plays from the time specified in the seekTo() call. If you cue a list and then call the playVideoAt() function, the player will start playing at the beginning of the specified video. loadPlaylist Argument syntax player.loadPlaylist(playlist:String|Array, index:Number, startSeconds:Number):Void This function loads the specified playlist and plays it. The required playlist parameter specifies an array of YouTube video IDs. In the YouTube Data API, the video resource's id property specifies a video ID. The optional index parameter specifies the index of the first video in the playlist that will play. The parameter uses a zero-based index, and the default parameter value is 0, so the default behavior is to load and play the first video in the playlist. The optional startSeconds parameter accepts a float/integer and specifies the time from which the first video in the playlist should start playing. Object syntax player.loadPlaylist({list:String, listType:String, index:Number, startSeconds:Number}):Void This function loads the specified list and plays it. The list can be a playlist or a user's uploaded videos feed. The ability to load a list of search results is deprecated and will no longer be supported as of 15 November 2020. The optional listType property specifies the type of results feed that you are retrieving. Valid values are playlist and user_uploads. A deprecated value, search, will no longer be supported as of 15 November 2020. The default value is playlist. The required list property contains a key that identifies the particular list of videos that YouTube should return. If the listType property value is playlist, then the list property specifies a playlist ID or an array of video IDs. In the YouTube Data API, the playlist resource's id property specifies a playlist's ID, and the video resource's id property specifies a video ID. If the listType property value is user_uploads, then the list property identifies the user whose uploaded videos will be returned. If the listType property value is search, then the list property specifies the search query. Note: This functionality is deprecated and will no longer be supported as of 15 November 2020. The optional index property specifies the index of the first video in the list that will play. The parameter uses a zero-based index, and the default parameter value is 0, so the default behavior is to load and play the first video in the list. The optional startSeconds property accepts a float/integer and specifies the time from which the first video in the list should start playing. Playback controls and player settings Playing a video player.playVideo():Void Plays the currently cued/loaded video. The final player state after this function executes will be playing (1). Note: A playback only counts toward a video's official view count if it is initiated via a native play button in the player. player.pauseVideo():Void Pauses the currently playing video. The final player state after this function executes will be paused (2) unless the player is in the ended (0) state when the function is called, in which case the player state will not change. player.stopVideo():Void Stops and cancels loading of the current video. This function should be reserved for rare situations when you know that the user will not be watching additional video in the player. If your intent is to pause the video, you should just call the pauseVideo function. If you want to change the video that the player is playing, you can call one of the queueing functions without calling stopVideo first. Important: Unlike the pauseVideo function, which leaves the player in the paused (2) state, the stopVideo function could put the player into any not-playing state, including ended (0), paused (2), video cued (5) or unstarted (-1). player.seekTo(seconds:Number, allowSeekAhead:Boolean):Void Seeks to a specified time in the video. If the player is paused when the function is called, it will remain paused. If the function is called from another state (playing, video cued, etc.), the player will play the video. The seconds parameter identifies the time to which the player should advance. The player will advance to the closest keyframe before that time unless the player has already downloaded the portion of the video to which the user is seeking. The allowSeekAhead parameter determines whether the player will make a new request to the server if the seconds parameter specifies a time outside of the currently buffered video data. We recommend that you set this parameter to false while the user drags the mouse along a video progress bar and then set it to true when the user releases the mouse. This approach lets a user scroll to different points of a video without requesting new video streams by scrolling past unbuffered points in the video. When the user releases the mouse button, the player advances to the desired point in the video and requests a new video stream if necessary. Controlling playback of 360° videos Note: The 360° video playback experience has limited support on mobile devices. On unsupported devices, 360° videos appear distorted and there is no supported way to change the viewing perspective at all, including through the API, using orientation sensors, or responding to touch/drag actions on the device's screen. player.getSphericalProperties():Object Retrieves properties that describe the viewer's current perspective, or view, for a video playback. In addition: This object is only populated for 360° videos, which are also called spherical videos. If the current video is not a 360° video or if the function is called from a non-supported device, then the function returns an empty object. On supported mobile devices, if the enableOrientationSensor property is set to true, then this function returns an object in which the fov property contains the correct value and the other properties are set to 0. The object contains the following properties: Properties yaw A number in the range [0, 360) that represents the horizontal angle of the view in degrees, which reflects the extent to which the user turns the view to face further left or right. The neutral position, facing the center of the video in its equirectangular projection, represents 0°, and this value increases as the viewer turns left. pitch A number in the range [-90, 90] that represents the vertical angle of the view in degrees, which reflects the extent to which the user adjusts the view to look up or down. The neutral position, facing the center of the video in its equirectangular projection, represents 0°, and this value increases as the viewer looks up. roll A number in the range [-180, 180] that represents the clockwise or counterclockwise rotational angle of the view in degrees. The neutral position, with the horizontal axis in the equirectangular projection being parallel to the horizontal axis of the view, represents 0°. The value increases as the view rotates clockwise and decreases as the view rotates counterclockwise. Note that the embedded player does not present a user interface for adjusting the roll of the view. The roll can be adjusted in either of these mutually exclusive ways: Use the orientation sensor in a mobile browser to provide roll for the view. If the orientation sensor is enabled, then the getSphericalProperties function always returns 0 as the value of the roll property. If the orientation sensor is disabled, set the roll to a nonzero value using this API. fov A number in the range [30, 120] that represents the field-of-view of the view in degrees as measured along the longer edge of the viewport. The shorter edge is automatically adjusted to be proportional to the aspect ratio of the view. The default value is 100 degrees. Decreasing the value is like zooming in on the video content, and increasing the value is like zooming out. This value can be adjusted either by using the API or by using the mousewheel when the video is in fullscreen mode. player.setSphericalProperties(properties:Object):Void Sets the video orientation for playback of a 360° video. (If the current video is not spherical, the method is a no-op regardless of the input.) The player view responds to calls to this method by updating to reflect the values of any known properties in the properties object. The view persists values for any other known properties not included in that object. In addition: If the object contains unknown and/or unexpected properties, the player ignores them. As noted at the beginning of this section, the 360° video playback experience is not supported on all mobile devices. By default, on supported mobile devices, this function sets only sets the fov property and does not affect the yaw, pitch, and roll properties for 360° video playbacks. See the enableOrientationSensor property below for more detail. The properties object passed to the function contains the following properties: Properties yaw See definition above. pitch See definition above. roll See definition above. fov See definition above. enableOrientationSensor Note: This property affects the 360° viewing experience on supported devices only. A boolean value that indicates whether the IFrame embed should respond to events that signal changes in a supported device's orientation, such as a mobile browser's DeviceOrientationEvent. The default parameter value is true. Supported mobile devices When the value is true, an embedded player relies only on the device's movement to adjust the yaw, pitch, and roll properties for 360° video playbacks. However, the fov property can still be changed via the API, and the API is, in fact, the only way to change the fov property on a mobile device. This is the default behavior. When the value is false, then the device's movement does not affect the 360° viewing experience, and the yaw, pitch, roll, and fov properties must all be set via the API. Unsupported mobile devices The enableOrientationSensor property value does not have any effect on the playback experience. Playing a video in a playlist player.nextVideo():Void This function loads and plays the next video in the playlist. If player.nextVideo() is called while the last video in the playlist is being watched, and the playlist is set to play continuously (loop), then the player will load and play the first video in the list. If player.nextVideo() is called while the last video in the playlist is being watched, and the playlist is not set to play continuously, then playback will end. player.previousVideo():Void This function loads and plays the previous video in the playlist. If player.previousVideo() is called while the first video in the playlist is being watched, and the playlist is set to play continuously (loop), then the player will load and play the last video in the list. If player.previousVideo() is called while the first video in the playlist is being watched, and the playlist is not set to play continuously, then the player will restart the first playlist video from the beginning. player.playVideoAt(index:Number):Void This function loads and plays the specified video in the playlist. The required index parameter specifies the index of the video that you want to play in the playlist. The parameter uses a zero-based index, so a value of 0 identifies the first video in the list. If you have shuffled the playlist, this function will play the video at the specified position in the shuffled playlist. Changing the player volume player.mute():Void Mutes the player. player.unMute():Void Unmutes the player. player.isMuted():Boolean Returns true if the player is muted, false if not. player.setVolume(volume:Number):Void Sets the volume. Accepts an integer between 0 and 100. player.getVolume():Number Returns the player's current volume, an integer between 0 and 100. Note that getVolume() will return the volume even if the player is muted. Setting the player size player.setSize(width:Number, height:Number):Object Sets the size in pixels of the <iframe> that contains the player. Setting the playback rate player.getPlaybackRate():Number This function retrieves the playback rate of the currently playing video. The default playback rate is 1, which indicates that the video is playing at normal speed. Playback rates may include values like 0.25, 0.5, 1, 1.5, and 2. player.setPlaybackRate(suggestedRate:Number):Void This function sets the suggested playback rate for the current video. If the playback rate changes, it will only change for the video that is already cued or being played. If you set the playback rate for a cued video, that rate will still be in effect when the playVideo function is called or the user initiates playback directly through the player controls. In addition, calling functions to cue or load videos or playlists (cueVideoById, loadVideoById, etc.) will reset the playback rate to 1. Calling this function does not guarantee that the playback rate will actually change. However, if the playback rate does change, the onPlaybackRateChange event will fire, and your code should respond to the event rather than the fact that it called the setPlaybackRate function. The getAvailablePlaybackRates method will return the possible playback rates for the currently playing video. However, if you set the suggestedRate parameter to a non-supported integer or float value, the player will round that value down to the nearest supported value in the direction of 1. player.getAvailablePlaybackRates():Array This function returns the set of playback rates in which the current video is available. The default value is 1, which indicates that the video is playing in normal speed. The function returns an array of numbers ordered from slowest to fastest playback speed. Even if the player does not support variable playback speeds, the array should always contain at least one value (1). Setting playback behavior for playlists player.setLoop(loopPlaylists:Boolean):Void This function indicates whether the video player should continuously play a playlist or if it should stop playing after the last video in the playlist ends. The default behavior is that playlists do not loop. This setting will persist even if you load or cue a different playlist, which means that if you load a playlist, call the setLoop function with a value of true, and then load a second playlist, the second playlist will also loop. The required loopPlaylists parameter identifies the looping behavior. If the parameter value is true, then the video player will continuously play playlists. After playing the last video in a playlist, the video player will go back to the beginning of the playlist and play it again. If the parameter value is false, then playbacks will end after the video player plays the last video in a playlist. player.setShuffle(shufflePlaylist:Boolean):Void This function indicates whether a playlist's videos should be shuffled so that they play back in an order different from the one that the playlist creator designated. If you shuffle a playlist after it has already started playing, the list will be reordered while the video that is playing continues to play. The next video that plays will then be selected based on the reordered list. This setting will not persist if you load or cue a different playlist, which means that if you load a playlist, call the setShuffle function, and then load a second playlist, the second playlist will not be shuffled. The required shufflePlaylist parameter indicates whether YouTube should shuffle the playlist. If the parameter value is true, then YouTube will shuffle the playlist order. If you instruct the function to shuffle a playlist that has already been shuffled, YouTube will shuffle the order again. If the parameter value is false, then YouTube will change the playlist order back to its original order. Playback status player.getVideoLoadedFraction():Float Returns a number between 0 and 1 that specifies the percentage of the video that the player shows as buffered. This method returns a more reliable number than the now-deprecated getVideoBytesLoaded and getVideoBytesTotal methods. player.getPlayerState():Number Returns the state of the player. Possible values are: -1 – unstarted 0 – ended 1 – playing 2 – paused 3 – buffering 5 – video cued player.getCurrentTime():Number Returns the elapsed time in seconds since the video started playing. player.getVideoStartBytes():Number Deprecated as of October 31, 2012. Returns the number of bytes the video file started loading from. (This method now always returns a value of 0.) Example scenario: the user seeks ahead to a point that hasn't loaded yet, and the player makes a new request to play a segment of the video that hasn't loaded yet. player.getVideoBytesLoaded():Number Deprecated as of July 18, 2012. Instead, use the getVideoLoadedFraction method to determine the percentage of the video that has buffered. This method returns a value between 0 and 1000 that approximates the amount of the video that has been loaded. You could calculate the fraction of the video that has been loaded by dividing the getVideoBytesLoaded value by the getVideoBytesTotal value. player.getVideoBytesTotal():Number Deprecated as of July 18, 2012. Instead, use the getVideoLoadedFraction method to determine the percentage of the video that has buffered. Returns the size in bytes of the currently loaded/playing video or an approximation of the video's size. This method always returns a value of 1000. You could calculate the fraction of the video that has been loaded by dividing the getVideoBytesLoaded value by the getVideoBytesTotal value. Retrieving video information player.getDuration():Number Returns the duration in seconds of the currently playing video. Note that getDuration() will return 0 until the video's metadata is loaded, which normally happens just after the video starts playing. If the currently playing video is a live event, the getDuration() function will return the elapsed time since the live video stream began. Specifically, this is the amount of time that the video has streamed without being reset or interrupted. In addition, this duration is commonly longer than the actual event time since streaming may begin before the event's start time. player.getVideoUrl():String Returns the YouTube.com URL for the currently loaded/playing video. player.getVideoEmbedCode():String Returns the embed code for the currently loaded/playing video. Retrieving playlist information player.getPlaylist():Array This function returns an array of the video IDs in the playlist as they are currently ordered. By default, this function will return video IDs in the order designated by the playlist owner. However, if you have called the setShuffle function to shuffle the playlist order, then the getPlaylist() function's return value will reflect the shuffled order. player.getPlaylistIndex():Number This function returns the index of the playlist video that is currently playing. If you have not shuffled the playlist, the return value will identify the position where the playlist creator placed the video. The return value uses a zero-based index, so a value of 0 identifies the first video in the playlist. If you have shuffled the playlist, the return value will identify the video's order within the shuffled playlist. Adding or removing an event listener player.addEventListener(event:String, listener:String):Void Adds a listener function for the specified event. The Events section below identifies the different events that the player might fire. The listener is a string that specifies the function that will execute when the specified event fires. player.removeEventListener(event:String, listener:String):Void Removes a listener function for the specified event. The listener is a string that identifies the function that will no longer execute when the specified event fires. Accessing and modifying DOM nodes player.getIframe():Object This method returns the DOM node for the embedded <iframe>. player.destroy():Void Removes the <iframe> containing the player. Events The API fires events to notify your application of changes to the embedded player. As noted in the previous section, you can subscribe to events by adding an event listener when constructing the YT.Player object, and you can also use the addEventListener function. The API will pass an event object as the sole argument to each of those functions. The event object has the following properties: The event's target identifies the video player that corresponds to the event. The event's data specifies a value relevant to the event. Note that the onReady and onAutoplayBlocked events do not specify a data property. The following list defines the events that the API fires: onReady This event fires whenever a player has finished loading and is ready to begin receiving API calls. Your application should implement this function if you want to automatically execute certain operations, such as playing the video or displaying information about the video, as soon as the player is ready. The example below shows a sample function for handling this event. The event object that the API passes to the function has a target property, which identifies the player. The function retrieves the embed code for the currently loaded video, starts to play the video, and displays the embed code in the page element that has an id value of embed-code. function onPlayerReady(event) { var embedCode = event.target.getVideoEmbedCode(); event.target.playVideo(); if (document.getElementById('embed-code')) { document.getElementById('embed-code').innerHTML = embedCode; } } onStateChange This event fires whenever the player's state changes. The data property of the event object that the API passes to your event listener function will specify an integer that corresponds to the new player state. Possible values are: -1 (unstarted) 0 (ended) 1 (playing) 2 (paused) 3 (buffering) 5 (video cued). When the player first loads a video, it will broadcast an unstarted (-1) event. When a video is cued and ready to play, the player will broadcast a video cued (5) event. In your code, you can specify the integer values or you can use one of the following namespaced variables: YT.PlayerState.ENDED YT.PlayerState.PLAYING YT.PlayerState.PAUSED YT.PlayerState.BUFFERING YT.PlayerState.CUED onPlaybackQualityChange This event fires whenever the video playback quality changes. It might signal a change in the viewer's playback environment. See the YouTube Help Center for more information about factors that affect playback conditions or that might cause the event to fire. The data property value of the event object that the API passes to the event listener function will be a string that identifies the new playback quality. Possible values are: small medium large hd720 hd1080 highres onPlaybackRateChange This event fires whenever the video playback rate changes. For example, if you call the setPlaybackRate(suggestedRate) function, this event will fire if the playback rate actually changes. Your application should respond to the event and should not assume that the playback rate will automatically change when the setPlaybackRate(suggestedRate) function is called. Similarly, your code should not assume that the video playback rate will only change as a result of an explicit call to setPlaybackRate. The data property value of the event object that the API passes to the event listener function will be a number that identifies the new playback rate. The getAvailablePlaybackRates method returns a list of the valid playback rates for the currently cued or playing video. onError This event fires if an error occurs in the player. The API will pass an event object to the event listener function. That object's data property will specify an integer that identifies the type of error that occurred. Possible values are: 2 – The request contains an invalid parameter value. For example, this error occurs if you specify a video ID that does not have 11 characters, or if the video ID contains invalid characters, such as exclamation points or asterisks. 5 – The requested content cannot be played in an HTML5 player or another error related to the HTML5 player has occurred. 100 – The video requested was not found. This error occurs when a video has been removed (for any reason) or has been marked as private. 101 – The owner of the requested video does not allow it to be played in embedded players. 150 – This error is the same as 101. It's just a 101 error in disguise! onApiChange This event is fired to indicate that the player has loaded (or unloaded) a module with exposed API methods. Your application can listen for this event and then poll the player to determine which options are exposed for the recently loaded module. Your application can then retrieve or update the existing settings for those options. The following command retrieves an array of module names for which you can set player options: player.getOptions(); Currently, the only module that you can set options for is the captions module, which handles closed captioning in the player. Upon receiving an onApiChange event, your application can use the following command to determine which options can be set for the captions module: player.getOptions('captions'); By polling the player with this command, you can confirm that the options you want to access are, indeed, accessible. The following commands retrieve and update module options: Retrieving an option: player.getOption(module, option); Setting an option player.setOption(module, option, value); The table below lists the options that the API supports: Module Option Description captions fontSize This option adjusts the font size of the captions displayed in the player. Valid values are -1, 0, 1, 2, and 3. The default size is 0, and the smallest size is -1. Setting this option to an integer below -1 will cause the smallest caption size to display, while setting this option to an integer above 3 will cause the largest caption size to display. captions reload This option reloads the closed caption data for the video that is playing. The value will be null if you retrieve the option's value. Set the value to true to reload the closed caption data. onAutoplayBlocked This event fires any time the browser blocks autoplay or scripted video playback features, collectively referred to as "autoplay". This includes playback attempted with any of the following player APIs: autoplay parameter loadPlaylist function loadVideoById function loadVideoByUrl function playVideo function Most browsers have policies that can block autoplay in desktop, mobile, and other environments if certain conditions are true. Instances where this policy may be triggered include unmuted playback without user interaction, or when a Permissions Policy to permit autoplay on a cross-origin iframe has not been set. For complete details, refer to browser-specific policies (Apple Safari / Webkit, Google Chrome, Mozilla Firefox) and Mozilla's autoplay guide. Examples Creating YT.Player objects Example 1: Use API with existing <iframe> In this example, an <iframe> element on the page already defines the player with which the API will be used. Note that either the player's src URL must set the enablejsapi parameter to 1 or the <iframe> element's enablejsapi attribute must be set to true. The onPlayerReady function changes the color of the border around the player to orange when the player is ready. The onPlayerStateChange function then changes the color of the border around the player based on the current player status. For example, the color is green when the player is playing, red when paused, blue when buffering, and so forth. This example uses the following code: <iframe id="existing-iframe-example" width="640" height="360" src="https://www.youtube.com/embed/M7lc1UVf-VE?enablejsapi=1" frameborder="0" style="border: solid 4px #37474F" ></iframe> <script type="text/javascript"> var tag = document.createElement('script'); tag.id = 'iframe-demo'; tag.src = 'https://www.youtube.com/iframe_api'; var firstScriptTag = document.getElementsByTagName('script')[0]; firstScriptTag.parentNode.insertBefore(tag, firstScriptTag); var player; function onYouTubeIframeAPIReady() { player = new YT.Player('existing-iframe-example', { events: { 'onReady': onPlayerReady, 'onStateChange': onPlayerStateChange } }); } function onPlayerReady(event) { document.getElementById('existing-iframe-example').style.borderColor = '#FF6D00'; } function changeBorderColor(playerStatus) { var color; if (playerStatus == -1) { color = "#37474F"; // unstarted = gray } else if (playerStatus == 0) { color = "#FFFF00"; // ended = yellow } else if (playerStatus == 1) { color = "#33691E"; // playing = green } else if (playerStatus == 2) { color = "#DD2C00"; // paused = red } else if (playerStatus == 3) { color = "#AA00FF"; // buffering = purple } else if (playerStatus == 5) { color = "#FF6DOO"; // video cued = orange } if (color) { document.getElementById('existing-iframe-example').style.borderColor = color; } } function onPlayerStateChange(event) { changeBorderColor(event.data); } </script> Example 2: Loud playback This example creates a 1280px by 720px video player. The event listener for the onReady event then calls the setVolume function to adjust the volume to the highest setting. function onYouTubeIframeAPIReady() { var player; player = new YT.Player('player', { width: 1280, height: 720, videoId: 'M7lc1UVf-VE', events: { 'onReady': onPlayerReady, 'onStateChange': onPlayerStateChange, 'onError': onPlayerError } }); } function onPlayerReady(event) { event.target.setVolume(100); event.target.playVideo(); } Example 3: This example sets player parameters to automatically play the video when it loads and to hide the video player's controls. It also adds event listeners for several events that the API broadcasts. function onYouTubeIframeAPIReady() { var player; player = new YT.Player('player', { videoId: 'M7lc1UVf-VE', playerVars: { 'autoplay': 1, 'controls': 0 }, events: { 'onReady': onPlayerReady, 'onStateChange': onPlayerStateChange, 'onError': onPlayerError } }); } Controlling 360° videos This example uses the following code: <style> .current-values { color: #666; font-size: 12px; } </style> <!-- The player is inserted in the following div element --> <div id="spherical-video-player"></div> <!-- Display spherical property values and enable user to update them. --> <table style="border: 0; width: 640px;"> <tr style="background: #fff;"> <td> <label for="yaw-property">yaw: </label> <input type="text" id="yaw-property" style="width: 80px"><br> <div id="yaw-current-value" class="current-values"> </div> </td> <td> <label for="pitch-property">pitch: </label> <input type="text" id="pitch-property" style="width: 80px"><br> <div id="pitch-current-value" class="current-values"> </div> </td> <td> <label for="roll-property">roll: </label> <input type="text" id="roll-property" style="width: 80px"><br> <div id="roll-current-value" class="current-values"> </div> </td> <td> <label for="fov-property">fov: </label> <input type="text" id="fov-property" style="width: 80px"><br> <div id="fov-current-value" class="current-values"> </div> </td> <td style="vertical-align: bottom;"> <button id="spherical-properties-button">Update properties</button> </td> </tr> </table> <script type="text/javascript"> var tag = document.createElement('script'); tag.id = 'iframe-demo'; tag.src = 'https://www.youtube.com/iframe_api'; var firstScriptTag = document.getElementsByTagName('script')[0]; firstScriptTag.parentNode.insertBefore(tag, firstScriptTag); var PROPERTIES = ['yaw', 'pitch', 'roll', 'fov']; var updateButton = document.getElementById('spherical-properties-button'); // Create the YouTube Player. var ytplayer; function onYouTubeIframeAPIReady() { ytplayer = new YT.Player('spherical-video-player', { height: '360', width: '640', videoId: 'FAtdv94yzp4', }); } // Don't display current spherical settings because there aren't any. function hideCurrentSettings() { for (var p = 0; p < PROPERTIES.length; p++) { document.getElementById(PROPERTIES[p] + '-current-value').innerHTML = ''; } } // Retrieve current spherical property values from the API and display them. function updateSetting() { if (!ytplayer || !ytplayer.getSphericalProperties) { hideCurrentSettings(); } else { let newSettings = ytplayer.getSphericalProperties(); if (Object.keys(newSettings).length === 0) { hideCurrentSettings(); } else { for (var p = 0; p < PROPERTIES.length; p++) { if (newSettings.hasOwnProperty(PROPERTIES[p])) { currentValueNode = document.getElementById(PROPERTIES[p] + '-current-value'); currentValueNode.innerHTML = ('current: ' + newSettings[PROPERTIES[p]].toFixed(4)); } } } } requestAnimationFrame(updateSetting); } updateSetting(); // Call the API to update spherical property values. updateButton.onclick = function() { var sphericalProperties = {}; for (var p = 0; p < PROPERTIES.length; p++) { var propertyInput = document.getElementById(PROPERTIES[p] + '-property'); sphericalProperties[PROPERTIES[p]] = parseFloat(propertyInput.value); } ytplayer.setSphericalProperties(sphericalProperties); } </script> Android WebView Media Integrity API integration YouTube has extended the Android WebView Media Integrity API to enable embedded media players, including YouTube player embeds in Android applications, to verify the embedding app's authenticity. With this change, embedding apps automatically send an attested app ID to YouTube. The data collected through usage of this API is the app metadata (the package name, version number, and signing certificate) and a device attestation token generated by Google Play services. The data is used to verify the application and device integrity. It is encrypted, not shared with third parties, and deleted following a fixed retention period. App developers can configure their app identity in the WebView Media Integrity API. The configuration supports an opt-out option. Revision history June 24, 2024 The documentation has been updated to note that YouTube has extended the Android WebView Media Integrity API to enable embedded media players, including YouTube player embeds in Android applications, to verify the embedding app's authenticity. With this change, embedding apps automatically send an attested app ID to YouTube. November 20, 2023 The new onAutoplayBlocked event API is now available. This event notifies your application if the browser blocks autoplay or scripted playback. Verification of autoplay success or failure is an established paradigm for HTMLMediaElements, and the onAutoplayBlocked event now provides similar functionality for the IFrame Player API. April 27, 2021 The Getting Started and Loading a Video Player sections have been updated to include examples of using a playerVars object to customize the player. October 13, 2020 Note: This is a deprecation announcement for the embedded player functionality that lets you configure the player to load search results. This announcement affects the IFrame Player API's queueing functions for lists, cuePlaylist and loadPlaylist. This change will become effective on or after 15 November 2020. After that time, calls to the cuePlaylist or loadPlaylist functions that set the listType property to search will generate a 4xx response code, such as 404 (Not Found) or 410 (Gone). This change also affects the list property for those functions as that property no longer supports the ability to specify a search query. As an alternative, you can use the YouTube Data API's search.list method to retrieve search results and then load selected videos in the player. October 24, 2019 The documentation has been updated to reflect the fact that the API no longer supports functions for setting or retrieving playback quality. As explained in this YouTube Help Center article, to give you the best viewing experience, YouTube adjusts the quality of your video stream based on your viewing conditions. The changes explained below have been in effect for more than one year. This update merely aligns the documentation with current functionality: The getPlaybackQuality, setPlaybackQuality, and getAvailableQualityLevels functions are no longer supported. In particular, calls to setPlaybackQuality will be no-op functions, meaning they will not actually have any impact on the viewer's playback experience. The queueing functions for videos and playlists -- cueVideoById, loadVideoById, etc. -- no longer support the suggestedQuality argument. Similarly, if you call those functions using object syntax, the suggestedQuality field is no longer supported. If suggestedQuality is specified, it will be ignored when the request is handled. It will not generate any warnings or errors. The onPlaybackQualityChange event is still supported and might signal a change in the viewer's playback environment. See the Help Center article referenced above for more information about factors that affect playback conditions or that might cause the event to fire. May 16, 2018 The API now supports features that allow users (or embedders) to control the viewing perspective for 360° videos: The getSphericalProperties function retrieves the current orientation for the video playback. The orientation includes the following data: yaw - represents the horizontal angle of the view in degrees, which reflects the extent to which the user turns the view to face further left or right pitch - represents the vertical angle of the view in degrees, which reflects the extent to which the user adjusts the view to look up or down roll - represents the rotational angle (clockwise or counterclockwise) of the view in degrees. fov - represents the field-of-view of the view in degrees, which reflects the extent to which the user zooms in or out on the video. The setSphericalProperties function modifies the view to match the submitted property values. In addition to the orientation values described above, this function supports a Boolean field that indicates whether the IFrame embed should respond to DeviceOrientationEvents on supported mobile devices. This example demonstrates and lets you test these new features. June 19, 2017 This update contains the following changes: Documentation for the YouTube Flash Player API and YouTube JavaScript Player API has been removed and redirected to this document. The deprecation announcement for the Flash and JavaScript players was made on January 27, 2015. If you haven't done so already, please migrate your applications to use IFrame embeds and the IFrame Player API. August 11, 2016 This update contains the following changes: The newly published YouTube API Services Terms of Service ("the Updated Terms"), discussed in detail on the YouTube Engineering and Developers Blog, provides a rich set of updates to the current Terms of Service. In addition to the Updated Terms, which will go into effect as of February 10, 2017, this update includes several supporting documents to help explain the policies that developers must follow. The full set of new documents is described in the revision history for the Updated Terms. In addition, future changes to the Updated Terms or to those supporting documents will also be explained in that revision history. You can subscribe to an RSS feed listing changes in that revision history from a link in that document. June 29, 2016 This update contains the following changes: The documentation has been corrected to note that the onApiChange method provides access to the captions module and not the cc module. June 24, 2016 The Examples section has been updated to include an example that demonstrates how to use the API with an existing <iframe> element. January 6, 2016 The clearVideo function has been deprecated and removed from the documentation. The function no longer has any effect in the YouTube player. December 18, 2015 European Union (EU) laws require that certain disclosures must be given to and consents obtained from end users in the EU. Therefore, for end users in the European Union, you must comply with the EU User Consent Policy. We have added a notice of this requirement in our YouTube API Terms of Service. April 28, 2014 This update contains the following changes: The new removeEventListener function lets you remove a listener for a specified event. March 25, 2014 This update contains the following changes: The Requirements section has been updated to note that embedded players must have a viewport that is at least 200px by 200px. If a player displays controls, it must be large enough to fully display the controls without shrinking the viewport below the minimum size. We recommend 16:9 players be at least 480 pixels wide and 270 pixels tall. July 23, 2013 This update contains the following changes: The Overview now includes a video of a 2011 Google I/O presentation that discusses the iframe player. October 31, 2012 This update contains the following changes: The Queueing functions section has been updated to explain that you can use either argument syntax or object syntax to call all of those functions. Note that the API may support additional functionality in object syntax that the argument syntax does not support. In addition, the descriptions and examples for each of the video queueing functions have been updated to reflect the newly added support for object syntax. (The API's playlist queueing functions already supported object syntax.) When called using object syntax, each of the video queueing functions supports an endSeconds property, which accepts a float/integer and specifies the time when the video should stop playing when playVideo() is called. The getVideoStartBytes method has been deprecated. The method now always returns a value of 0. August 22, 2012 This update contains the following changes: The example in the Loading a video player section that demonstrates how to manually create the <iframe> tag has been updated to include a closing </iframe> tag since the onYouTubeIframeAPIReady function is only called if the closing </iframe> element is present. August 6, 2012 This update contains the following changes: The Operations section has been expanded to list all of the supported API functions rather than linking to the JavaScript Player API Reference for that list. The API supports several new functions and one new event that can be used to control the video playback speed: Functions getAvailablePlaybackRates – Retrieve the supported playback rates for the cued or playing video. Note that variable playback rates are currently only supported in the HTML5 player. getPlaybackRate – Retrieve the playback rate for the cued or playing video. setPlaybackRate – Set the playback rate for the cued or playing video. Events onPlaybackRateChange – This event fires when the video's playback rate changes. July 19, 2012 This update contains the following changes: The new getVideoLoadedFraction method replaces the now-deprecated getVideoBytesLoaded and getVideoBytesTotal methods. The new method returns the percentage of the video that the player shows as buffered. The onError event may now return an error code of 5, which indicates that the requested content cannot be played in an HTML5 player or another error related to the HTML5 player has occurred. The Requirements section has been updated to indicate that any web page using the IFrame API must also implement the onYouTubeIframeAPIReady function. Previously, the section indicated that the required function was named onYouTubePlayerAPIReady. Code samples throughout the document have also been updated to use the new name. Note: To ensure that this change does not break existing implementations, both names will work. If, for some reason, your page has an onYouTubeIframeAPIReady function and an onYouTubePlayerAPIReady function, both functions will be called, and the onYouTubeIframeAPIReady function will be called first. The code sample in the Getting started section has been updated to reflect that the URL for the IFrame Player API code has changed to http://www.youtube.com/iframe_api. To ensure that this change does not affect existing implementations, the old URL (http://www.youtube.com/player_api) will continue to work. July 16, 2012 This update contains the following changes: The Operations section now explains that the API supports the setSize() and destroy() methods. The setSize() method sets the size in pixels of the <iframe> that contains the player and the destroy() method removes the <iframe>. June 6, 2012 This update contains the following changes: We have removed the experimental status from the IFrame Player API. The Loading a video player section has been updated to point out that when inserting the <iframe> element that will contain the YouTube player, the IFrame API replaces the element specified in the constructor for the YouTube player. This documentation change does not reflect a change in the API and is intended solely to clarify existing behavior. In addition, that section now notes that the insertion of the <iframe> element could affect the layout of your page if the element being replaced has a different display style than the inserted <iframe> element. By default, an <iframe> displays as an inline-block element. March 30, 2012 This update contains the following changes: The Operations section has been updated to explain that the IFrame API supports a new method, getIframe(), which returns the DOM node for the IFrame embed. March 26, 2012 This update contains the following changes: The Requirements section has been updated to note the minimum player size. the <iframe> tag, or the videoId and player parameters, which are are specified in the src URL. As an extra security measure, you should also include the origin parameter to the URL, specifying the URL scheme (http:// or https://) loadVideoById("bHQqvYy5KYo", 5, "large") Object syntax loadVideoById({'videoId': 'bHQqvYy5KYo', 'startSeconds': 5, 'endSeconds': 60}); Queueing functions for videos cueVideoById Argument syntax player.cueVideoById(videoId:String, startSeconds:Number):Void Object syntax player.cueVideoById({videoId:String, startSeconds:Number, endSeconds:Number}):Void This function loads the specified video's thumbnail and prepares the player to play the video. The player does not request the FLV until playVideo() or seekTo() is called. player.loadVideoById(videoId:String, startSeconds:Number):Void Object syntax player.loadVideoById({videoId:String, startSeconds:Number, endSeconds:Number}):Void This function loads and plays the specified video. player.cueVideoByUrl(mediaContentUrl:String, startSeconds:Number):Void Object syntax player.cueVideoByUrl({mediaContentUrl:String, startSeconds:Number, endSeconds:Number}):Void player.loadVideoByUrl(mediaContentUrl:String, startSeconds:Number):Void Object syntax player.loadVideoByUrl({mediaContentUrl:String, startSeconds:Number, endSeconds:Number}):Void This function loads and plays the specified video. player.cuePlaylist(playlist:String|Array, index:Number, startSeconds:Number):Void player.cuePlaylist({listType:String, list:String, index:Number, startSeconds:Number}):Void player.loadPlaylist(playlist:String|Array, index:Number, startSeconds:Number):Void player.loadPlaylist({list:String, listType:String, index:Number, startSeconds:Number}):Void Properties yaw See definition above. pitch See definition above. roll See definition above. fov See definition above. enableOrientationSensor Changing the player volume player.mute():Void Mutes the player. player.unMute():Void Unmutes the player. player.isMuted():Boolean Returns true if the player is muted, false if not. player.setVolume(volume:Number):Void Sets the volume. Accepts an integer between 0 and 100. player.getVolume():Number Returns the player's current volume, an integer between 0 and 100. Note that getVolume() will return the volume even if the player is muted. Setting the player size player.setSize(width:Number, height:Number):Object Sets the size in pixels of the <iframe> that contains the player. Setting the playback rate player.getPlaybackRate():Number player.setShuffle(shufflePlaylist:Boolean):Void -1 – unstarted 0 – ended 1 – playing 2 – paused 3 – buffering 5 – video cued player.getCurrentTime():Number player.getPlaylist():Array function onPlayerReady(event) { var embedCode = event.target.getVideoEmbedCode(); event.target.playVideo(); if (document.getElementById('embed-code')) { document.getElementById('embed-code').innerHTML = embedCode; } } onStateChange -1 (unstarted) 0 (ended) 1 (playing) 2 (paused) 3 (buffering) 5 (video cued). YT.PlayerState.ENDED YT.PlayerState.PLAYING YT.PlayerState.PAUSED YT.PlayerState.BUFFERING YT.PlayerState.CUED onPlaybackQualityChange <!DOCTYPE html> <html> <body> <!-- 1. The <iframe> (and video player) will replace this <div> tag. --> <div id="player"></div> <script> // 2. This code loads the IFrame Player API code asynchronously. var tag = document.createElement('script'); tag.src = "https://www.youtube.com/iframe_api"; var firstScriptTag = document.getElementsByTagName('script')[0]; firstScriptTag.parentNode.insertBefore(tag, firstScriptTag); // 3. This function creates an <iframe> (and YouTube player) // after the API code downloads. var player; function onYouTubeIframeAPIReady() { player = new YT.Player('player', { height: '390', width: '640', videoId: 'M7lc1UVf-VE', playerVars: { 'playsinline': 1 }, events: { 'onReady': onPlayerReady, 'onStateChange': onPlayerStateChange } }); } // 4. The API will call this function when the video player is ready. function onPlayerReady(event) { event.target.playVideo(); } // 5. The API calls this function when the player's state changes. // The function indicates that when playing a video (state=1), // the player should play for six seconds and then stop. var done = false; function onPlayerStateChange(event) { if (event.data == YT.PlayerState.PLAYING && !done) { setTimeout(stopVideo, 6000); done = true; } } function stopVideo() { player.stopVideo(); } </script> </body> </html> var player; function onYouTubeIframeAPIReady() { player = new YT.Player('player', { height: '390', width: '640', videoId: 'M7lc1UVf-VE', playerVars: { 'playsinline': 1 }, events: { 'onReady': onPlayerReady, 'onStateChange': onPlayerStateChange } }); } <iframe> element. default, an <iframe> : width (number) – The width of the video player. The default value is 640. height (number) – The height of the video player. The default value is 390. videoId (string) – . playerVars (object) – events (object) – <iframe id="player" type="text/html" width="640" height="390" src="http://www.youtube.com/embed/M7lc1UVf-VE?enablejsapi=1&origin=http://example.com" frameborder="0"></iframe> <iframe> loadVideoById("bHQqvYy5KYo", 5, "large") Object syntax loadVideoById({'videoId': 'bHQqvYy5KYo', 'startSeconds': 5, 'endSeconds': 60}); Queueing functions for videos cueVideoById player.cueVideoById(videoId:String, startSeconds:Number):Void player.cueVideoById({videoId:String, startSeconds:Number, endSeconds:Number}):Void This function loads the specified video's thumbnail and prepares the player to play the video. The player does not request the FLV until playVideo() or seekTo() is called. player.loadVideoById(videoId:String, startSeconds:Number):Voi player.loadVideoById({videoId:String, startSeconds:Number, endSeconds:Number}):Void This function loads and plays the specified video. player.cueVideoByUrl(mediaContentUrl:String, startSeconds:Number):Void player.cueVideoByUrl({mediaContentUrl:String, startSeconds:Number, endSeconds:Number}):Void This function loads the specified video's thumbnail and prepares the player to play the video. The player does not request the FLV until playVideo() or seekTo() is called. The required mediaContentUrl parameter specifies a fully qualified YouTube player URL in the format http://www.youtube.com/v/VIDEO_ID?version=3. player.loadVideoByUrl(mediaContentUrl:String, startSeconds:Number):Void Object syntax player.loadVideoByUrl({mediaContentUrl:String, startSeconds:Number, endSeconds:Number}):Void This function loads and plays the specified video. The required mediaContentUrl parameter specifies a fully qualified YouTube player URL in the format http://www.youtube.com/v/VIDEO_ID?version=3. player.cuePlaylist(playlist:String|Array, index:Number, startSeconds:Number):Void player.cuePlaylist({listType:String, list:String, index:Number, startSeconds:Number}):Void Queues the specified list of videos. The list can be a playlist or a user player.loadPlaylist(playlist:String|Array, index:Number, startSeconds:Number):Void This function loads the specified playlist and plays it. player.loadPlaylist({list:String, listType:String, index:Number, startSeconds:Number}):Void enableOrientationSensor Changing the player volume player.mute():Void Mutes the player. player.unMute():Void Unmutes the player. player.isMuted():Boolean Returns true if the player is muted, false if not. player.setVolume(volume:Number):Void Sets the volume. Accepts an integer between 0 and 100. player.getVolume():Number Returns the player Setting the player size player.setSize(width:Number, height:Number):Object Sets the size in pixels of the <iframe> that contains the player. Setting the playback rate player.getPlaybackRate():Number This function retrieves the playback rate of the currently playing video. player.setPlaybackRate Calling this function does not guarantee that the playback rate will actually change. This function returns the set of playback rates least one value (1). player.setLoop(loopPlaylists:Boolean):Void This function indicates whether the video player should continuously play a playlist or player.setShuffle(shufflePlaylist:Boolean):Void This function indicates whether a playlist' Playback status player.getVideoLoadedFraction():Float Returns a number between 0 and 1 that specifies the percentage of the video that the player shows as buffered. This method returns a more reliable number than the now-deprecated getVideoBytesLoaded and getVideoBytesTotal methods. player.getPlayerState():Number Returns the state of the player. Possible values are: -1 – unstarted 0 – ended 1 – playing 2 – paused 3 – buffering 5 – video cued player.getCurrentTime():Number Returns the elapsed time in seconds since the video started playing. player.getVideoStartBytes():Number ue of 1000. You could calculate the fraction of the video that has been loaded by dividing the getVideoBytesLoaded value by the getVideoBytesTotal value. Retrieving video information player.getDuration():Number start time. player.getVideoUrl():String Returns the YouTube.com URL player.getVideoEmbedCode():String player.getPlaylist():Array This function returns an array of the video IDs This function returns the index of the playlist video that is currently playing. player.addEventListener(event:String, listener:String):Void Adds a listener function for player.removeEventListener(event:String, listener:String):Void player.getIframe():Object embedded <iframe>. player.destroy():Void Removes the <iframe> Events The event' The event' function onPlayerReady(event) { var embedCode = event.target.getVideoEmbedCode(); event.target.playVideo(); if (document.getElementById('embed-code')) { document.getElementById('embed-code').innerHTML = embedCode; } } onStateChange -1 (unstarted) 0 (ended) 1 (playing) 2 (paused) 3 (buffering) 5 (video cued). YT.PlayerState.ENDED YT.PlayerState.PLAYING YT.PlayerState.PAUSED YT.PlayerState.BUFFERING YT.PlayerState.CUED onPlaybackQualityChange autoplay parameter loadPlaylist function loadVideoById function loadVideoByUrl function playVideo function Most browsers have policies that can block autoplay . Creating YT.Player objects Example 1: Use API with existing <iframe> In this example, an <iframe> o<iframe> <iframe id="existing-iframe-example" width="640" height="360" src="https://www.youtube.com/embed/M7lc1UVf-VE?enablejsapi=1" frameborder="0" style="border: solid 4px #37474F" ></iframe> <script type="text/javascript"> var tag = document.createElement('script'); tag.id = 'iframe-demo'; tag.src = 'https://www.youtube.com/iframe_api'; var firstScriptTag = document.getElementsByTagName('script')[0]; firstScriptTag.parentNode.insertBefore(tag, firstScriptTag); var player; function onYouTubeIframeAPIReady() { player = new YT.Player('existing-iframe-example', { events: { 'onReady': onPlayerReady, 'onStateChange': onPlayerStateChange } }); } function onPlayerReady(event) { document.getElementById('existing-iframe-example').style.borderColor = '#FF6D00'; } function changeBorderColor(playerStatus) { var color; if (playerStatus == -1) { color = "#37474F"; // unstarted = gray } else if (playerStatus == 0) { color = "#FFFF00"; // ended = yellow } else if (playerStatus == 1) { color = "#33691E"; // playing = green } else if (playerStatus == 2) { color = "#DD2C00"; // paused = red } else if (playerStatus == 3) { color = "#AA00FF"; // buffering = purple } else if (playerStatus == 5) { color = "#FF6DOO"; // video cued = orange } if (color) { document.getElementById('existing-iframe-example').style.borderColor = color; } } function onPlayerStateChange(event) { changeBorderColor(event.data); } </script> Example 2: Loud playback function onYouTubeIframeAPIReady() { var player; player = new YT.Player('player', { width: 1280, height: 720, videoId: 'M7lc1UVf-VE', events: { 'onReady': onPlayerReady, 'onStateChange': onPlayerStateChange, 'onError': onPlayerError } }); } function onPlayerReady(event) { event.target.setVolume(100); event.target.playVideo(); } Example 3: This example sets player parameters to automatically play the video when it loads and to hide the video player's controls. It also adds event listeners for several events that the API broadcasts. function onYouTubeIframeAPIReady() { var player; player = new YT.Player('player', { videoId: 'M7lc1UVf-VE', playerVars: { 'autoplay': 1, 'controls': 0 }, events: { 'onReady': onPlayerReady, 'onStateChange': onPlayerStateChange, 'onError': onPlayerError } }); } Controlling 360° videos This example uses the following code: <style> .current-values { color: #666; font-size: 12px; } </style> <!-- The player is inserted in the following div element --> <div id="spherical-video-player"></div> <!-- Display spherical property values and enable user to update them. --> <table style="border: 0; width: 640px;"> <tr style="background: #fff;"> <td> <label for="yaw-property">yaw: </label> <input type="text" id="yaw-property" style="width: 80px"><br> <div id="yaw-current-value" class="current-values"> </div> </td> <td> <label for="pitch-property">pitch: </label> <input type="text" id="pitch-property" style="width: 80px"><br> <div id="pitch-current-value" class="current-values"> </div> </td> <td> <label for="roll-property">roll: </label> <input type="text" id="roll-property" style="width: 80px"><br> <div id="roll-current-value" class="current-values"> </div> </td> <td> <label for="fov-property">fov: </label> <input type="text" id="fov-property" style="width: 80px"><br> <div id="fov-current-value" class="current-values"> </div> </td> <td style="vertical-align: bottom;"> <button id="spherical-properties-button">Update properties</button> </td> </tr> </table> <script type="text/javascript"> var tag = document.createElement('script'); tag.id = 'iframe-demo'; tag.src = 'https://www.youtube.com/iframe_api'; var firstScriptTag = document.getElementsByTagName('script')[0]; firstScriptTag.parentNode.insertBefore(tag, firstScriptTag); var PROPERTIES = ['yaw', 'pitch', 'roll', 'fov']; var updateButton = document.getElementById('spherical-properties-button'); // Create the YouTube Player. var ytplayer; function onYouTubeIframeAPIReady() { ytplayer = new YT.Player('spherical-video-player', { height: '360', width: '640', videoId: 'FAtdv94yzp4', }); } // Don't display current spherical settings because there aren't any. function hideCurrentSettings() { for (var p = 0; p < PROPERTIES.length; p++) { document.getElementById(PROPERTIES[p] + '-current-value').innerHTML = ''; } } // Retrieve current spherical property values from the API and display them. function updateSetting() { if (!ytplayer || !ytplayer.getSphericalProperties) { hideCurrentSettings(); } else { let newSettings = ytplayer.getSphericalProperties(); if (Object.keys(newSettings).length === 0) { hideCurrentSettings(); } else { for (var p = 0; p < PROPERTIES.length; p++) { if (newSettings.hasOwnProperty(PROPERTIES[p])) { currentValueNode = document.getElementById(PROPERTIES[p] + '-current-value'); currentValueNode.innerHTML = ('current: ' + newSettings[PROPERTIES[p]].toFixed(4)); } } } } requestAnimationFrame(updateSetting); } updateSetting(); // Call the API to update spherical property values. updateButton.onclick = function() { var sphericalProperties = {}; for (var p = 0; p < PROPERTIES.length; p++) { var propertyInput = document.getElementById(PROPERTIES[p] + '-property'); sphericalProperties[PROPERTIES[p]] = parseFloat(propertyInput.value); } ytplayer.setSphericalProperties(sphericalProperties); } </script> http://www.youtube.com/iframe_api. <iframe> <iframe> <iframe> <iframe> <iframe> . <iframe id="existing-iframe-example" width="640" height="360" src="https://www.youtube.com/embed/M7lc1UVf-VE?enablejsapi=1" frameborder="0" style="border: solid 4px #37474F" ></iframe> <script type="text/javascript"> var tag = document.createElement('script'); tag.id = 'iframe-demo'; tag.src = 'https://www.youtube.com/iframe_api'; var firstScriptTag = document.getElementsByTagName('script')[0]; firstScriptTag.parentNode.insertBefore(tag, firstScriptTag); var player; function onYouTubeIframeAPIReady() { player = new YT.Player('existing-iframe-example', { events: { 'onReady': onPlayerReady, 'onStateChange': onPlayerStateChange } }); } function onPlayerReady(event) { document.getElementById('existing-iframe-example').style.borderColor = '#FF6D00'; } function changeBorderColor(playerStatus) { var color; if (playerStatus == -1) { color = "#37474F"; // unstarted = gray } else if (playerStatus == 0) { color = "#FFFF00"; // ended = yellow } else if (playerStatus == 1) { color = "#33691E"; // playing = green } else if (playerStatus == 2) { color = "#DD2C00"; // paused = red } else if (playerStatus == 3) { color = "#AA00FF"; // buffering = purple } else if (playerStatus == 5) { color = "#FF6DOO"; // video cued = orange } if (color) { document.getElementById('existing-iframe-example').style.borderColor = color; } } function onPlayerStateChange(event) { changeBorderColor(event.data); } </script> Example 2: Loud playback This example creates a 1280px by 720px video player. The event listener for the onReady event then calls the setVolume function to adjust the volume to the highest setting. function onYouTubeIframeAPIReady() { var player; player = new YT.Player('player', { width: 1280, height: 720, videoId: 'M7lc1UVf-VE', events: { 'onReady': onPlayerReady, 'onStateChange': onPlayerStateChange, 'onError': onPlayerError } }); } function onPlayerReady(event) { event.target.setVolume(100); event.target.playVideo(); } Example 3: This example sets player parameters to automatically play the video when it loads and to hide the video player's controls. It also adds event listeners for several events that the API broadcasts. function onYouTubeIframeAPIReady() { var player; player = new YT.Player('player', { videoId: 'M7lc1UVf-VE', playerVars: { 'autoplay': 1, 'controls': 0 }, events: { 'onReady': onPlayerReady, 'onStateChange': onPlayerStateChange, 'onError': onPlayerError } }); } Controlling 360° videos This example uses the following code: <style> .current-values { color: #666; font-size: 12px; } </style> <!-- The player is inserted in the following div element --> <div id="spherical-video-player"></div> <!-- Display spherical property values and enable user to update them. --> <table style="border: 0; width: 640px;"> <tr style="background: #fff;"> <td> <label for="yaw-property">yaw: </label> <input type="text" id="yaw-property" style="width: 80px"><br> <div id="yaw-current-value" class="current-values"> </div> </td> <td> <label for="pitch-property">pitch: </label> <input type="text" id="pitch-property" style="width: 80px"><br> <div id="pitch-current-value" class="current-values"> </div> </td> <td> <label for="roll-property">roll: </label> <input type="text" id="roll-property" style="width: 80px"><br> <div id="roll-current-value" class="current-values"> </div> </td> <td> <label for="fov-property">fov: </label> <input type="text" id="fov-property" style="width: 80px"><br> <div id="fov-current-value" class="current-values"> </div> </td> <td style="vertical-align: bottom;"> <button id="spherical-properties-button">Update properties</button> </td> </tr> </table> <script type="text/javascript"> var tag = document.createElement('script'); tag.id = 'iframe-demo'; tag.src = 'https://www.youtube.com/iframe_api'; var firstScriptTag = document.getElementsByTagName('script')[0]; firstScriptTag.parentNode.insertBefore(tag, firstScriptTag); var PROPERTIES = ['yaw', 'pitch', 'roll', 'fov']; var updateButton = document.getElementById('spherical-properties-button'); // Create the YouTube Player. var ytplayer; function onYouTubeIframeAPIReady() { ytplayer = new YT.Player('spherical-video-player', { height: '360', width: '640', videoId: 'FAtdv94yzp4', }); } // Don't display current spherical settings because there aren't any. function hideCurrentSettings() { for (var p = 0; p < PROPERTIES.length; p++) { document.getElementById(PROPERTIES[p] + '-current-value').innerHTML = ''; } } // Retrieve current spherical property values from the API and display them. function updateSetting() { if (!ytplayer || !ytplayer.getSphericalProperties) { hideCurrentSettings(); } else { let newSettings = ytplayer.getSphericalProperties(); if (Object.keys(newSettings).length === 0) { hideCurrentSettings(); } else { for (var p = 0; p < PROPERTIES.length; p++) { if (newSettings.hasOwnProperty(PROPERTIES[p])) { currentValueNode = document.getElementById(PROPERTIES[p] + '-current-value'); currentValueNode.innerHTML = ('current: ' + newSettings[PROPERTIES[p]].toFixed(4)); } } } : {https://youtu.be/MCM-mf3Zl3M?list=RDMCM-mf3Zl3M "ns": "yt", "el": "detailpage}https://youtu.be/MCM-mf3Zl3M?list=RDMCM-mf3Zl3M "ns": "yt", "el": "detailpage", "cpn": "4JKKk5nu295IC28W", "ver": 2, "cmt": "79.221", "fmt": "243", "fs": "0", "rt": "133.361", "euri": "", "lact": 3, "cl": "678482515", "mos": 0, "state": "8", "volume": 100, "subscribed": "1", "cbrand": "google", "cbr": "Chrome", "cbrver": "128.0.0.0", "c": "WEB", "cver": "2.20240925.09.00", "cplayer": "UNIPLAYER", "cmodel": "chromebook", "cos": "CrOS", "cosver": "14541.0.0", "cplatform": "DESKTOP", "hl": "en_US", "cr": "CA", "len": "290.681", "fexp": "v1,23703445,282581,18618,434717,104308,23018,133212,14625955,11684381,7111,24166,12177,9954,1192,7913,18310,4420,2819,2,2870,11809,32240,7611,4582,19,2,1082,6953,11044,2471,6008,1538,17801,24021,2128,1336,4205,1823,3186,2912,4794,2774,328,13,142,3685,4,404,15577,3863,1033,8,5310,917,1861,2543,304,1324,2996,1008,2304,376,896,36,446,2740,77,7,14,2160,608,1175,3,54,65,364,1431,253", "feature": "g-high-rec", "afmt": "251", "muted": "0", "conn": "3", "docid": "MCM-mf3Zl3M", "ei": "VpL2ZtbBMqy0kucPlpTI0Qs", "plid": "AAYjF-J2L5N1Gp3b", "referrer": "https://www.youtube.com/", "sdetail": "p:/", "sourceid": "y", "list": "RDMCM-mf3Zl3M", "of": "m47hL5NGwagYCpXYZcc88A", "vm": "CAIQARgEOjJBSHFpSlRKeGRrU0tuM0hoUHVNZHktWF9RVm5JaGt2VDI4VmpwQ1c3TkNYNlhDZDRud2JmQU9BckJGdngtWkVwaXQwRTR4UWRoRW10algzQlctZlpvXzRmYUlUZy0tMHpqSlBIT3YyLVlMSC0wNThuSVFvRkV6azAtMEtMTWFZT29XVjN5TnVYcDg1YXVBaGF2SWlhVk51UWVnuAEB", "vct": "79.221", "vd": "290.681", "vpl": "0.000-79.221", "vbu": "0.000-171.500", "vbs": "0.000-290.681", "vpa": "0", "vsk": "0", "ven": "0", "vpr": "1", "vrs": "4", "vns": "2", "vec": "null", "vemsg": "", "vvol": "1", "vdom": "1", "vsrc": "1", "vw": "681", "vh": "383", "lct": "79.027", "lsk": false, "lmf": false, "lbw": "6650061.431", "lhd": "0.046", "lst": "0.000", "laa": "itag_251_type_3_src_reslicemakeSliceInfosMediaBytes_segsrc_reslicemakeSliceInfosMediaBytes_seg_17_range_3169460-3174468_time_179.7-180.0_off_164347_len_5009_end_1", "lva": "itag_243_type_3_src_reslicemakeSliceInfosMediaBytes_segsrc_reslicemakeSliceInfosMediaBytes_seg_38_range_7652963-7721478_time_169.6-171.5_off_168812_len_68516_end_1", "lar": "itag_251_type_3_src_reslicemakeSliceInfosMediaBytes_segsrc_reslicemakeSliceInfosMediaBytes_seg_17_range_3169460-3174468_time_179.7-180.0_off_164347_len_5009_end_1", "lvr": "itag_243_type_3_src_reslicemakeSliceInfosMediaBytes_segsrc_reslicemakeSliceInfosMediaBytes_seg_38_range_7652963-7721478_time_169.6-171.5_off_168812_len_68516_end_1", "laq": "0", "lvq": "0", "lab": "0.000-180.001", "lvb": "0.000-171.500", "ismb": 13170000, "leader": 1, "relative_loudness": "-0.110", "optimal_format": "360p", "user_qual": 0, "release_version": "youtube.player.web_20240924_01_RC00", "debug_videoId": "MCM-mf3Zl3M", "0sz": "false", "op": "", "yof": "false", "dis": "", "gpu": "ANGLE(Intel,Vulkan_1.3.278(Intel(R)UHD_Graphics(JSL)(0x00004E55)),Intel_open-source_Mesa_driver)", "ps": "desktop-polymer", "debug_playbackQuality": "medium", "debug_date": "Fri Sep 27 2024 08:11:29 GMT-0300 (Atlantic Daylight Time)", "origin": "https://www.youtube.com", "timestamp": 1727435489801 }a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYEDFFmkCBXsx-K43jrGtWWt93LtIJazWPrCLU6FgoUcFQOJKaPBHLjsjEjLcmXW7DkpA4oLO72auZ1tgMl3ENMK_yhMtz6joqvpPEvZ7HapByur3xJXsBhzb_NHTuIUlIVUsXVBCMj5fSMKxTg7X5hSysvltp5TnKXAKUxIfBBIzmhF4P_gzFthUvIA/s1600/IMG_20230607_142859.jpg" style="display: block; padding: 1em 0; text-align: center; "> www.rainwizzard@blogspot.com ..June 05, 2023 21:07 PM[display:•^^^•}{0.0}{•^^^••^^^•}{0.0}{•^^^••^^^•}{0.0}{_•^^^• block •^^^•}{0.0}{•^^^••^^^•}{0.0}{•^^^••^^^•}{0.0{_•^^^• menuitem { display:•^^^•}{0.0}{•^^^••^^^•}{0.0}{•^^^••^^^•}{0.0}{_•^^^• block •^^^•}{0.0}{•^^^••^^^•}{0.0}{•^^^••^^^•}{0.0{_•^^^• {~•^^^•le="--hterm-cursor-color: #669DF680display:•^^^•~}{0.0}{~•^^^••^^^•~}{0.0}{~•^^^••^^^•~}{0.0}{•^^^• block •^^^•}{0.0}{•^^^••^^^•}{0.0}{•^^^••^^^•}{0.0{~•^^^• menuitem { display:•^^^•~}{0.0}{~•^^^••^^^•~}{0.0}{~•^^^••^^^•~}{0.0}{•^^^• block •^^^•}{0.0}{•^^^••^^^•}{0.0}{•^^^••^^^•}{0.0{~•^^^• {_•^^^•le="--hterm-cursor-color: #669DF680 ...From: "Papa Legba.N.B" https://priv-policy.imrworldwide.com/priv/browser/us/en/optout.html%7Dhttps://www.blogger.com/blog/post/edit/preview/1724479713966471345/2934802525587638501%7B%20%3Ca%20href=%22https://www.blogger.com/blog/post/edit/preview/1724479713966471345/2934802525587638501%22%20target=%22_blank%22%20rel=%22nofollow%22%3E%3Ca%20href=%22https://newbrun1074.blogspot.com/2023/06/wwwrainwizzardblogspotcom.html%22%20target=%22_blank%22%20rel=%22nofollow%22%3E%3C/a%3E%3C/a%3Ei%20writes%20free%20hand%20toos ....To: , :https://developers.google.com/speed/public-dns/docs/using/chrome-extension://mihdfbecejheednfigjpdacgeilhlmnf/react-draggable.js.map}_chrome-extension://mihdfbecejheednfigjpdacgeilhlmnf/react-draggable.js.map} ] }https://www.blogger.com/blog/post/edit/preview/1724479713966471345/2934802525587638501{ }. ¹♤³. wwwrainwizzard.com.¹♤³~.^^^•}{0..0}{•^^^••^^^•}{0.0}{•^^^••^^^•}{0.0}{0..0}{•^^^••^^^•}{0.0}{•^^^••^^^•}{0..0}...}. ] }url.www.rainwizzard@Rainwizzard.com{@}{0..0} trap[DOMStringMap {} {.. ¹♤³.wwwrainwizzard.com.¹♤³~.^^^•}{0..0}{•^^^••^^^•}{0.0}{•^^^••^^^•}{0.0}{0..0}{•^^^••^^^•}{0.0}{•^^^••^^^•}{0..0}~...}. 7times3 }}.¹♤³.{0..0}.¹♤³.{{ }}.¹♤³.{0..0}.¹♤³.{{ }}.¹♤³.{0..0}.¹♤³.{{ }}.¹♤³.{0..0}.¹♤³.{{ 3times7 ...https://embed.tumblr.com/embed/post/t:iPRP096YDH4tAP9ETV9_tg/720127509506736128/v2https://www.tumblr.com/darkdose-75/719933067816534016/245040906-ea6c92a1-4c9f-43b1-a4c0-bce44758b0bejpg?source=share...https://embed.tumblr.com/embed/post/t:iPRP096YDH4tAP9ETV9_tg/720127509506736128/v2https://www.tumblr.com/darkdose-75/719933067816534016/245040906-ea6c92a1-4c9f-43b1-a4c0-bce44758b0bejpg?source=shareREADME.mdhttps://www.tumblr.com/darkdose-75 https://priv-policy.imrworldwide.com/priv/browser/us/en/optout.html%7Dhttps://www.blogger.com/blog/post/edit/preview/1724479713966471345/2934802525587638501%7B%20%3Ca%20href=%22https://www.blogger.com/blog/post/edit/preview/1724479713966471345/2934802525587638501%22%20target=%22_blank%22%20rel=%22nofollow%22%3E%3Ca%20href=%22https://newbrun1074.blogspot.com/2023/06/wwwrainwizzardblogspotcom.html%22%20target=%22_blank%22%20rel=%22nofollow%22%3E%3C/a%3E%3C/a%3Ei%20writes%20free%20hand%20} ]https://mail.yandex.com/touch/tab/news ......{0.0}...... --chodumburns@yandex.com Sent from Yandex Mail for mobileh1>https://open.spotify.com/chodum91 requestAnimationFrame(updateSetting); } url'https://www.git.hub.com/chodum91 updateSetting(); // Call the API to update spherical property values. updateButton.onclick = function() { var sphericalProperties = {}; for (var p = 0; p < PROPERTIES.length; p++) { var propertyInput = document.getElementById(PROPERTIES[p] + '-property'); sphericalProperties[PROPERTIES[p]] = parseFloat(propertyInput.value); } ytplayer.setSphericalProperties(sphericalProperties); }reurl'https;//www.giithub.com/chodum91 </script>{{40919522, 40912812, 40913665, 40913114, 40912661, 280831533
+
+shannon annie shannon.annie506@gmail.com 11:29 PM (3 minutes ago) to me, Sony
+
+{ "ns": "yt", "el": "detailpage", "cpn": "Dql6S2BFwIb2yUoR", "ver": 2, "cmt": "42.284", "fmt": "243", "fs": "0", "rt": "49.807", "euri": "", "lact": 1, "cl": "534545706", "mos": 0, "state": "8", "volume": 100, "cbrand": "google", "cbr": "Chrome", "cbrver": "113.0.0.0", "c": "WEB", "cver": "2.20230530.05.00", "cplayer": "UNIPLAYER", "cmodel": "chromebook", "cos": "CrOS", "cosver": "14541.0.0", "cplatform": "DESKTOP", "hl": "en_US", "cr": "CA", "len": "131.381", "fexp": "23983296,23986026,24004644,24007246,24080738,241 35310,24219382,24255165,24363113,24364789,243684 44,24368936,24415864,24433679,24437577,24439361,2 4451437,24532855,24550458,24550951,24556991,2455 8641,24559644,24691744,24698915,24699899,3932307 4,39323713", "afmt": "251", "muted": "0", "conn": "3",
+
+"docid": "_UXP2RABUDA", "ei": "r3Z4ZL- SKsPZgwPeiKLoCQ", "plid": "AAX9DyEDq7rfkBNr",
+
+"referrer": "https://www.google.com/", "sdetail": "p:www.google.com/", "sourceid": "r", "of": "iSv_ZmrtQNZCzWrEG0t5Pg", "osid": "NjVjMjgxODU:AOeUNAb7G7uKdVCL_BUYy0ASwsdbgw68 SA", "vm": "CAMQARgBOjJBQ00wQ1loR2hKSk1MS1AzWlpZWTlCSE1 4Q2JJWGVXZm9XVnBRN0tnbHJlQVhNbFEtd2JgQVBta0t ETG50ZnNCdlZvODlBaGdGZ0thQnIwTHBZZzRmLUh1Wm UxYlpIUjBRNk1meVpFTHlNTjNRbTgzelBseVh2bDFuREs3a zVGLWN0Mlh0VVR5MjUzSF9JMTJ4Tlg3aAE", "vct": "42.284", "vd": "131.381", "vpl": "0.000-42.284", "vbu": "0.000-110.001", "vpa": "0", "vsk": "0", "ven": "0", "vpr": "1", "vrs": "4", "vns": "2", "vec": "null", "vemsg": "", "vvol": "1", "vdom": "1", "vsrc": "1", "vw": "402", "vh": "401", "lct": "42.135", "lsk": false, "lmf": false, "lbw": "439876.393", "lhd": "0.310", "lst": "1478.238", "laa": "itag_251_type_3_src_reslicegetRequestInfoForRange_seg Papa.Legba.N.B White Boy Expo
+
+10/20/24, 1:19 PM { "ns": "yt", "el": "detailpage", "cpn": "Dql6S2BFwIb2yUoR", "ver": 2, "cmt": "42.284", "fmt": "243", "fs": "0", "rt": "49.807", "euri": "", "l...
+
+https://newbrun1074.blogspot.com/2023/05/httpsplus.html#comments 1/14
+
+src_reslicegetRequestInfoForRange_seg_10_range_12788 87-1404265_time_100.0-110.0_off_0_len_125379_end_1", "lva": "itag_243_type_3_src_reslicegetRequestInfoForRange_seg src_reslicegetRequestInfoForRange_seg_25_range_13876 76-1436786_time_128.0- 131.4_off_0_len_49111_end_1_eos_1", "lar": "itag_251_type_3_src_getRequestInfoForRange_segsrc_ge tRequestInfoForRange_seg_10_range_1278887- 1404265_time_100.0-110.0_off_0_len_125379_end_1", "lvr": "itag_243_type_3_src_getRequestInfoForRange_segsrc_ge tRequestInfoForRange_seg_25_range_1387676- 1436786_time_128.0- 131.4_off_0_len_49111_end_1_eos_1", "laq": "0", "lvq": "0", "lab": "0.000-110.001", "lvb": "0.000-131.360", "ismb": 25120000, "leader": 1, "relative_loudness": "-7.640", "optimal_format": "360p", "user_qual": 0, "release_version": "youtube.player.web_20230523_01_RC00", "debug_videoId": "_UXP2RABUDA", "0sz": "false", "op": "", "yof": "false", "dis": "", "gpu": "Mesa_Intel(R)UHD_Graphics(JSL)", "debug_playbackQuality": "medium", "debug_date": "Thu Jun 01 2023 07:45:56 GMT-0300 (Atlantic Daylight Time)" }
+
+May 30, 2023-qusq-muw {https://www.google.com/-/ https://drive.google.com/file/d/1Lay7jrAdTgMUw0eljM3uDqw9UnDW5qLT/view
+
+"vct": "0.000",
+
+"vd": "NaN",
+
+"vpl": "",
+
+"vbu": "",
+
+"vpa": "1",
+
+"vsk": "0",
+
+"ven": "0",
+
+"vpr": "1",
+
+"vrs": "0",
+
+"vns": "0",
+
+"vec": "null",
+
+"vemsg": "",
+
+"vvol": "1",
+
+"vdom": "1",
+
+"vsrc": "0",
+
+"vw": "0",
+
+"vh": "0",
+
+"state": "80",
+
+"debug_error": "{"errorCode":"api.invalidparam","errorMessage":"An error occurred. Please try again later.","tL":"GENERIC_WITHOUT_LINK","Km":"","EH":"invalidVideodata.1;a6s.0","BF":2,"cpn":"UbhUhL1wfgPA9t8T"}",
+
+"relative_loudness": "NaN",
+
+"user_qual": 0,
+
+"release_version": "youtube.player.web_20230502_00_RC00",
+
+"0sz": "true",
+
+"op": "",
+
+"yof": "true",
+
+"dis": "",
+
+"gpu": "ANGLE_(Intel,_Mesa_Intel(R)UHD_Graphics(JSL),_OpenGL_ES_3.2)",
+
+"debug_playbackQuality": "unknown",
+
+"debug_date": "Fri May 05 2023 21:25:25 GMT-0300 (Atlantic Daylight Time)"
+
+{ "vct": "0.000", "vd": "NaN", "vpl": "", "vbu": "", "vbs": "", "vpa": "1", "vsk": "0", "ven": "0", "vpr": "1", "vrs": "0", "vns": "0", "vec": "null", "vemsg": "", "vvol": "0.25", "vdom": "1", "vsrc": "0", "vw": "0", "vh": "0", "state": "80", "debug_error": "{"errorCode":"api.invalidparam","errorMessage":"An error occurred. Please try again later.","ZP":"GENERIC_WITHOUT_LINK","Bo":"","QM":"invalidVideodata.1;a6s.1","GA":2,"cpn":"XoWq43eGQcrqc2TJ"}", "relative_loudness": "NaN", "user_qual": 0, "release_version": "youtube.player.web_20241022_01_RC00", "0sz": "true", "op": "", "yof": "true", "dis": "", "gpu": "ANGLE_(Intel,Vulkan_1.3.278(Intel(R)UHD_Graphics(JSL)_(0x00004E55)),_Intel_open-source_Mesa_driver)", "debug_playbackQuality": "unknown", "debug_date": "Sun Oct 27 2024 13:08:27 GMT-0300 (Atlantic Daylight Time)", "origin": "https://****youtube.com", "timestamp": 1730045307243} https://github.com/Chodum91/Chodum91.git}https://www.google.com/
+
+https://chodum91.blogspot.com/
+<iframe src="https://assets.pinterest.com/ext/embed.html..." height="550" width="450" frameborder="0" scrolling="no" ></iframe> <src="https://assets.pinterest.com/ext/embed.html..." height="550" width="450" frameborder="0" scrolling="no" ></iframe>/Dark_Rose75 @keep2shareio https://support.google.com/profile/215878620?sjid=16098340748890879105%20%20%20%20%20%20 Edit Admirss01 Forms}{.0..0.}{ https://chodum91.blogspot.com/{ "ns": "yt", "el": "detailpage", "cpn": "Dql6S2BFwIb2yUoR", "ver": 2, "cmt": "42.284", "fmt": "243", "fs": "0", "rt": "49.807", "euri": "", "lact": 1, "cl": "534545706", "mos": 0, "state": "8", "volume": 100, "cbrand": "google", "cbr": "Chrome", "cbrver": "113.0.0.0", "c": "WEB", "cver": "2.20230530.05.00", "cplayer": "UNIPLAYER", "cmodel": "chromebook", "cos": "CrOS", "cosver": "14541.0.0", "cplatform": "DESKTOP", "hl": "en_US", "cr": "CA", "len": "131.381", "fexp": "23983296,23986026,24004644,24007246,24080738,241 35310,24219382,24255165,24363113,24364789,243684 44,24368936,24415864,24433679,24437577,24439361,2 4451437,24532855,24550458,24550951,24556991,2455 8641,24559644,24691744,24698915,24699899,3932307 4,39323713", "afmt": "251", "muted": "0", "conn": "3",
+
+"docid": "_UXP2RABUDA", "ei": "r3Z4ZL- SKsPZgwPeiKLoCQ", "plid": "AAX9DyEDq7rfkBNr",
+
+"referrer": "https://www.google.com/", "sdetail": "p:www.google.com/", "sourceid": "r", "of": "iSv_ZmrtQNZCzWrEG0t5Pg", "osid": "NjVjMjgxODU:AOeUNAb7G7uKdVCL_BUYy0ASwsdbgw68 SA", "vm": "CAMQARgBOjJBQ00wQ1loR2hKSk1MS1AzWlpZWTlCSE1 4Q2JJWGVXZm9XVnBRN0tnbHJlQVhNbFEtd2JgQVBta0t ETG50ZnNCdlZvODlBaGdGZ0thQnIwTHBZZzRmLUh1Wm UxYlpIUjBRNk1meVpFTHlNTjNRbTgzelBseVh2bDFuREs3a zVGLWN0Mlh0VVR5MjUzSF9JMTJ4Tlg3aAE", "vct": "42.284", "vd": "131.381", "vpl": "0.000-42.284", "vbu": "0.000-110.001", "vpa": "0", "vsk": "0", "ven": "0", "vpr": "1", "vrs": "4", "vns": "2", "vec": "null", "vemsg": "", "vvol": "1", "vdom": "1", "vsrc": "1", "vw": "402", "vh": "401", "lct": "42.135", "lsk": false, "lmf": false, "lbw": "439876.393", "lhd": "0.310", "lst": "1478.238", "laa": "itag_251_type_3_src_reslicegetRequestInfoForRange_seg Papa.Legba.N.B White Boy Expo
+
+10/20/24, 1:19 PM { "ns": "yt", "el": "detailpage", "cpn": "Dql6S2BFwIb2yUoR", "ver": 2, "cmt": "42.284", "fmt": "243", "fs": "0", "rt": "49.807", "euri": "", "l...
+
+https://newbrun1074.blogspot.com/2023/05/httpsplus.html#comments 1/14
+
+src_reslicegetRequestInfoForRange_seg_10_range_12788 87-1404265_time_100.0-110.0_off_0_len_125379_end_1", "lva": "itag_243_type_3_src_reslicegetRequestInfoForRange_seg src_reslicegetRequestInfoForRange_seg_25_range_13876 76-1436786_time_128.0- 131.4_off_0_len_49111_end_1_eos_1", "lar": "itag_251_type_3_src_getRequestInfoForRange_segsrc_ge tRequestInfoForRange_seg_10_range_1278887- 1404265_time_100.0-110.0_off_0_len_125379_end_1", "lvr": "itag_243_type_3_src_getRequestInfoForRange_segsrc_ge tRequestInfoForRange_seg_25_range_1387676- 1436786_time_128.0- 131.4_off_0_len_49111_end_1_eos_1", "laq": "0", "lvq": "0", "lab": "0.000-110.001", "lvb": "0.000-131.360", "ismb": 25120000, "leader": 1, "relative_loudness": "-7.640", "optimal_format": "360p", "user_qual": 0, "release_version": "youtube.player.web_20230523_01_RC00", "debug_videoId": "_UXP2RABUDA", "0sz": "false", "op": "", "yof": "false", "dis": "", "gpu": "Mesa_Intel(R)UHD_Graphics(JSL)", "debug_playbackQuality": "medium", "debug_date": "Thu Jun 01 2023 07:45:56 GMT-0300 (Atlantic Daylight Time)" }
+
+May 30, 2023une 21, 2023 Image https://github.com/Chodum91/Papa.Legba.NB/issues/29 (m=bJWsSeKlbyaT)(mh=4N6NZAtseWL0p9UF)male.jpg {https://github.com/.../blob/master/names.conf.proposed} https://toolbox.googleapps.com/apps/main/ https://drive.google.com/.../1p8X-n.../view... http://getpocket.com/@050A8g3cdu224Tu07ep7851p0gTKd039876... https://github.com/Chodum91/Papa.Legba.NB/, Google Content https://newbrun1074.blogspot.com/2023/06/blog-post.html
+
+https://support.google.com/profile/215878620?sjid=16098340748890879105%20%20%20%20%20%20to Sony, me Papa.Legba.N.B image.png Sony, me
+
+<iframe src="https://drive.google.com/file/d/1fwTThZzUlKiktf4rYIHCyPbyzX_b61Ec/preview" width="640" height="480" allow="autoplay"></iframe>"363311821_174494288973151_5421319352515451432_n.j…"https://drive.google.com/file/d/1fwTThZzUlKiktf4rYIHCyPbyzX_b61Ec/view?usp=sharing<iframe src="https://www.youtube.com/watch?v=jM8dCGIm6yc&list=RDMM/preview" width="640" height="480" allow="autoplay"></iframe>"363311821_174494288973151_5421319352515451432_n.j…"https://drive.google.com/file/d/1fwTThZzUlKiktf4rYIHCyPbyzX_b61Ec/view?usp=sharing · Papa.Legba.N.B 8 followers https://youtube.com/@White-Boy-Papalega.N.B ; My Way. CRUCIFIX. 2M views ; Eminem - Till I Collapse Remix Nate Dogg, Lil Jon, 2Pac, Ice Cube, Dr. Dre, Eazy E, DMX ... Missing: PLbxdtzZM1ERw79RxO- ‎C7FSNHeY1RqLhqJ Sony, me
+<iframe src="https://drive.google.com/file/d/1fwTThZzUlKiktf4rYIHCyPbyzX_b61Ec/preview" width="640" height="480" allow="autoplay"></iframe>"363311821_174494288973151_5421319352515451432_n.j…"https://drive.google.com/file/d/1fwTThZzUlKiktf4rYIHCyPbyzX_b61Ec/view?usp=sharing<iframe src="https://www.youtube.com/watch?v=jM8dCGIm6yc&list=RDMM/preview" width="640" height="480" allow="autoplay"></iframe>"363311821_174494288973151_5421319352515451432_n.j…"https://drive.google.com/file/d/1fwTThZzUlKiktf4rYIHCyPbyzX_b61Ec/view?usp=sharing hI D=8958248863274614623&postID=982138496058676472
+meet.google.com/pue-qusq-muw {https://www.google.com/-/ https://drive.google.com/file/d/1Lay7jrAdTgMUw0eljM3uDqw9UnDW5qLT/view
+
+"vct": "0.000",
+
+"vd": "NaN",
+
+"vpl": "",
+
+"vbu": "",
+
+"vpa": "1",
+
+"vsk": "0",
+
+"ven": "0",
+
+"vpr": "1",
+
+"vrs": "0",
+
+"vns": "0",
+
+"vec": "null",
+
+"vemsg": "",
+
+"vvol": "1",
+
+"vdom": "1",
+
+"vsrc": "0", {}https://www.blogger.com/blog/post/edit/preview/1724479713966471345/2934802525587638501{ }.~ ¹♤³. wwwrainwizzard.com.¹♤³~.^^^•}{0..0}{•^^^••^^^•}{0.0}{•^^^••^^^•}{0.0}{0..0}{•^^^••^^^•}{0.0}{•^^^••^^^•}{0..0}...}. ] }url.www.rainwizzard@Rainwizzard.com{@}{0..0} trap[DOMStringMap {} {.. ¹♤³.wwwrainwizzard.com.¹♤³~.^^^•}{0..0}{•^^^••^^^•}{0.0}{•^^^••^^^•}{0.0}{0..0}{•^^^••^^^•}{0.0}{•^^^••^^^•}{0..0}~...}. 7times3 }}.¹♤³.{0..0}.¹♤³.{{ }}.¹♤³.{0..0}.¹♤³.{{ }}.¹♤³.{0..0}.¹♤³.{{ }}.¹♤³.{0..0}.¹♤³.{{ 3times7 ...https://embed.tumblr.com/embed/post/t:iPRP096YDH4tAP9ETV9_tg/720127509506736128 "name": "Croissants", "ingredients": [ { "name": "All-purpose flour", "quantity": "5 cups", "unit": "" }, { "name": "Salt", "quantity": "1 tsp", "unit": "" }, { "name": "Granulated sugar", "quantity": "1 tbsp", "unit": "" }, { "name": "Active dry yeast", "quantity": "2 tsp", "unit": "" }, { "name": "Lukewarm water", "quantity": "1 1/4 cups", "unit": "" }, { "name": "Unsalted butter (for dough)", "quantity": "1 cup", "unit": "" }, { "name": "Unsalted butter (for laminating)", "quantity": "1 stick", "unit": "" } ] }https://xhamster.com/videos/anal-7122307-40919522, 40912812, 40913665, 40913114, 40912661, 280831533
+
+shannon annie shannon.annie506@gmail.com 11:29 PM (3 minutes ago) to me, Sony
+
+{ "ns": "yt", "el": "detailpage", "cpn": "Dql6S2BFwIb2yUoR", "ver": 2, "cmt": "42.284", "fmt": "243", "fs": "0", "rt": "49.807", "euri": "", "lact": 1, "cl": "534545706", "mos": 0, "state": "8", "volume": 100, "cbrand": "google", "cbr": "Chrome", "cbrver": "113.0.0.0", "c": "WEB", "cver": "2.20230530.05.00", "cplayer": "UNIPLAYER", "cmodel": "chromebook", "cos": "CrOS", "cosver": "14541.0.0", "cplatform": "DESKTOP", "hl": "en_US", "cr": "CA", "len": "131.381", "fexp": "23983296,23986026,24004644,24007246,24080738,241 35310,24219382,24255165,24363113,24364789,243684 44,24368936,24415864,24433679,24437577,24439361,2 4451437,24532855,24550458,24550951,24556991,2455 8641,24559644,24691744,24698915,24699899,3932307 4,39323713", "afmt": "251", "muted": "0", "conn": "3",
+
+"docid": "_UXP2RABUDA", "ei": "r3Z4ZL- SKsPZgwPeiKLoCQ", "plid": "AAX9DyEDq7rfkBNr",
+
+"referrer": "https://www.google.com/", "sdetail": "p:www.google.com/", "sourceid": "r", "of": "iSv_ZmrtQNZCzWrEG0t5Pg", "osid": "NjVjMjgxODU:AOeUNAb7G7uKdVCL_BUYy0ASwsdbgw68 SA", "vm": "CAMQARgBOjJBQ00wQ1loR2hKSk1MS1AzWlpZWTlCSE1 4Q2JJWGVXZm9XVnBRN0tnbHJlQVhNbFEtd2JgQVBta0t ETG50ZnNCdlZvODlBaGdGZ0thQnIwTHBZZzRmLUh1Wm UxYlpIUjBRNk1meVpFTHlNTjNRbTgzelBseVh2bDFuREs3a zVGLWN0Mlh0VVR5MjUzSF9JMTJ4Tlg3aAE", "vct": "42.284", "vd": "131.381", "vpl": "0.000-42.284", "vbu": "0.000-110.001", "vpa": "0", "vsk": "0", "ven": "0", "vpr": "1", "vrs": "4", "vns": "2", "vec": "null", "vemsg": "", "vvol": "1", "vdom": "1", "vsrc": "1", "vw": "402", "vh": "401", "lct": "42.135", "lsk": false, "lmf": false, "lbw": "439876.393", "lhd": "0.310", "lst": "1478.238", "laa": "itag_251_type_3_src_reslicegetRequestInfoForRange_seg Papa.Legba.N.B White Boy Expo
+
+10/20/24, 1:19 PM { "ns": "yt", "el": "detailpage", "cpn": "Dql6S2BFwIb2yUoR", "ver": 2, "cmt": "42.284", "fmt": "243", "fs": "0", "rt": "49.807", "euri": "", "l...
+
+https://newbrun1074.blogspot.com/2023/05/httpsplus.html#comments 1/14
+
+src_reslicegetRequestInfoForRange_seg_10_range_12788 87-1404265_time_100.0-110.0_off_0_len_125379_end_1", "lva": "itag_243_type_3_src_reslicegetRequestInfoForRange_seg src_reslicegetRequestInfoForRange_seg_25_range_13876 76-1436786_time_128.0- 131.4_off_0_len_49111_end_1_eos_1", "lar": "itag_251_type_3_src_getRequestInfoForRange_segsrc_ge tRequestInfoForRange_seg_10_range_1278887- 1404265_time_100.0-110.0_off_0_len_125379_end_1", "lvr": "itag_243_type_3_src_getRequestInfoForRange_segsrc_ge tRequestInfoForRange_seg_25_range_1387676- 1436786_time_128.0- 131.4_off_0_len_49111_end_1_eos_1", "laq": "0", "lvq": "0", "lab": "0.000-110.001", "lvb": "0.000-131.360", "ismb": 25120000, "leader": 1, "relative_loudness": "-7.640", "optimal_format": "360p", "user_qual": 0, "release_version": "youtube.player.web_20230523_01_RC00", "debug_videoId": "_UXP2RABUDA", "0sz": "false", "op": "", "yof": "false", "dis": "", "gpu": "Mesa_Intel(R)UHD_Graphics(JSL)", "debug_playbackQuality": "medium", "debug_date": "Thu Jun 01 2023 07:45:56 GMT-0300 (Atlantic Daylight Time)" }
+
+May 30, 2023-qusq-muw {https://www.google.com/-/ https://drive.google.com/file/d/1Lay7jrAdTgMUw0eljM3uDqw9UnDW5qLT/view
+
+"vct": "0.000",
+
+"vd": "NaN",
+
+"vpl": "",
+
+"vbu": "",
+
+"vpa": "1",
+
+"vsk": "0",
+
+"ven": "0",
+
+"vpr": "1",
+
+"vrs": "0",
+
+"vns": "0",
+
+"vec": "null",
+
+"vemsg": "",
+
+"vvol": "1",
+
+"vdom": "1",
+
+"vsrc": "0",
+
+"vw": "0",
+
+"vh": "0",
+
+"state": "80",
+
+"debug_error": "{"errorCode":"api.invalidparam","errorMessage":"An error occurred. Please try again later.","tL":"GENERIC_WITHOUT_LINK","Km":"","EH":"invalidVideodata.1;a6s.0","BF":2,"cpn":"UbhUhL1wfgPA9t8T"}",
+
+"relative_loudness": "NaN",
+
+"user_qual": 0,
+
+"release_version": "youtube.player.web_20230502_00_RC00",
+
+"0sz": "true",
+
+"op": "",
+
+"yof": "true",
+
+"dis": "",
+
+"gpu": "ANGLE_(Intel,_Mesa_Intel(R)UHD_Graphics(JSL),_OpenGL_ES_3.2)",
+
+"debug_playbackQuality": "unknown",
+
+"debug_date": "Fri May 05 2023 21:25:25 GMT-0300 (Atlantic Daylight Time)"
+
+{ "vct": "0.000", "vd": "NaN", "vpl": "", "vbu": "", "vbs": "", "vpa": "1", "vsk": "0", "ven": "0", "vpr": "1", "vrs": "0", "vns": "0", "vec": "null", "vemsg": "", "vvol": "0.25", "vdom": "1", "vsrc": "0", "vw": "0", "vh": "0", "state": "80", "debug_error": "{"errorCode":"api.invalidparam","errorMessage":"An error occurred. Please try again later.","ZP":"GENERIC_WITHOUT_LINK","Bo":"","QM":"invalidVideodata.1;a6s.1","GA":2,"cpn":"XoWq43eGQcrqc2TJ"}", "relative_loudness": "NaN", "user_qual": 0, "release_version": "youtube.player.web_20241022_01_RC00", "0sz": "true", "op": "", "yof": "true", "dis": "", "gpu": "ANGLE_(Intel,Vulkan_1.3.278(Intel(R)UHD_Graphics(JSL)_(0x00004E55)),_Intel_open-source_Mesa_driver)", "debug_playbackQuality": "unknown", "debug_date": "Sun Oct 27 2024 13:08:27 GMT-0300 (Atlantic Daylight Time)", "origin": "https://****youtube.com", "timestamp": 1730045307243} https://github.com/Chodum91/Chodum91.git}https://www.google.com/
+
+https://chodum91.blogspot.com/
+<iframe src="https://assets.pinterest.com/ext/embed.html..." height="550" width="450" frameborder="0" scrolling="no" ></iframe> <src="https://assets.pinterest.com/ext/embed.html..." height="550" width="450" frameborder="0" scrolling="no" ></iframe>/Dark_Rose75 @keep2shareio https://support.google.com/profile/215878620?sjid=16098340748890879105%20%20%20%20%20%20 Edit Admirss01 Forms}{.0..0.}{ https://chodum91.blogspot.com/{ "ns": "yt", "el": "detailpage", "cpn": "Dql6S2BFwIb2yUoR", "ver": 2, "cmt": "42.284", "fmt": "243", "fs": "0", "rt": "49.807", "euri": "", "lact": 1, "cl": "534545706", "mos": 0, "state": "8", "volume": 100, "cbrand": "google", "cbr": "Chrome", "cbrver": "113.0.0.0", "c": "WEB", "cver": "2.20230530.05.00", "cplayer": "UNIPLAYER", "cmodel": "chromebook", "cos": "CrOS", "cosver": "14541.0.0", "cplatform": "DESKTOP", "hl": "en_US", "cr": "CA", "len": "131.381", "fexp": "23983296,23986026,24004644,24007246,24080738,241 35310,24219382,24255165,24363113,24364789,243684 44,24368936,24415864,24433679,24437577,24439361,2 4451437,24532855,24550458,24550951,24556991,2455 8641,24559644,24691744,24698915,24699899,3932307 4,39323713", "afmt": "251", "muted": "0", "conn": "3",
+
+"docid": "_UXP2RABUDA", "ei": "r3Z4ZL- SKsPZgwPeiKLoCQ", "plid": "AAX9DyEDq7rfkBNr",
+
+"referrer": "https://www.google.com/", "sdetail": "p:www.google.com/", "sourceid": "r", "of": "iSv_ZmrtQNZCzWrEG0t5Pg", "osid": "NjVjMjgxODU:AOeUNAb7G7uKdVCL_BUYy0ASwsdbgw68 SA", "vm": "CAMQARgBOjJBQ00wQ1loR2hKSk1MS1AzWlpZWTlCSE1 4Q2JJWGVXZm9XVnBRN0tnbHJlQVhNbFEtd2JgQVBta0t ETG50ZnNCdlZvODlBaGdGZ0thQnIwTHBZZzRmLUh1Wm UxYlpIUjBRNk1meVpFTHlNTjNRbTgzelBseVh2bDFuREs3a zVGLWN0Mlh0VVR5MjUzSF9JMTJ4Tlg3aAE", "vct": "42.284", "vd": "131.381", "vpl": "0.000-42.284", "vbu": "0.000-110.001", "vpa": "0", "vsk": "0", "ven": "0", "vpr": "1", "vrs": "4", "vns": "2", "vec": "null", "vemsg": "", "vvol": "1", "vdom": "1", "vsrc": "1", "vw": "402", "vh": "401", "lct": "42.135", "lsk": false, "lmf": false, "lbw": "439876.393", "lhd": "0.310", "lst": "1478.238", "laa": "itag_251_type_3_src_reslicegetRequestInfoForRange_seg Papa.Legba.N.B White Boy Expo
+
+10/20/24, 1:19 PM { "ns": "yt", "el": "detailpage", "cpn": "Dql6S2BFwIb2yUoR", "ver": 2, "cmt": "42.284", "fmt": "243", "fs": "0", "rt": "49.807", "euri": "", "l...
+
+https://newbrun1074.blogspot.com/2023/05/httpsplus.html#comments 1/14
+
+src_reslicegetRequestInfoForRange_seg_10_range_12788 87-1404265_time_100.0-110.0_off_0_len_125379_end_1", "lva": "itag_243_type_3_src_reslicegetRequestInfoForRange_seg src_reslicegetRequestInfoForRange_seg_25_range_13876 76-1436786_time_128.0- 131.4_off_0_len_49111_end_1_eos_1", "lar": "itag_251_type_3_src_getRequestInfoForRange_segsrc_ge tRequestInfoForRange_seg_10_range_1278887- 1404265_time_100.0-110.0_off_0_len_125379_end_1", "lvr": "itag_243_type_3_src_getRequestInfoForRange_segsrc_ge tRequestInfoForRange_seg_25_range_1387676- 1436786_time_128.0- 131.4_off_0_len_49111_end_1_eos_1", "laq": "0", "lvq": "0", "lab": "0.000-110.001", "lvb": "0.000-131.360", "ismb": 25120000, "leader": 1, "relative_loudness": "-7.640", "optimal_format": "360p", "user_qual": 0, "release_version": "youtube.player.web_20230523_01_RC00", "debug_videoId": "_UXP2RABUDA", "0sz": "false", "op": "", "yof": "false", "dis": "", "gpu": "Mesa_Intel(R)UHD_Graphics(JSL)", "debug_playbackQuality": "medium", "debug_date": "Thu Jun 01 2023 07:45:56 GMT-0300 (Atlantic Daylight Time)" }
+
+May 30, 2023une 21, 2023 Image https://github.com/Chodum91/Papa.Legba.NB/issues/29 (m=bJWsSeKlbyaT)(mh=4N6NZAtseWL0p9UF)male.jpg {https://github.com/.../blob/master/names.conf.proposed} https://toolbox.googleapps.com/apps/main/ https://drive.google.com/.../1p8X-n.../view... http://getpocket.com/@050A8g3cdu224Tu07ep7851p0gTKd039876... https://github.com/Chodum91/Papa.Legba.NB/, Google Content https://newbrun1074.blogspot.com/2023/06/blog-post.html
+
+https://support.google.com/profile/215878620?sjid=16098340748890879105%20%20%20%20%20%20to Sony, me Papa.Legba.N.B image.png Sony, me
+
+<iframe src="https://drive.google.com/file/d/1fwTThZzUlKiktf4rYIHCyPbyzX_b61Ec/preview" width="640" height="480" allow="autoplay"></iframe>"363311821_174494288973151_5421319352515451432_n.j…"https://drive.google.com/file/d/1fwTThZzUlKiktf4rYIHCyPbyzX_b61Ec/view?usp=sharing<iframe src="https://www.youtube.com/watch?v=jM8dCGIm6yc&list=RDMM/preview" width="640" height="480" allow="autoplay"></iframe>"363311821_174494288973151_5421319352515451432_n.j…"https://drive.google.com/file/d/1fwTThZzUlKiktf4rYIHCyPbyzX_b61Ec/view?usp=sharing · Papa.Legba.N.B 8 followers https://youtube.com/@White-Boy-Papalega.N.B ; My Way. CRUCIFIX. 2M views ; Eminem - Till I Collapse Remix Nate Dogg, Lil Jon, 2Pac, Ice Cube, Dr. Dre, Eazy E, DMX ... Missing: PLbxdtzZM1ERw79RxO- ‎C7FSNHeY1RqLhqJ Sony, me
+<iframe src="https://drive.google.com/file/d/1fwTThZzUlKiktf4rYIHCyPbyzX_b61Ec/preview" width="640" height="480" allow="autoplay"></iframe>"363311821_174494288973151_5421319352515451432_n.j…"https://drive.google.com/file/d/1fwTThZzUlKiktf4rYIHCyPbyzX_b61Ec/view?usp=sharing<iframe src="https://www.youtube.com/watch?v=jM8dCGIm6yc&list=RDMM/preview" width="640" height="480" allow="autoplay"></iframe>"363311821_174494288973151_5421319352515451432_n.j…"https://drive.google.com/file/d/1fwTThZzUlKiktf4rYIHCyPbyzX_b61Ec/view?usp=sharing hI D=8958248863274614623&postID=982138496058676472
+meet.google.com/pue-qusq-muw {https://www.google.com/-/ https://drive.google.com/file/d/1Lay7jrAdTgMUw0eljM3uDqw9UnDW5qLT/view
+
+"vct": "0.000",
+
+"vd": "NaN",
+
+"vpl": "",
+
+"vbu": "",
+
+"vpa": "1",
+
+"vsk": "0",
+
+"ven": "0",
+
+"vpr": "1",
+
+"vrs": "0",
+
+"vns": "0",
+
+"vec": "null",
+
+"vemsg": "",
+
+"vvol": "1",
+
+"vdom": "1",
+
+"vsrc": "0", {}https://www.blogger.com/blog/post/edit/preview/1724479713966471345/2934802525587638501{ }.~ ¹♤³. wwwrainwizzard.com.¹♤³~.^^^•}{0..0}{•^^^••^^^•}{0.0}{•^^^••^^^•}{0.0}{0..0}{•^^^••^^^•}{0.0}{•^^^••^^^•}{0..0}...}. ] }url.www.rainwizzard@Rainwizzard.com{@}{0..0} trap[DOMStringMap {} {.. ¹♤³.wwwrainwizzard.com.¹♤³~.^^^•}{0..0}{•^^^••^^^•}{0.0}{•^^^••^^^•}{0.0}{0..0}{•^^^••^^^•}{0.0}{•^^^••^^^•}{0..0}~...}. 7times3 }}.¹♤³.{0..0}.¹♤³.{{ }}.¹♤³.{0..0}.¹♤³.{{ }}.¹♤³.{0..0}.¹♤³.{{ }}.¹♤³.{0..0}.¹♤³.{{ 3times7 ...https://embed.tumblr.com/embed/post/t:iPRP096YDH4tAP9ETV9_tg/720127509506736128 "name": "Croissants", "ingredients": [ { "name": "All-purpose flour", "quantity": "5 cups", "unit": "" }, { "name": "Salt", "quantity": "1 tsp", "unit": "" }, { "name": "Granulated sugar", "quantity": "1 tbsp", "unit": "" }, { "name": "Active dry yeast", "quantity": "2 tsp", "unit": "" }, { "name": "Lukewarm water", "quantity": "1 1/4 cups", "unit": "" }, { "name": "Unsalted butter (for dough)", "quantity": "1 cup", "unit": "" }, { "name": "Unsalted butter (for laminating)", "quantity": "1 stick", "unit": "" } ] }https://xhamster.com/videos/anal-7122307...
+
+[Message clipped] View entire message 3 Attachments • Scanned by Gmail Preview YouTube video The HU - Wolf Totem (Official Music Video)[Message clipped] View entire message 3 Attachments • Scanned by Gmail Preview YouTube video The HU - Wolf Totem (Official Music Video)Papa.Legba.N.B image.png Sony, me
+
+<iframe src="https://drive.google.com/file/d/1fwTThZzUlKiktf4rYIHCyPbyzX_b61Ec/preview" width="640" height="480" allow="autoplay"></iframe>"363311821_174494288973151_5421319352515451432_n.j…"https://drive.google.com/file/d/1fwTThZzUlKiktf4rYIHCyPbyzX_b61Ec/view?usp=sharing<iframe src="https://www.youtube.com/watch?v=jM8dCGIm6yc&list=RDMM/preview" width="640" height="480" allow="autoplay"></iframe>"363311821_174494288973151_5421319352515451432_n.j…"https://drive.google.com/file/d/1fwTThZzUlKiktf4rYIHCyPbyzX_b61Ec/view?usp=sharing · Papa.Legba.N.B 8 followers https://youtube.com/@White-Boy-Papalega.N.B ; My Way. CRUCIFIX. 2M views ; Eminem - Till I Collapse Remix Nate Dogg, Lil Jon, 2Pac, Ice Cube, Dr. Dre, Eazy E, DMX ... Missing: PLbxdtzZM1ERw79RxO- ‎C7FSNHeY1RqLhqJ Sony, me
+<iframe src="https://drive.google.com/file/d/1fwTThZzUlKiktf4rYIHCyPbyzX_b61Ec/preview" width="640" height="480" allow="autoplay"></iframe>"363311821_174494288973151_5421319352515451432_n.j…"https://drive.google.com/file/d/1fwTThZzUlKiktf4rYIHCyPbyzX_b61Ec/view?usp=sharing<iframe src="https://www.youtube.com/watch?v=jM8dCGIm6yc&list=RDMM/preview" width="640" height="480" allow="autoplay"></iframe>"363311821_174494288973151_5421319352515451432_n.j…"https://drive.google.com/file/d/1fwTThZzUlKiktf4rYIHCyPbyzX_b61Ec/view?usp=sharing hI D=8958248863274614623&postID=982138496058676472
+meet.google.com/{ "ns": "yt", "el": "detailpage", "cpn": "Dql6S2BFwIb2yUoR", "ver": 2, "cmt": "42.284", "fmt": "243", "fs": "0", "rt": "49.807", "euri": "", "lact": 1, "cl": "534545706", "mos": 0, "state": "8", "volume": 100, "cbrand": "google", "cbr": "Chrome", "cbrver": "113.0.0.0", "c": "WEB", "cver": "2.20230530.05.00", "cplayer": "UNIPLAYER", "cmodel": "chromebook", "cos": "CrOS", "cosver": "14541.0.0", "cplatform": "DESKTOP", "hl": "en_US", "cr": "CA", "len": "131.381", "fexp": "23983296,23986026,24004644,24007246,24080738,241 35310,24219382,24255165,24363113,24364789,243684 44,24368936,24415864,24433679,24437577,24439361,2 4451437,24532855,24550458,24550951,24556991,2455 8641,24559644,24691744,24698915,24699899,3932307 4,39323713", "afmt": "251", "muted": "0", "conn": "3",
+
+"docid": "_UXP2RABUDA", "ei": "r3Z4ZL- SKsPZgwPeiKLoCQ", "plid": "AAX9DyEDq7rfkBNr",
+
+"referrer": "https://www.google.com/", "sdetail": "p:www.google.com/", "sourceid": "r", "of": "iSv_ZmrtQNZCzWrEG0t5Pg", "osid": "NjVjMjgxODU:AOeUNAb7G7uKdVCL_BUYy0ASwsdbgw68 SA", "vm": "CAMQARgBOjJBQ00wQ1loR2hKSk1MS1AzWlpZWTlCSE1 4Q2JJWGVXZm9XVnBRN0tnbHJlQVhNbFEtd2JgQVBta0t ETG50ZnNCdlZvODlBaGdGZ0thQnIwTHBZZzRmLUh1Wm UxYlpIUjBRNk1meVpFTHlNTjNRbTgzelBseVh2bDFuREs3a zVGLWN0Mlh0VVR5MjUzSF9JMTJ4Tlg3aAE", "vct": "42.284", "vd": "131.381", "vpl": "0.000-42.284", "vbu": "0.000-110.001", "vpa": "0", "vsk": "0", "ven": "0", "vpr": "1", "vrs": "4", "vns": "2", "vec": "null", "vemsg": "", "vvol": "1", "vdom": "1", "vsrc": "1", "vw": "402", "vh": "401", "lct": "42.135", "lsk": false, "lmf": false, "lbw": "439876.393", "lhd": "0.310", "lst": "1478.238", "laa": "itag_251_type_3_src_reslicegetRequestInfoForRange_seg Papa.Legba.N.B White Boy Expo
+
+https://newbrun1074.blogspot.com/2024/10/im-being-good-for-now.html
+
+Dark- “Organized Crime” Dose75<mattamos250@gmail.com> #40Oct 31, 2024 04:14PM
+Dark- Dose75 mattamos250@gmail.com 4:08 PM (1 minute ago) to West, emosbaa, Papa, Three, Theresa, myhomehotelpc, friohotbocachica, me, syncshop
+
+Chodum91
+
+To
+
+Dark- “Organized Crime” Dose75
+
+Cc
+
+matthew amos
+
+Bcc
+
+Subject
+
+https://github.com/Chodum91/Chodum91.git}https://www.google.com/ https://chodum91.blogspot.com/ /Dark_Rose75 @keep2shareio https://support.google.com/profile/215878620?sjid=16098340748890879105%20%20%20%20%20%20 Edit Admirss01 Forms}{.0..0.}{ https://chodum91.blogspot.com/{ "ns": "yt", "el": "detailpage", "cpn": "Dql6S2BFwIb2yUoR", "ver": 2, "cmt": "42.284", "fmt": "243", "fs": "0", "rt": "49.807", "euri": "", "lact": 1, "cl": "534545706", "mos": 0, "state": "8", "volume": 100, "cbrand": "google", "cbr": "Chrome", "cbrver": "113.0.0.0", "c": "WEB", "cver": "2.20230530.05.00", "cplayer": "UNIPLAYER", "cmodel": "chromebook", "cos": "CrOS", "cosver": "14541.0.0", "cplatform": "DESKTOP", "hl": "en_US", "cr": "CA", "len": "131.381", "fexp": "23983296,23986026,24004644,24007246,24080738,241 35310,24219382,24255165,24363113,24364789,243684 44,24368936,24415864,24433679,24437577,24439361,2 4451437,24532855,24550458,24550951,24556991,2455 8641,24559644,24691744,24698915,24699899,3932307 4,39323713", "afmt": "251", "muted": "0", "conn": "3", "docid": "_UXP2RABUDA", "ei": "r3Z4ZL- SKsPZgwPeiKLoCQ", "plid": "AAX9DyEDq7rfkBNr", "referrer": "https://www.google.com/", "sdetail": "p:www.google.com/", "sourceid": "r", "of": "iSv_ZmrtQNZCzWrEG0t5Pg", "osid": "NjVjMjgxODU:AOeUNAb7G7uKdVCL_BUYy0ASwsdbgw68 SA", "vm": "CAMQARgBOjJBQ00wQ1loR2hKSk1MS1AzWlpZWTlCSE1 4Q2JJWGVXZm9XVnBRN0tnbHJlQVhNbFEtd2JgQVBta0t ETG50ZnNCdlZvODlBaGdGZ0thQnIwTHBZZzRmLUh1Wm UxYlpIUjBRNk1meVpFTHlNTjNRbTgzelBseVh2bDFuREs3a zVGLWN0Mlh0VVR5MjUzSF9JMTJ4Tlg3aAE", "vct": "42.284", "vd": "131.381", "vpl": "0.000-42.284", "vbu": "0.000-110.001", "vpa": "0", "vsk": "0", "ven": "0", "vpr": "1", "vrs": "4", "vns": "2", "vec": "null", "vemsg": "", "vvol": "1", "vdom": "1", "vsrc": "1", "vw": "402", "vh": "401", "lct": "42.135", "lsk": false, "lmf": false, "lbw": "439876.393", "lhd": "0.310", "lst": "1478.238", "laa": "itag_251_type_3_src_reslicegetRequestInfoForRange_seg Papa.Legba.N.B White Boy Expo 10/20/24, 1:19 PM { "ns": "yt", "el": "detailpage", "cpn": "Dql6S2BFwIb2yUoR", "ver": 2, "cmt": "42.284", "fmt": "243", "fs": "0", "rt": "49.807", "euri": "", "l... https://newbrun1074.blogspot.com/2023/05/httpsplus.html#comments 1/14 src_reslicegetRequestInfoForRange_seg_10_range_12788 87-1404265_time_100.0-110.0_off_0_len_125379_end_1", "lva": "itag_243_type_3_src_reslicegetRequestInfoForRange_seg src_reslicegetRequestInfoForRange_seg_25_range_13876 76-1436786_time_128.0- 131.4_off_0_len_49111_end_1_eos_1", "lar": "itag_251_type_3_src_getRequestInfoForRange_segsrc_ge tRequestInfoForRange_seg_10_range_1278887- 1404265_time_100.0-110.0_off_0_len_125379_end_1", "lvr": "itag_243_type_3_src_getRequestInfoForRange_segsrc_ge tRequestInfoForRange_seg_25_range_1387676- 1436786_time_128.0- 131.4_off_0_len_49111_end_1_eos_1", "laq": "0", "lvq": "0", "lab": "0.000-110.001", "lvb": "0.000-131.360", "ismb": 25120000, "leader": 1, "relative_loudness": "-7.640", "optimal_format": "360p", "user_qual": 0, "release_version": "youtube.player.web_20230523_01_RC00", "debug_videoId": "_UXP2RABUDA", "0sz": "false", "op": "", "yof": "false", "dis": "", "gpu": "Mesa_Intel(R)UHD_Graphics(JSL)", "debug_playbackQuality": "medium", "debug_date": "Thu Jun 01 2023 07:45:56 GMT-0300 (Atlantic Daylight Time)" } - May 30, 2023une 21, 2023 Image https://github.com/Chodum91/Papa.Legba.NB/issues/29 (m=bJWsSeKlbyaT)(mh=4N6NZAtseWL0p9UF)male.jpg {https://github.com/.../blob/master/names.conf.proposed} https://toolbox.googleapps.com/apps/main/ https://drive.google.com/.../1p8X-n.../view... http://getpocket.com/@050A8g3cdu224Tu07ep7851p0gTKd039876... https://github.com/Chodum91/Papa.Legba.NB/, Google Content https://newbrun1074.blogspot.com/2023/06/blog-post.html https://support.google.com/profile/215878620?sjid=16098340748890879105%20%20%20%20%20%20to Sony, me Papa.Legba.N.B "363311821_174494288973151_5421319352515451432_n.j…"https://drive.google.com/file/d/1fwTThZzUlKiktf4rYIHCyPbyzX_b61Ec/view?usp=sharing
+
+https://github.com/Chodum91/Chodum91.git}https://www.google.com/ https://chodum91.blogspot.com/ /Dark_Rose75 @keep2shareio https://support.google.com/profile/215878620?sjid=16098340748890879105%20%20%20%20%20%20 Edit Admirss01 Forms}{.0..0.}{ https://chodum91.blogspot.com/{ "ns": "yt", "el": "detailpage", "cpn": "Dql6S2BFwIb2yUoR", "ver": 2, "cmt": "42.284", "fmt": "243", "fs": "0", "rt": "49.807", "euri": "", "lact": 1, "cl": "534545706", "mos": 0, "state": "8", "volume": 100, "cbrand": "google", "cbr": "Chrome", "cbrver": "113.0.0.0", "c": "WEB", "cver": "2.20230530.05.00", "cplayer": "UNIPLAYER", "cmodel": "chromebook", "cos": "CrOS", "cosver": "14541.0.0", "cplatform": "DESKTOP", "hl": "en_US", "cr": "CA", "len": "131.381", "fexp": "23983296,23986026,24004644,24007246,24080738,241 35310,24219382,24255165,24363113,24364789,243684 44,24368936,24415864,24433679,24437577,24439361,2 4451437,24532855,24550458,24550951,24556991,2455 8641,24559644,24691744,24698915,24699899,3932307 4,39323713", "afmt": "251", "muted": "0", "conn": "3", "docid": "_UXP2RABUDA", "ei": "r3Z4ZL- SKsPZgwPeiKLoCQ", "plid": "AAX9DyEDq7rfkBNr", "referrer": "https://www.google.com/", "sdetail": "p:www.google.com/", "sourceid": "r", "of": "iSv_ZmrtQNZCzWrEG0t5Pg", "osid": "NjVjMjgxODU:AOeUNAb7G7uKdVCL_BUYy0ASwsdbgw68 SA", "vm": "CAMQARgBOjJBQ00wQ1loR2hKSk1MS1AzWlpZWTlCSE1 4Q2JJWGVXZm9XVnBRN0tnbHJlQVhNbFEtd2JgQVBta0t ETG50ZnNCdlZvODlBaGdGZ0thQnIwTHBZZzRmLUh1Wm UxYlpIUjBRNk1meVpFTHlNTjNRbTgzelBseVh2bDFuREs3a zVGLWN0Mlh0VVR5MjUzSF9JMTJ4Tlg3aAE", "vct": "42.284", "vd": "131.381", "vpl": "0.000-42.284", "vbu": "0.000-110.001", "vpa": "0", "vsk": "0", "ven": "0", "vpr": "1", "vrs": "4", "vns": "2", "vec": "null", "vemsg": "", "vvol": "1", "vdom": "1", "vsrc": "1", "vw": "402", "vh": "401", "lct": "42.135", "lsk": false, "lmf": false, "lbw": "439876.393", "lhd": "0.310", "lst": "1478.238", "laa": "itag_251_type_3_src_reslicegetRequestInfoForRange_seg Papa.Legba.N.B White Boy Expo 10/20/24, 1:19 PM { "ns": "yt", "el": "detailpage", "cpn": "Dql6S2BFwIb2yUoR", "ver": 2, "cmt": "42.284", "fmt": "243", "fs": "0", "rt": "49.807", "euri": "", "l... https://newbrun1074.blogspot.com/2023/05/httpsplus.html#comments 1/14 src_reslicegetRequestInfoForRange_seg_10_range_12788 87-1404265_time_100.0-110.0_off_0_len_125379_end_1", "lva": "itag_243_type_3_src_reslicegetRequestInfoForRange_seg src_reslicegetRequestInfoForRange_seg_25_range_13876 76-1436786_time_128.0- 131.4_off_0_len_49111_end_1_eos_1", "lar": "itag_251_type_3_src_getRequestInfoForRange_segsrc_ge tRequestInfoForRange_seg_10_range_1278887- 1404265_time_100.0-110.0_off_0_len_125379_end_1", "lvr": "itag_243_type_3_src_getRequestInfoForRange_segsrc_ge tRequestInfoForRange_seg_25_range_1387676- 1436786_time_128.0- 131.4_off_0_len_49111_end_1_eos_1", "laq": "0", "lvq": "0", "lab": "0.000-110.001", "lvb": "0.000-131.360", "ismb": 25120000, "leader": 1, "relative_loudness": "-7.640", "optimal_format": "360p", "user_qual": 0, "release_version": "youtube.player.web_20230523_01_RC00", "debug_videoId": "_UXP2RABUDA", "0sz": "false", "op": "", "yof": "false", "dis": "", "gpu": "Mesa_Intel(R)UHD_Graphics(JSL)", "debug_playbackQuality": "medium", "debug_date": "Thu Jun 01 2023 07:45:56 GMT-0300 (Atlantic Daylight Time)" } - May 30, 2023une 21, 2023 Image https://github.com/Chodum91/Papa.Legba.NB/issues/29 (m=bJWsSeKlbyaT)(mh=4N6NZAtseWL0p9UF)male.jpg {https://github.com/.../blob/master/names.conf.proposed} https://toolbox.googleapps.com/apps/main/ https://drive.google.com/.../1p8X-n.../view... http://getpocket.com/@050A8g3cdu224Tu07ep7851p0gTKd039876... https://github.com/Chodum91/Papa.Legba.NB/, Google Content https://newbrun1074.blogspot.com/2023/06/blog-post.html https://support.google.com/profile/215878620?sjid=16098340748890879105%20%20%20%20%20%20to Sony, me Papa.Legba.N.B "363311821_174494288973151_5421319352515451432_n.j…"https://drive.google.com/file/d/1fwTThZzUlKiktf4rYIHCyPbyzX_b61Ec/view?usp=sharing
+
+
+Dark- “Organized Crime” Dose75<mattamos250@gmail.com> #41Oct 31, 2024 05:47PM
+https://docs.google.com/document/d/1deylYdnuIQc_W_rvGDVULnkIejeqLnZz8L-PJfFYHBc/edit?pli=1&tab=t.0 Inbox brankruptcy
+
+Dark- Dose75 4:23 PM (1 hour ago) https://docs.google.com/document/d/1deylYdnuIQc_W_rvGDVULnkIejeqLnZz8L-PJfFYHBc/edit?pli=1&tab=t.0 -- Thank You Matthew Amos
+
+Dark- Dose75 4:26 PM (1 hour ago) hit @ off the first link then you get this i built a function key for json program @syncshop@sonymusic.com https://docs.google.com/document/d/1deylYdnuIQc_W_rvG
+
+Dark- Dose75 mattamos250@gmail.com 4:41 PM (1 hour ago) to syncshop, friohotbocachica, myhomehotelpc, West, Nroberts51, me
+
+http://a dmiris01.2024.heriplayz
+
+https://www.facebook.com/share/p/1783WQo86q/
+
+Admiris01
+
+1000 percent mine @syncshop@sonymusic.com https://issuetracker.google.com/issues/376381173?template_issue=245706296&template_comment=28&do_attribution=true To
+
+matthewshannonamos01@gmail.com mattamos250@gmail.com
+
+Cc
+
+syncshop@sony.com
+
+Bcc
+
+@chodum91
+
+Subject
+
+Take it to the print but dont print right Madonna i cant belive all of this now youtube isn't allowing there none iframe j-son player means what chick ,this is just a link for content in the future links just business
+
+miris01.2024.Heriplayz
+
+Admiris Investments Ltd
+
+Papa.Legba.506: Papa.Legba.506: Larry/Wacker
+
+on May 19, 2023
+
+                   Papa.Legba.506: Papa.Legba.506: Larry/Wacker: : https://github.com/LarryExpo
+1<?xml version='1.0' encoding='UTF-8'?><rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:blogger="http://schemas.google.com/blogger/2008" xmlns:georss="http://www.georss.org/georss" xmlns:gd="http://schemas.google.com/g/2005" xmlns:thr="http://purl.org/syndication/thread/1.0" version="2.0"><channel>atom:idtag:blogger.com,1999:blog-2399953</atom:id><lastBuildDate>Sat, 28 Jan 2023 10:46:29 +0000</lastBuildDate><category>Blogger</category><category>10th Birthday</category><category>gadgets</category><category>google+</category><category>community</category><category>adsense</category><category>dynamic views</category><category>mobile</category><category>New UI</category><category>+1</category><category>GAN</category><category>Share</category><category>monetize</category><category>youtube</category><category>Android</category><category>Blogger Fiesta</category><category>Blogger Meetup</category><category>Blogger Stats</category><category>Chrome</category><category>SEO</category><category>blogspot</category><category>blogworld</category><category>commenting</category><category>conference</category><category>developers</category><category>events</category><category>feedburner</category><category>following</category><category>help</category><category>navbar</category><category>template designer</category><category>video</category><category>2010</category><category>Amazon</category><category>Blog2Print</category><category>BlogThis</category><category>Blogger Template Designer</category><category>Blogger birthday</category><category>Blogger2Print</category><category>Buzz</category><category>DMCA</category><category>FTP</category><category>Google Analytics</category><category>Google Buzz</category><category>Google Sites</category><category>OneTrueFan</category><category>OpenSky</category><category>Page Creator</category><category>SXSW</category><category>Viglink</category><category>accessibility</category><category>ads</category><category>calendar</category><category>code</category><category>custom domain</category><category>draft</category><category>feeds</category><category>firefox</category><category>follow by email</category><category>foxytunes</category><category>grandcentral</category><category>ios</category><category>jump</category><category>knol</category><category>lightbox</category><category>music</category><category>next blog</category><category>openid</category><category>pages</category><category>pixelodeon</category><category>polls</category><category>post summaries</category><category>read more</category><category>recommend</category><category>support</category><category>twitter</category><category>videoblogging</category><category>web fonts</category><category>webcall</category><category>zemanta</category><title>Official Blogger Blog</title><description>The latest tips and news from the Blogger team</description><link>http://blogger.googleblog.com/</link><managingEditor>noreply@blogger.com (Unknown)</managingEditor><generator>Blogger</generator>openSearch:totalResults541</openSearch:totalResults>openSearch:startIndex1</openSearch:startIndex>openSearch:itemsPerPage25</openSearch:itemsPerPage><item><guid isPermaLink="false">tag:blogger.com,1999:blog-2399953.post-7531385161213212970</guid><pubDate>Wed, 20 May 2020 23:53:00 +0000</pubDate>atom:updated2020-05-20T16:58:18.814-07:00</atom:updated><title>A better Blogger experience on the web</title><description><div dir="ltr" style="text-align: left;" trbidi="on"><span id="docs-internal-guid-83e698cd-7fff-3537-1fd4-931000cddafb"></span><br /><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;"><span id="docs-internal-guid-83e698cd-7fff-3537-1fd4-931000cddafb"><span style="font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;">Since 1999, millions of people have expressed themselves on Blogger. From detailed posts about almost every </span><a href="https://adamapples.blogspot.com/" style="text-decoration-line: none;"><span style="color: #1155cc; font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;">apple variety</span></a><span style="font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;"> you could ever imagine to a blog dedicated to </span><a href="https://howtoblog.krishnainfotron.com/" style="text-decoration-line: none;"><span style="color: #1155cc; font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;">the art of blogging</span></a><span style="font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;"> itself, the ability to easily share, publish and express oneself on the web is at the core of Blogger’s mission. As the web constantly evolves, we want to ensure anyone using Blogger has an easy and intuitive experience publishing their content to the web.</span><span style="font-family: arial; font-size: 11pt; font-style: italic; vertical-align: baseline; white-space: pre-wrap;">  </span></span></div><span id="docs-internal-guid-83e698cd-7fff-3537-1fd4-931000cddafb"><br /><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;"><span style="font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;">That’s why we’ve been slowly introducing an improved web experience for Blogger. Give the fresh interface a spin by clicking “Try the New Blogger” in the left-hand navigation pane. </span></div><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;"><span style="font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;"><br /></span></div><br /><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt; text-align: center;"><span style="font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;"><span style="border: none; display: inline-block; overflow: hidden;"><img src="https://lh5.googleusercontent.com/kWHfhyDmS0K6WMbTlfDV8Hq9RKq7Cs2sbPVl0otK3zDV5jNDO0SxM5-Ot89Wo3E11QvmNMI7VYMimqP-Vg9li-cz0cimWiGpJM65-uOSCmAvSN5n7M-lGcNWNW2u0cAfA54ZsGhZ" style="margin-left: 0px; margin-top: 0px;" width="508" /></span></span></div><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt; text-align: center;"><span style="color: red; font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;">     </span></div><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt; text-align: center;"><span style="font-family: arial; font-size: 9pt; font-style: italic; vertical-align: baseline; white-space: pre-wrap;"> </span><span style="font-family: arial; font-size: 9pt; font-style: italic; vertical-align: baseline; white-space: pre-wrap;">Click the “Try the New Blogger” button to see Blogger’s refreshed look and feel.</span></div><br /><br /><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;"><span style="font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;">In addition to a fresh feel, Blogger is now responsive on the web, making it easier to use on mobile devices. By investing in an improved web platform, it allows the potential for new features in the future. </span></div><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;"><span style="font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;"><br /></span></div><br /><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt; text-align: center;"><span style="font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;"><span style="border: none; display: inline-block; height: 299px; overflow: hidden; width: 146px;"><img height="299" src="https://lh4.googleusercontent.com/B-Tx1tl3m3_sH_4HiCg0XxhlTka0IV82jwT2LT4T9kzbXF15nMxjwNGe3NUAz-F42irNGdDINUiw4DM---nX_87Bb0X3OL_s5L19Rlyfhtm6oyEMNR1R4473TzkgsuxWQ3HXOIOV" style="margin-left: 0px; margin-top: 0px;" width="146" /></span></span></div><br /><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt; text-align: center;"><span style="font-family: arial; font-size: 8pt; vertical-align: baseline; white-space: pre-wrap;"><span style="font-size: x-small;"><font size="2">Blogger’s new responsive design makes it easy to manage your blog on-the-go.</font></span></span></div><br /><br /><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;"><span style="font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;"><br /></span></div><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;"><span style="font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;">Learn more about the page-specific updates we’ve released to make your Blogger experience even better: </span></div><br /><br /><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;"><span style="font-family: arial; font-size: 11pt; font-weight: 700; vertical-align: baseline; white-space: pre-wrap;">Stats</span></div><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;"><span style="font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;">The redesigned Stats page helps you focus on the most important data from your blog by highlighting your most recent post.    </span></div><br /><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;"><span style="font-family: arial; font-size: 11pt; font-weight: 700; vertical-align: baseline; white-space: pre-wrap;">Comments</span></div><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;"><span style="font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;">A fresh Comments page helps you connect with readers more easily by surfacing areas that need your attention, like comment moderation.  </span></div><br /><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;"><span style="font-family: arial; font-size: 11pt; font-weight: 700; vertical-align: baseline; white-space: pre-wrap;">Posts</span></div><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;"><span style="font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;">We’ve improved support for </span><a href="https://support.google.com/blogger/answer/9675453?hl=en" style="text-decoration-line: none;"><span style="color: #1155cc; font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;">Search Operators</span></a><span style="font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;"> on the Posts page to help you filter your Blogger posts and page search results more easily. </span></div><br /><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;"><span style="font-family: arial; font-size: 11pt; font-weight: 700; vertical-align: baseline; white-space: pre-wrap;">Editor</span></div><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;"><span style="font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;">The newly enhanced Editor page introduces table support, enables better transliteration, and includes an improved image/video upload experience. </span></div><br /><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;"><span style="font-family: arial; font-size: 11pt; font-weight: 700; vertical-align: baseline; white-space: pre-wrap;">Reading List </span></div><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;"><span style="font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;">Even if you don’t create from your phone, it’s now easier than ever to read blogs from other creators while you’re on the go.</span></div><br /><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;"><span style="font-family: arial; font-size: 11pt; font-weight: 700; vertical-align: baseline; white-space: pre-wrap;">Settings </span></div><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;"><span style="font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;">We’ve streamlined the Settings page to help you manage all your controls from one place.  </span></div><br /><br /><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;"><span style="font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;">We’ll be moving everyone to the new interface over the coming months. Starting in late June, many Blogger creators will see the new interface become their default, though they can revert to the old interface by clicking “Revert to legacy Blogger” in the left-hand navigation. By late July, creators will no longer be able to revert to the legacy Blogger interface.  </span></div><br /><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;"><span style="font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;">We recommend getting ahead of the transition by opting into the experience today. Be sure to let us know what you think about the new design by tapping the Help icon in the top navigation bar. We can’t wait to see how Blogger creators use the latest updates to share their voice with the world.</span></div><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;"><span style="font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;"><br /></span></div><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;"><span style="font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;"><i><br /></i></span></div><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;"><span style="font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;"><i>Posted by Fontaine on behalf of the Blogger team</i></span></div><div><span style="font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;"><br /></span></div></span></div></description><link>http://blogger.googleblog.com/2020/05/a-better-blogger-experience-on-web.html</link><author>noreply@blogger.com (A Googler)</author><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://lh5.googleusercontent.com/kWHfhyDmS0K6WMbTlfDV8Hq9RKq7Cs2sbPVl0otK3zDV5jNDO0SxM5-Ot89Wo3E11QvmNMI7VYMimqP-Vg9li-cz0cimWiGpJM65-uOSCmAvSN5n7M-lGcNWNW2u0cAfA54ZsGhZ=s72-c" height="72" width="72"/></item><item><guid isPermaLink="false">tag:blogger.com,1999:blog-2399953.post-7345193987064476834</guid><pubDate>Thu, 31 Jan 2019 02:01:00 +0000</pubDate>atom:updated2019-01-30T18:03:34.810-08:00</atom:updated><title>An update on Google+ and Blogger</title><description><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">Following the announcement of Google+ API deprecation scheduled for March 2019, a number of changes will be made to Blogger’s Google+ integration on 4 February 2019.</span><br /><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;"><br /></span><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;"><strong>Google+ widgets:</strong> Support for the “+1 Button”, “Google+ Followers” and “Google+ Badge” widgets in Layout will no longer be available. All instances of these widgets will be removed from all blogs. </span><br /><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;"><br /></span><br /><div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBrnQ0IRXjDJNmdV1ILS_CKHFxmpaiBgLCjYnxOsqcyc-WQ82PtgjuI7EX-2GAtm8nXkMbkT0k5TAQIxiUi_ADWYU1hP5QCgB-IqeBWadA4GFlLF6Ch9czA0n_TApaCpebPAQ0AAo9GvhX/s1600/JzGHbwyZD1G.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="338" data-original-width="550" height="196" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBrnQ0IRXjDJNmdV1ILS_CKHFxmpaiBgLCjYnxOsqcyc-WQ82PtgjuI7EX-2GAtm8nXkMbkT0k5TAQIxiUi_ADWYU1hP5QCgB-IqeBWadA4GFlLF6Ch9czA0n_TApaCpebPAQ0AAo9GvhX/s320/JzGHbwyZD1G.png" width="320" /></a></div><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;"><br /></span><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;"><strong>+1 buttons:</strong> The +1/G+ buttons and Google+ share links
+
+Dark- Dose75 4:46 PM (58 minutes ago) to syncshop, friohotbocachica, myhomehotelpc, West, Nroberts51, me
+
+376381173
+
+https://issuetracker.google.com/376381173
+
+https://issuetracker.google.com/376381173 Matthew Shannon Amos this a templet to make productions right @myhomehotelpc@gmail.com
+
+Dark- Dose75 4:48 PM (57 minutes ago) to syncshop, friohotbocachica, myhomehotelpc, West, Nroberts51, me
+
+https://console.cloud.google.com/welcome?_gl=1*7hm0cs*_up*MQ..&gclid=EAIaIQobChMIycGN5qC5iQMVFiRoCB1uTR5SEAEYASAAEgJJpPD_BwE&pli=1&project=inspired-photon-380110
+
+fast joke
+
+Dark- Dose75 4:54 PM (50 minutes ago) to syncshop, friohotbocachica, myhomehotelpc, West, Nroberts51, me
+
+https://developers.google.com/admin-sdk
+
+https://rain-wizzard.blogspot.com/2023/03/httpsdraft.blogger.comblogposts1463136870274842065sharetruemp4audio.podcasl.link3Ewww.thug-radio.httpswww.youtube.comWhite-Boy-Papalega.N.B.html ( i put it all over face book i got my IH5 usergooglecontent.com )
+
+https://www.youtube.com/playlist?list=PL1A_A4R6kMFQQC3Dirwrr-gGKJe7gR2xd @lordeus is fallowing @friohotbocachica@gmail.com @myhomehotelpc@gmail.com
+
+Dark- Dose75 5:00 PM (44 minutes ago) to syncshop, friohotbocachica, myhomehotelpc, West, Nroberts51, me
+
+@myhomehotelpc@gmail.com good thing i own that content too https://drive.google.com/file/d/1CyPjd_sbKEkqQFMSmz54D9lHi6TPPKMO/view?ts=671f37a0
+
+Dark- Dose75 5:03 PM (42 minutes ago) to syncshop, friohotbocachica, myhomehotelpc, West, Nroberts51, me
+
+shannon annie shannon annie 8:08 p.m. Oct 28
+
+<iframe width="560" height="315" src="https://xhamster.com/videos/anal-7122037"title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+@friohotbocachica@gmail.com your welcome i happen to own that now im pretty sure
+
+Dark- Dose75 5:00 PM (1 minute ago)
+
+to syncshop, friohotbocachica, myhomehotelpc, West, Nroberts51, me
+
+@myhomehotelpc@gmail.com good thing i own that content too https://drive.google.com/file/d/1CyPjd_sbKEkqQFMSmz54D9lHi6TPPKMO/view?ts=671f37a0
+
+One attachment • Scanned by Gmail
+
+Dark- Dose75 5:39 PM (5 minutes ago) to friohotbocachica, myhomehotelpc, West, syncshop, Nroberts51, me
+
+https://draft.blogger.com/blog/post/edit/preview/1463136870274842065/682136527419209246 whats this
+
+shannon annie >'
+
+On Thu, Oct 31, 2024 at 5:03 PM Dark- Dose75 mattamos250@gmail.com wrote: shannon annie shannon annie 8:08 p.m. Oct 28
+
+<iframe width="560" height="315" src="https://xhamster.com/videos/anal-7122037"title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+@friohotbocachica@gmail.com your welcome i happen to own that now im pretty sure
+
+Dark- Dose75 5:00 PM (1 minute ago)
+
+to syncshop, friohotbocachica, myhomehotelpc, West, Nroberts51, me
+
+@myhomehotelpc@gmail.com good thing i own that content too https://drive.google.com/file/d/1CyPjd_sbKEkqQFMSmz54D9lHi6TPPKMO/view?ts=671f37a0
+
+On Thu, Oct 31, 2024 at 5:00 PM Dark- Dose75 mattamos250@gmail.com wrote: @myhomehotelpc@gmail.com good thing i own that content too https://drive.google.com/file/d/1CyPjd_sbKEkqQFMSmz54D9lHi6TPPKMO/view?ts=671f37a0
+
+On Thu, Oct 31, 2024 at 4:54 PM Dark- Dose75 mattamos250@gmail.com wrote: https://developers.google.com/admin-sdk
+
+https://rain-wizzard.blogspot.com/2023/03/httpsdraft.blogger.comblogposts1463136870274842065sharetruemp4audio.podcasl.link3Ewww.thug-radio.httpswww.youtube.comWhite-Boy-Papalega.N.B.html ( i put it all over face book i got my IH5 usergooglecontent.com )
+
+https://www.youtube.com/playlist?list=PL1A_A4R6kMFQQC3Dirwrr-gGKJe7gR2xd @lordeus is fallowing @friohotbocachica@gmail.com @myhomehotelpc@gmail.com
+
+On Thu, Oct 31, 2024 at 4:48 PM Dark- Dose75 mattamos250@gmail.com wrote: https://console.cloud.google.com/welcome?_gl=1*7hm0cs*_up*MQ..&gclid=EAIaIQobChMIycGN5qC5iQMVFiRoCB1uTR5SEAEYASAAEgJJpPD_BwE&pli=1&project=inspired-photon-380110
+
+fast joke
+
+On Thu, Oct 31, 2024 at 4:46 PM Dark- Dose75 mattamos250@gmail.com wrote: 376381173
+
+https://issuetracker.google.com/376381173
+
+https://issuetracker.google.com/376381173 Matthew Shannon Amos this a templet to make productions right @myhomehotelpc@gmail.com
+
+On Thu, Oct 31, 2024 at 4:41 PM Dark- Dose75 mattamos250@gmail.com wrote: http://a dmiris01.2024.heriplayz
+
+https://www.facebook.com/share/p/1783WQo86q/
+
+Admiris01
+
+1000 percent mine @syncshop@sonymusic.com https://issuetracker.google.com/issues/376381173?template_issue=245706296&template_comment=28&do_attribution=true To
+
+matthewshannonamos01@gmail.com mattamos250@gmail.com
+
+Cc
+
+syncshop@sony.com
+
+Bcc
+
+@chodum91
+
+Subject
+
+Take it to the print but dont print right Madonna i cant belive all of this now youtube isn't allowing there none iframe j-son player means what chick ,this is just a link for content in the future links just business
+
+miris01.2024.Heriplayz
+
+Admiris Investments Ltd
+
+Papa.Legba.506: Papa.Legba.506: Larry/Wacker
+
+on May 19, 2023
+
+                   Papa.Legba.506: Papa.Legba.506: Larry/Wacker: : https://github.com/LarryExpo
+1<?xml version='1.0' encoding='UTF-8'?><rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:blogger="http://schemas.google.com/blogger/2008" xmlns:georss="http://www.georss.org/georss" xmlns:gd="http://schemas.google.com/g/2005" xmlns:thr="http://purl.org/syndication/thread/1.0" version="2.0"><channel>atom:idtag:blogger.com,1999:blog-2399953</atom:id><lastBuildDate>Sat, 28 Jan 2023 10:46:29 +0000</lastBuildDate><category>Blogger</category><category>10th Birthday</category><category>gadgets</category><category>google+</category><category>community</category><category>adsense</category><category>dynamic views</category><category>mobile</category><category>New UI</category><category>+1</category><category>GAN</category><category>Share</category><category>monetize</category><category>youtube</category><category>Android</category><category>Blogger Fiesta</category><category>Blogger Meetup</category><category>Blogger Stats</category><category>Chrome</category><category>SEO</category><category>blogspot</category><category>blogworld</category><category>commenting</category><category>conference</category><category>developers</category><category>events</category><category>feedburner</category><category>following</category><category>help</category><category>navbar</category><category>template designer</category><category>video</category><category>2010</category><category>Amazon</category><category>Blog2Print</category><category>BlogThis</category><category>Blogger Template Designer</category><category>Blogger birthday</category><category>Blogger2Print</category><category>Buzz</category><category>DMCA</category><category>FTP</category><category>Google Analytics</category><category>Google Buzz</category><category>Google Sites</category><category>OneTrueFan</category><category>OpenSky</category><category>Page Creator</category><category>SXSW</category><category>Viglink</category><category>accessibility</category><category>ads</category><category>calendar</category><category>code</category><category>custom domain</category><category>draft</category><category>feeds</category><category>firefox</category><category>follow by email</category><category>foxytunes</category><category>grandcentral</category><category>ios</category><category>jump</category><category>knol</category><category>lightbox</category><category>music</category><category>next blog</category><category>openid</category><category>pages</category><category>pixelodeon</category><category>polls</category><category>post summaries</category><category>read more</category><category>recommend</category><category>support</category><category>twitter</category><category>videoblogging</category><category>web fonts</category><category>webcall</category><category>zemanta</category><title>Official Blogger Blog</title><description>The latest tips and news from the Blogger team</description><link>http://blogger.googleblog.com/</link><managingEditor>noreply@blogger.com (Unknown)</managingEditor><generator>Blogger</generator>openSearch:totalResults541</openSearch:totalResults>openSearch:startIndex1</openSearch:startIndex>openSearch:itemsPerPage25</openSearch:itemsPerPage><item><guid isPermaLink="false">tag:blogger.com,1999:blog-2399953.post-7531385161213212970</guid><pubDate>Wed, 20 May 2020 23:53:00 +0000</pubDate>atom:updated2020-05-20T16:58:18.814-07:00</atom:updated><title>A better Blogger experience on the web</title><description><div dir="ltr" style="text-align: left;" trbidi="on"><span id="docs-internal-guid-83e698cd-7fff-3537-1fd4-931000cddafb"></span><br /><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;"><span id="docs-internal-guid-83e698cd-7fff-3537-1fd4-931000cddafb"><span style="font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;">Since 1999, millions of people have expressed themselves on Blogger. From detailed posts about almost every </span><a href="https://adamapples.blogspot.com/" style="text-decoration-line: none;"><span style="color: #1155cc; font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;">apple variety</span></a><span style="font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;"> you could ever imagine to a blog dedicated to </span><a href="https://howtoblog.krishnainfotron.com/" style="text-decoration-line: none;"><span style="color: #1155cc; font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;">the art of blogging</span></a><span style="font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;"> itself, the ability to easily share, publish and express oneself on the web is at the core of Blogger’s mission. As the web constantly evolves, we want to ensure anyone using Blogger has an easy and intuitive experience publishing their content to the web.</span><span style="font-family: arial; font-size: 11pt; font-style: italic; vertical-align: baseline; white-space: pre-wrap;">  </span></span></div><span id="docs-internal-guid-83e698cd-7fff-3537-1fd4-931000cddafb"><br /><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;"><span style="font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;">That’s why we’ve been slowly introducing an improved web experience for Blogger. Give the fresh interface a spin by clicking “Try the New Blogger” in the left-hand navigation pane. </span></div><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;"><span style="font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;"><br /></span></div><br /><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt; text-align: center;"><span style="font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;"><span style="border: none; display: inline-block; overflow: hidden;"><img src="https://lh5.googleusercontent.com/kWHfhyDmS0K6WMbTlfDV8Hq9RKq7Cs2sbPVl0otK3zDV5jNDO0SxM5-Ot89Wo3E11QvmNMI7VYMimqP-Vg9li-cz0cimWiGpJM65-uOSCmAvSN5n7M-lGcNWNW2u0cAfA54ZsGhZ" style="margin-left: 0px; margin-top: 0px;" width="508" /></span></span></div><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt; text-align: center;"><span style="color: red; font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;">     </span></div><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt; text-align: center;"><span style="font-family: arial; font-size: 9pt; font-style: italic; vertical-align: baseline; white-space: pre-wrap;"> </span><span style="font-family: arial; font-size: 9pt; font-style: italic; vertical-align: baseline; white-space: pre-wrap;">Click the “Try the New Blogger” button to see Blogger’s refreshed look and feel.</span></div><br /><br /><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;"><span style="font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;">In addition to a fresh feel, Blogger is now responsive on the web, making it easier to use on mobile devices. By investing in an improved web platform, it allows the potential for new features in the future. </span></div><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;"><span style="font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;"><br /></span></div><br /><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt; text-align: center;"><span style="font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;"><span style="border: none; display: inline-block; height: 299px; overflow: hidden; width: 146px;"><img height="299" src="https://lh4.googleusercontent.com/B-Tx1tl3m3_sH_4HiCg0XxhlTka0IV82jwT2LT4T9kzbXF15nMxjwNGe3NUAz-F42irNGdDINUiw4DM---nX_87Bb0X3OL_s5L19Rlyfhtm6oyEMNR1R4473TzkgsuxWQ3HXOIOV" style="margin-left: 0px; margin-top: 0px;" width="146" /></span></span></div><br /><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt; text-align: center;"><span style="font-family: arial; font-size: 8pt; vertical-align: baseline; white-space: pre-wrap;"><span style="font-size: x-small;"><font size="2">Blogger’s new responsive design makes it easy to manage your blog on-the-go.</font></span></span></div><br /><br /><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;"><span style="font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;"><br /></span></div><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;"><span style="font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;">Learn more about the page-specific updates we’ve released to make your Blogger experience even better: </span></div><br /><br /><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;"><span style="font-family: arial; font-size: 11pt; font-weight: 700; vertical-align: baseline; white-space: pre-wrap;">Stats</span></div><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;"><span style="font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;">The redesigned Stats page helps you focus on the most important data from your blog by highlighting your most recent post.    </span></div><br /><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;"><span style="font-family: arial; font-size: 11pt; font-weight: 700; vertical-align: baseline; white-space: pre-wrap;">Comments</span></div><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;"><span style="font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;">A fresh Comments page helps you connect with readers more easily by surfacing areas that need your attention, like comment moderation.  </span></div><br /><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;"><span style="font-family: arial; font-size: 11pt; font-weight: 700; vertical-align: baseline; white-space: pre-wrap;">Posts</span></div><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;"><span style="font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;">We’ve improved support for </span><a href="https://support.google.com/blogger/answer/9675453?hl=en" style="text-decoration-line: none;"><span style="color: #1155cc; font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;">Search Operators</span></a><span style="font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;"> on the Posts page to help you filter your Blogger posts and page search results more easily. </span></div><br /><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;"><span style="font-family: arial; font-size: 11pt; font-weight: 700; vertical-align: baseline; white-space: pre-wrap;">Editor</span></div><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;"><span style="font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;">The newly enhanced Editor page introduces table support, enables better transliteration, and includes an improved image/video upload experience. </span></div><br /><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;"><span style="font-family: arial; font-size: 11pt; font-weight: 700; vertical-align: baseline; white-space: pre-wrap;">Reading List </span></div><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;"><span style="font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;">Even if you don’t create from your phone, it’s now easier than ever to read blogs from other creators while you’re on the go.</span></div><br /><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;"><span style="font-family: arial; font-size: 11pt; font-weight: 700; vertical-align: baseline; white-space: pre-wrap;">Settings </span></div><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;"><span style="font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;">We’ve streamlined the Settings page to help you manage all your controls from one place.  </span></div><br /><br /><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;"><span style="font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;">We’ll be moving everyone to the new interface over the coming months. Starting in late June, many Blogger creators will see the new interface become their default, though they can revert to the old interface by clicking “Revert to legacy Blogger” in the left-hand navigation. By late July, creators will no longer be able to revert to the legacy Blogger interface.  </span></div><br /><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;"><span style="font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;">We recommend getting ahead of the transition by opting into the experience today. Be sure to let us know what you think about the new design by tapping the Help icon in the top navigation bar. We can’t wait to see how Blogger creators use the latest updates to share their voice with the world.</span></div><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;"><span style="font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;"><br /></span></div><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;"><span style="font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;"><i><br /></i></span></div><div dir="ltr" style="line-height: 1.38; margin-bottom: 0pt; margin-top: 0pt;"><span style="font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;"><i>Posted by Fontaine on behalf of the Blogger team</i></span></div><div><span style="font-family: arial; font-size: 11pt; vertical-align: baseline; white-space: pre-wrap;"><br /></span></div></span></div></description><link>http://blogger.googleblog.com/2020/05/a-better-blogger-experience-on-web.html</link><author>noreply@blogger.com (A Googler)</author><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://lh5.googleusercontent.com/kWHfhyDmS0K6WMbTlfDV8Hq9RKq7Cs2sbPVl0otK3zDV5jNDO0SxM5-Ot89Wo3E11QvmNMI7VYMimqP-Vg9li-cz0cimWiGpJM65-uOSCmAvSN5n7M-lGcNWNW2u0cAfA54ZsGhZ=s72-c" height="72" width="72"/></item><item><guid isPermaLink="false">tag:blogger.com,1999:blog-2399953.post-7345193987064476834</guid><pubDate>Thu, 31 Jan 2019 02:01:00 +0000</pubDate>atom:updated2019-01-30T18:03:34.810-08:00</atom:updated><title>An update on Google+ and Blogger</title><description><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">Following the announcement of Google+ API deprecation scheduled for March 2019, a number of changes will be made to Blogger’s Google+ integration on 4 February 2019.</span><br /><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;"><br /></span><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;"><strong>Google+ widgets:</strong> Support for the “+1 Button”, “Google+ Followers” and “Google+ Badge” widgets in Layout will no longer be available. All instances of these widgets will be removed from all blogs. </span><br /><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;"><br /></span><br /><div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBrnQ0IRXjDJNmdV1ILS_CKHFxmpaiBgLCjYnxOsqcyc-WQ82PtgjuI7EX-2GAtm8nXkMbkT0k5TAQIxiUi_ADWYU1hP5QCgB-IqeBWadA4GFlLF6Ch9czA0n_TApaCpebPAQ0AAo9GvhX/s1600/JzGHbwyZD1G.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="338" data-original-width="550" height="196" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBrnQ0IRXjDJNmdV1ILS_CKHFxmpaiBgLCjYnxOsqcyc-WQ82PtgjuI7EX-2GAtm8nXkMbkT0k5TAQIxiUi_ADWYU1hP5QCgB-IqeBWadA4GFlLF6Ch9czA0n_TApaCpebPAQ0AAo9GvhX/s320/JzGHbwyZD1G.png" width="320" /></a></div><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;"><br /></span><span style="font-family: &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;"><strong>+1 buttons:</strong> The +1/G+ buttons and Google+ share links
+
+On Thu, Oct 31, 2024 at 4:23 PM Dark- Dose75 mattamos250@gmail.com wrote:
+
+https://docs.google.com/document/d/1deylYdnuIQc_W_rvGDVULnkIejeqLnZz8L-PJfFYHBc/edit?pli=1&tab=t.0
+            Thank You  Matthew Amos
+--
+
+            Thank You  Matthew Amos
+--
+
+            Thank You  Matthew Amos
+--
+
+            Thank You  Matthew Amos
+--
+
+            Thank You  Matthew Amos
+--
+
+            Thank You  Matthew Amos
+--
+
+            Thank You  Matthew Amos
+--
+
+            Thank You  Matthew Amos
+Dark- Dose75 5:41 PM (3 minutes ago) to syncshop, friohotbocachica, myhomehotelpc, West, Nroberts51, me
+
+https://docs.google.com/document/d/1IeywQ0go1qTL_LK5BwVqocF0ploIct2m/edit
+
+Dark- Dose75 5:03 PM (37 minutes ago)
+
+to syncshop, friohotbocachica, myhomehotelpc, West, Nroberts51, me
+
+shannon annie shannon annie 8:08 p.m. Oct 28
+
+<iframe width="560" height="315" src="https://xhamster.com/videos/anal-7122037"title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+@friohotbocachica@gmail.com your welcome i happen to own that now im pretty sure
+
+
+Dark- “Organized Crime” Dose75<mattamos250@gmail.com> #42Oct 31, 2024 05:59PM
+https://github.com/chodum19/chodum19/blob/main/README.md
+
+
+Dark- “Organized Crime” Dose75<mattamos250@gmail.com> #43Oct 31, 2024 06:07PM
+Facebook Post: 2023-01-18T13:21:47
+
+Facebook Post: 2023-01-18T13:21:47
+
+
+Dark- “Organized Crime” Dose75<mattamos250@gmail.com> #44Oct 31, 2024 06:11PM
+https://drive.google.com/file/d/1H-XMn3xf7PumJRuF6oJNkkI6s_GUzvTg/edit?pli=1text%3Dtrue
+
+
+Dark- “Organized Crime” Dose75<mattamos250@gmail.com> #45Oct 31, 2024 07:27PM
+fuction json keys being made for program so sony know what she lost Dark- Dose75 mattamos250@gmail.com Thu, Oct 31, 2024 at 7:25 PM To: Dark- “Organized Crime” Dose75 mattamos250@gmail.com, emosbaa@xplornet.com, j.amos@outlook.com, syncshop@sonymusic.com, porterfamilyof4@gmail.com https://issuetracker.google.com/issues/237124737 at made my own iframe in my name and label the spade i do own it too along with the chodum91 iframe plus my IH5 googlecontent.com/user id to so its all sue abe to fuck with my shit totally @emosbaa@xplornet.com @emosbaa@xplornet.com Ask neil or ewen so fuck sony nick roberts did @syncshop@sonymusic.com
+
+On Thu, Oct 31, 2024 at 7:15 PM Dark- Dose75 mattamos250@gmail.com wrote: Get @Admiris03 Functions <
+
+  links>',I found this on Google Images from www.aliexpress.com @ scott-doc-grow thats going happen when i die to the mc trademark if im named ti the cuts and cant take my spot this dude
+Inbox Search for all messages with label Inbox Remove label Inbox from this conversation
+
+Dark- Dose75 mattamos250@gmail.com 10:20 AM (8 hours ago)
+
+to emosbaa, j.amos, oshawahg, porterfamilyof4, Three, West, syncshop, myhomehotelpc, friohotbocachica, Papa, Theresa, me, Nroberts51
+
+Super Large Capacity Men's Travel Bag Waterproof Big Duffle Bag For Women Male Weekend Trip Hand Luggage Packing Storage Bags - Travel Tote - AliExpress https://images.app.goo.gl/NL1RpRnG9ecbvsPe6
+
+Images may be subject to copyright. @Nroberts51@live.com
+
+emosbaa@xplornet.com, j.amos@outlook.com, oshawahg@gmail.com9 more Get Outlook for Android From: Dark- Dose75 mattamos250@gmail.com Sent: Thursday, October 31, 2024 10:20:23 AM To: emosbaa@xplornet.com emosbaa@xplornet.com; j.amos@outlook.com j.amos@outlook.com; oshawahg@gmail.com oshawahg@gmail.com; porterfamilyof4@gmail.com porterfamilyof4@gmail.com; Three Monkeys Tattoo threemonkeystattoo17@gmail.com; West Coast Tbars westcoast.tbars1@gmail.com; syncshop@sonymusic.com syncshop@sonymusic.com; myhomehotelpc@gmail.com myhomehotelpc@gmail.com; friohotbocachica@gmail.com friohotbocachica@gmail.com; Papa Legba.N.B chodumburns@yandex.com; Theresa Martin theresamartin054@gmail.com; Dark- “Organized Crime” Dose75 mattamos250@gmail.com; Nroberts51@live.com Nroberts51@live.com Subject: I found this on Google Images from www.aliexpress.com @ scott-doc-grow thats going happen when i die to the mc trademark if im named ti the cuts and cant take my spot this dude
+
+Super Large Capacity Men's Travel Bag Waterproof Big Duffle Bag For Women Male Weekend Trip Hand Luggage Packing Storage Bags - Travel Tote - AliExpress https://images.app.goo.gl/NL1RpRnG9ecbvsPe6
+
+Images may be subject to copyright. @Nroberts51@live.com Send
+
+Dark- “Organized Crime” Dose75 mattamos250@gmail.com Attachments 10:24 AM (8 hours ago)
+
+to emosbaa@xplornet.com, j.amos@outlook.com, oshawahg@gmail.com, porterfamilyof4@gmail.com, Three, West, syncshop@sonymusic.com, myhomehotelpc@gmail.com, friohotbocachica@gmail.com, Papa, Theresa, Nroberts51@live.com
+
+Get Outlook for Android From: Dark- Dose75 mattamos250@gmail.com Sent: Thursday, October 31, 2024 10:20:23 AM To: emosbaa@xplornet.com emosbaa@xplornet.com; j.amos@outlook.com j.amos@outlook.com; oshawahg@gmail.com oshawahg@gmail.com; porterfamilyof4@gmail.com porterfamilyof4@gmail.com; Three Monkeys Tattoo threemonkeystattoo17@gmail.com; West Coast Tbars westcoast.tbars1@gmail.com; syncshop@sonymusic.com syncshop@sonymusic.com; myhomehotelpc@gmail.com myhomehotelpc@gmail.com; friohotbocachica@gmail.com friohotbocachica@gmail.com; Papa Legba.N.B chodumburns@yandex.com; Theresa Martin theresamartin054@gmail.com; Dark- “Organized Crime” Dose75 mattamos250@gmail.com; Nroberts51@live.com Nroberts51@live.com Subject: I found this on Google Images from www.aliexpress.com @ scott-doc-grow thats going happen when i die to the mc trademark if im named ti the cuts and cant take my spot this dude
+
+...
+
+[Message clipped] View entire message 4 Attachments • Scanned by Gmail
+
+Dark- “Organized Crime” Dose75 10:26 AM (8 hours ago) https://images.app.goo.gl/VXJf2ky5eJ6EzARP7 Of the chub of the gray ya don't need to use Linux if ya own your content like Scott Grow and Google and Myself Now
+
+Dark- “Organized Crime” Dose75 10:28 AM (8 hours ago) You guys might want to be explaining something real f****** quick now that I own my images 'cause I owe my content any time you go on anything that is mine I'm
+
+Dark- “Organized Crime” Dose75 10:30 AM (8 hours ago) Papa Legba.N.B <iframe src="assets.pinterest.com/ext/embed.html…" height="550" width="450" frameborder="0" scrolling="no" ></iframe> <src="assets.pinterest.com/
+
+Dark- Dose75 mattamos250@gmail.com 11:21 AM (7 hours ago)
+
+to West, syncshop, Nroberts51, porterfamilyof4, myhomehotelpc, friohotbocachica
+
+Get Outlook for Android From: Dark- “Organized Crime” Dose75 mattamos250@gmail.com Sent: Thursday, October 31, 2024 10:26:16 AM To: emosbaa@xplornet.com emosbaa@xplornet.com; j.amos@outlook.com j.amos@outlook.com; oshawahg@gmail.com oshawahg@gmail.com; porterfamilyof4@gmail.com porterfamilyof4@gmail.com; Three Monkeys Tattoo threemonkeystattoo17@gmail.com; West Coast Tbars westcoast.tbars1@gmail.com; syncshop@sonymusic.com syncshop@sonymusic.com; myhomehotelpc@gmail.com myhomehotelpc@gmail.com; friohotbocachica@gmail.com friohotbocachica@gmail.com; Papa Legba.N.B chodumburns@yandex.com; Theresa Martin theresamartin054@gmail.com; Nroberts51@live.com Nroberts51@live.com Subject: Re: I found this on Google Images from www.aliexpress.com @ scott-doc-grow thats going happen when i die to the mc trademark if im named ti the cuts and cant take my spot this dude
+
+https://images.app.goo.gl/VXJf2ky5eJ6EzARP7
+
+Of the chub of the gray ya don't need to use Linux if ya own your content like Scott Grow and Google and Myself Now
+
+Get Outlook for Android From: Dark- “Organized Crime” Dose75 mattamos250@gmail.com Sent: Thursday, October 31, 2024 10:24:39 AM To: emosbaa@xplornet.com emosbaa@xplornet.com; j.amos@outlook.com j.amos@outlook.com; oshawahg@gmail.com oshawahg@gmail.com; porterfamilyof4@gmail.com porterfamilyof4@gmail.com; Three Monkeys Tattoo threemonkeystattoo17@gmail.com; West Coast Tbars westcoast.tbars1@gmail.com; syncshop@sonymusic.com syncshop@sonymusic.com; myhomehotelpc@gmail.com myhomehotelpc@gmail.com; friohotbocachica@gmail.com friohotbocachica@gmail.com; Papa Legba.N.B chodumburns@yandex.com; Theresa Martin theresamartin054@gmail.com; Nroberts51@live.com Nroberts51@live.com Subject: Re: I found this on Google Images from www.aliexpress.com @ scott-doc-grow thats going happen when i die to the mc trademark if im named ti the cuts and cant take my spot this dude
+
+Get Outlook for Android From: Dark- Dose75 mattamos250@gmail.com Sent: Thursday, October 31, 2024 10:20:23 AM To: emosbaa@xplornet.com emosbaa@xplornet.com; j.amos@outlook.com j.amos@outlook.com; oshawahg@gmail.com oshawahg@gmail.com; porterfamilyof4@gmail.com porterfamilyof4@gmail.com; Three Monkeys Tattoo threemonkeystattoo17@gmail.com; West Coast Tbars westcoast.tbars1@gmail.com; syncshop@sonymusic.com syncshop@sonymusic.com; myhomehotelpc@gmail.com myhomehotelpc@gmail.com; friohotbocachica@gmail.com friohotbocachica@gmail.com; Papa Legba.N.B chodumburns@yandex.com; Theresa Martin theresamartin054@gmail.com; Dark- “Organized Crime” Dose75 mattamos250@gmail.com; Nroberts51@live.com Nroberts51@live.com Subject: I found this on Google Images from www.aliexpress.com @ scott-doc-grow thats going happen when i die to the mc trademark if im named ti the cuts and cant take my spot this dude
+
+Super Large Capacity Men's Travel Bag Waterproof Big Duffle Bag For Women Male Weekend Trip Hand Luggage Packing Storage Bags - Travel Tote - AliExpress https://images.app.goo.gl/NL1RpRnG9ecbvsPe6
+
+Images may be subject to copyright. @Nroberts51@live.com
+
+West Coast Tbars, syncshop@sonymusic.com, Nroberts51@live.com3 more
+
+Dark- Dose75 mattamos250@gmail.com 10:20 AM (8 hours ago)
+
+to emosbaa, j.amos, oshawahg, porterfamilyof4, Three, West, syncshop, myhomehotelpc, friohotbocachica, Papa, Theresa, me, Nroberts51
+
+Super Large Capacity Men's Travel Bag Waterproof Big Duffle Bag For Women Male Weekend Trip Hand Luggage Packing Storage Bags - Travel Tote - AliExpress https://images.app.goo.gl/NL1RpRnG9ecbvsPe6
+
+Images may be subject to copyright. @Nroberts51@live.com
+
+emosbaa@xplornet.com, j.amos@outlook.com, oshawahg@gmail.com9 more Get Outlook for Android From: Dark- Dose75 mattamos250@gmail.com Sent: Thursday, October 31, 2024 10:20:23 AM To: emosbaa@xplornet.com emosbaa@xplornet.com; j.amos@outlook.com j.amos@outlook.com; oshawahg@gmail.com oshawahg@gmail.com; porterfamilyof4@gmail.com porterfamilyof4@gmail.com; Three Monkeys Tattoo threemonkeystattoo17@gmail.com; West Coast Tbars westcoast.tbars1@gmail.com; syncshop@sonymusic.com syncshop@sonymusic.com; myhomehotelpc@gmail.com myhomehotelpc@gmail.com; friohotbocachica@gmail.com friohotbocachica@gmail.com; Papa Legba.N.B chodumburns@yandex.com; Theresa Martin theresamartin054@gmail.com; Dark- “Organized Crime” Dose75 mattamos250@gmail.com; Nroberts51@live.com Nroberts51@live.com Subject: I found this on Google Images from www.aliexpress.com @ scott-doc-grow thats going happen when i die to the mc trademark if im named ti the cuts and cant take my spot this dude
+
+Super Large Capacity Men's Travel Bag Waterproof Big Duffle Bag For Women Male Weekend Trip Hand Luggage Packing Storage Bags - Travel Tote - AliExpress https://images.app.goo.gl/NL1RpRnG9ecbvsPe6
+
+Images may be subject to copyright. @Nroberts51@live.com Send
+
+Dark- “Organized Crime” Dose75 Attachments10:24 AM (8 hours ago) Get Outlook for Android From: Dark- Dose75 mattamos250@gmail.com Sent: Thursday, October 31, 2024 10:20:23 AM To: emosbaa@xplornet.com emosbaa@xplornet.com;
+
+Dark- “Organized Crime” Dose75 10:26 AM (8 hours ago) https://images.app.goo.gl/VXJf2ky5eJ6EzARP7 Of the chub of the gray ya don't need to use Linux if ya own your content like Scott Grow and Google and Myself Now
+
+Dark- “Organized Crime” Dose75 10:28 AM (8 hours ago) You guys might want to be explaining something real f****** quick now that I own my images 'cause I owe my content any time you go on anything that is mine I'm
+
+Dark- “Organized Crime” Dose75 10:30 AM (8 hours ago) Papa Legba.N.B <iframe src="assets.pinterest.com/ext/embed.html…" height="550" width="450" frameborder="0" scrolling="no" ></iframe> <src="assets.pinterest.com/
+
+Dark- Dose75 mattamos250@gmail.com 11:21 AM (7 hours ago)
+
+to West, syncshop, Nroberts51, porterfamilyof4, myhomehotelpc, friohotbocachica
+
+Get Outlook for Android From: Dark- “Organized Crime” Dose75 mattamos250@gmail.com Sent: Thursday, October 31, 2024 10:26:16 AM To: emosbaa@xplornet.com emosbaa@xplornet.com; j.amos@outlook.com j.amos@outlook.com; oshawahg@gmail.com oshawahg@gmail.com; porterfamilyof4@gmail.com porterfamilyof4@gmail.com; Three Monkeys Tattoo threemonkeystattoo17@gmail.com; West Coast Tbars westcoast.tbars1@gmail.com; syncshop@sonymusic.com syncshop@sonymusic.com; myhomehotelpc@gmail.com myhomehotelpc@gmail.com; friohotbocachica@gmail.com friohotbocachica@gmail.com; Papa Legba.N.B chodumburns@yandex.com; Theresa Martin theresamartin054@gmail.com; Nroberts51@live.com Nroberts51@live.com Subject: Re: I found this on Google Images from www.aliexpress.com @ scott-doc-grow thats going happen when i die to the mc trademark if im named ti the cuts and cant take my spot this dude
+
+https://images.app.goo.gl/VXJf2ky5eJ6EzARP7
+
+Of the chub of the gray ya don't need to use Linux if ya own your content like Scott Grow and Google and Myself Now
+
+Get Outlook for Android From: Dark- “Organized Crime” Dose75 mattamos250@gmail.com Sent: Thursday, October 31, 2024 10:24:39 AM To: emosbaa@xplornet.com emosbaa@xplornet.com; j.amos@outlook.com j.amos@outlook.com; oshawahg@gmail.com oshawahg@gmail.com; porterfamilyof4@gmail.com porterfamilyof4@gmail.com; Three Monkeys Tattoo threemonkeystattoo17@gmail.com; West Coast Tbars westcoast.tbars1@gmail.com; syncshop@sonymusic.com syncshop@sonymusic.com; myhomehotelpc@gmail.com myhomehotelpc@gmail.com; friohotbocachica@gmail.com friohotbocachica@gmail.com; Papa Legba.N.B chodumburns@yandex.com; Theresa Martin theresamartin054@gmail.com; Nroberts51@live.com Nroberts51@live.com Subject: Re: I found this on Google Images from www.aliexpress.com @ scott-doc-grow thats going happen when i die to the mc trademark if im named ti the cuts and cant take my spot this dude
+
+Get Outlook for Android From: Dark- Dose75 mattamos250@gmail.com Sent: Thursday, October 31, 2024 10:20:23 AM To: emosbaa@xplornet.com emosbaa@xplornet.com; j.amos@outlook.com j.amos@outlook.com; oshawahg@gmail.com oshawahg@gmail.com; porterfamilyof4@gmail.com porterfamilyof4@gmail.com; Three Monkeys Tattoo threemonkeystattoo17@gmail.com; West Coast Tbars westcoast.tbars1@gmail.com; syncshop@sonymusic.com syncshop@sonymusic.com; myhomehotelpc@gmail.com myhomehotelpc@gmail.com; friohotbocachica@gmail.com friohotbocachica@gmail.com; Papa Legba.N.B chodumburns@yandex.com; Theresa Martin theresamartin054@gmail.com; Dark- “Organized Crime” Dose75 mattamos250@gmail.com; Nroberts51@live.com Nroberts51@live.com Subject: I found this on Google Images from www.aliexpress.com @ scott-doc-grow thats going happen when i die to the mc trademark if im named ti the cuts and cant take my spot this dude
+
+Super Large Capacity Men's Travel Bag Waterproof Big Duffle Bag For Women Male Weekend Trip Hand Luggage Packing Storage Bags - Travel Tote - AliExpress https://images.app.goo.gl/NL1RpRnG9ecbvsPe6
+
+Images may be subject to copyright. @Nroberts51@live.com
+
+Reply Reply all Forward
+
+Add reaction I found this on Google Images from www.aliexpress.com @ scott-doc-grow thats going happen when i die to the mc trademark if im named ti the cuts and cant take my spot this dude Inbox Search for all messages with label Inbox Remove label Inbox from this conversation
+
+Dark- Dose75 mattamos250@gmail.com 10:20 AM (8 hours ago)
+
+to emosbaa, j.amos, oshawahg, porterfamilyof4, Three, West, syncshop, myhomehotelpc, friohotbocachica, Papa, Theresa, me, Nroberts51
+
+Super Large Capacity Men's Travel Bag Waterproof Big Duffle Bag For Women Male Weekend Trip Hand Luggage Packing Storage Bags - Travel Tote - AliExpress https://images.app.goo.gl/NL1RpRnG9ecbvsPe6
+
+Images may be subject to copyright. @Nroberts51@live.com
+
+emosbaa@xplornet.com, j.amos@outlook.com, oshawahg@gmail.com9 more Get Outlook for Android From: Dark- Dose75 mattamos250@gmail.com Sent: Thursday, October 31, 2024 10:20:23 AM To: emosbaa@xplornet.com emosbaa@xplornet.com; j.amos@outlook.com j.amos@outlook.com; oshawahg@gmail.com oshawahg@gmail.com; porterfamilyof4@gmail.com porterfamilyof4@gmail.com; Three Monkeys Tattoo threemonkeystattoo17@gmail.com; West Coast Tbars westcoast.tbars1@gmail.com; syncshop@sonymusic.com syncshop@sonymusic.com; myhomehotelpc@gmail.com myhomehotelpc@gmail.com; friohotbocachica@gmail.com friohotbocachica@gmail.com; Papa Legba.N.B chodumburns@yandex.com; Theresa Martin theresamartin054@gmail.com; Dark- “Organized Crime” Dose75 mattamos250@gmail.com; Nroberts51@live.com Nroberts51@live.com Subject: I found this on Google Images from www.aliexpress.com @ scott-doc-grow thats going happen when i die to the mc trademark if im named ti the cuts and cant take my spot this dude
+
+Super Large Capacity Men's Travel Bag Waterproof Big Duffle Bag For Women Male Weekend Trip Hand Luggage Packing Storage Bags - Travel Tote - AliExpress https://images.app.goo.gl/NL1RpRnG9ecbvsPe6
+
+Images may be subject to copyright. @Nroberts51@live.com Send
+
+Dark- “Organized Crime” Dose75 mattamos250@gmail.com Attachments 10:24 AM (8 hours ago)
+
+to emosbaa@xplornet.com, j.amos@outlook.com, oshawahg@gmail.com, porterfamilyof4@gmail.com, Three, West, syncshop@sonymusic.com, myhomehotelpc@gmail.com, friohotbocachica@gmail.com, Papa, Theresa, Nroberts51@live.com
+
+Get Outlook for Android From: Dark- Dose75 mattamos250@gmail.com Sent: Thursday, October 31, 2024 10:20:23 AM To: emosbaa@xplornet.com emosbaa@xplornet.com; j.amos@outlook.com j.amos@outlook.com; oshawahg@gmail.com oshawahg@gmail.com; porterfamilyof4@gmail.com porterfamilyof4@gmail.com; Three Monkeys Tattoo threemonkeystattoo17@gmail.com; West Coast Tbars westcoast.tbars1@gmail.com; syncshop@sonymusic.com syncshop@sonymusic.com; myhomehotelpc@gmail.com myhomehotelpc@gmail.com; friohotbocachica@gmail.com friohotbocachica@gmail.com; Papa Legba.N.B chodumburns@yandex.com; Theresa Martin theresamartin054@gmail.com; Dark- “Organized Crime” Dose75 mattamos250@gmail.com; Nroberts51@live.com Nroberts51@live.com Subject: I found this on Google Images from www.aliexpress.com @ scott-doc-grow thats going happen when i die to the mc trademark if im named ti the cuts and cant take my spot this dude
+
+...
+
+[Message clipped] View entire message 4 Attachments • Scanned by Gmail
+
+Dark- “Organized Crime” Dose75 10:26 AM (8 hours ago) https://images.app.goo.gl/VXJf2ky5eJ6EzARP7 Of the chub of the gray ya don't need to use Linux if ya own your content like Scott Grow and Google and Myself Now
+
+Dark- “Organized Crime” Dose75 10:28 AM (8 hours ago) You guys might want to be explaining something real f****** quick now that I own my images 'cause I owe my content any time you go on anything that is mine I'm
+
+Dark- “Organized Crime” Dose75 10:30 AM (8 hours ago) Papa Legba.N.B <iframe src="assets.pinterest.com/ext/embed.html…" height="550" width="450" frameborder="0" scrolling="no" ></iframe> <src="assets.pinterest.com/
+
+Dark- Dose75 mattamos250@gmail.com 11:21 AM (7 hours ago)
+
+to West, syncshop, Nroberts51, porterfamilyof4, myhomehotelpc, friohotbocachica
+
+Get Outlook for Android From: Dark- “Organized Crime” Dose75 mattamos250@gmail.com Sent: Thursday, October 31, 2024 10:26:16 AM To: emosbaa@xplornet.com emosbaa@xplornet.com; j.amos@outlook.com j.amos@outlook.com; oshawahg@gmail.com oshawahg@gmail.com; porterfamilyof4@gmail.com porterfamilyof4@gmail.com; Three Monkeys Tattoo threemonkeystattoo17@gmail.com; West Coast Tbars westcoast.tbars1@gmail.com; syncshop@sonymusic.com syncshop@sonymusic.com; myhomehotelpc@gmail.com myhomehotelpc@gmail.com; friohotbocachica@gmail.com friohotbocachica@gmail.com; Papa Legba.N.B chodumburns@yandex.com; Theresa Martin theresamartin054@gmail.com; Nroberts51@live.com Nroberts51@live.com Subject: Re: I found this on Google Images from www.aliexpress.com @ scott-doc-grow thats going happen when i die to the mc trademark if im named ti the cuts and cant take my spot this dude
+
+https://images.app.goo.gl/VXJf2ky5eJ6EzARP7
+
+Of the chub of the gray ya don't need to use Linux if ya own your content like Scott Grow and Google and Myself Now
+
+Get Outlook for Android From: Dark- “Organized Crime” Dose75 mattamos250@gmail.com Sent: Thursday, October 31, 2024 10:24:39 AM To: emosbaa@xplornet.com emosbaa@xplornet.com; j.amos@outlook.com j.amos@outlook.com; oshawahg@gmail.com oshawahg@gmail.com; porterfamilyof4@gmail.com porterfamilyof4@gmail.com; Three Monkeys Tattoo threemonkeystattoo17@gmail.com; West Coast Tbars westcoast.tbars1@gmail.com; syncshop@sonymusic.com syncshop@sonymusic.com; myhomehotelpc@gmail.com myhomehotelpc@gmail.com; friohotbocachica@gmail.com friohotbocachica@gmail.com; Papa Legba.N.B chodumburns@yandex.com; Theresa Martin theresamartin054@gmail.com; Nroberts51@live.com Nroberts51@live.com Subject: Re: I found this on Google Images from www.aliexpress.com @ scott-doc-grow thats going happen when i die to the mc trademark if im named ti the cuts and cant take my spot this dude
+
+Get Outlook for Android From: Dark- Dose75 mattamos250@gmail.com Sent: Thursday, October 31, 2024 10:20:23 AM To: emosbaa@xplornet.com emosbaa@xplornet.com; j.amos@outlook.com j.amos@outlook.com; oshawahg@gmail.com oshawahg@gmail.com; porterfamilyof4@gmail.com porterfamilyof4@gmail.com; Three Monkeys Tattoo threemonkeystattoo17@gmail.com; West Coast Tbars westcoast.tbars1@gmail.com; syncshop@sonymusic.com syncshop@sonymusic.com; myhomehotelpc@gmail.com myhomehotelpc@gmail.com; friohotbocachica@gmail.com friohotbocachica@gmail.com; Papa Legba.N.B chodumburns@yandex.com; Theresa Martin theresamartin054@gmail.com; Dark- “Organized Crime” Dose75 mattamos250@gmail.com; Nroberts51@live.com Nroberts51@live.com Subject: I found this on Google Images from www.aliexpress.com @ scott-doc-grow thats going happen when i die to the mc trademark if im named ti the cuts and cant take my spot this dude
+
+Super Large Capacity Men's Travel Bag Waterproof Big Duffle Bag For Women Male Weekend Trip Hand Luggage Packing Storage Bags - Travel Tote - AliExpress https://images.app.goo.gl/NL1RpRnG9ecbvsPe6
+
+Images may be subject to copyright. @Nroberts51@live.com
+
+West Coast Tbars, syncshop@sonymusic.com, Nroberts51@live.com3 more
+
+Dark- Dose75 mattamos250@gmail.com 10:20 AM (8 hours ago)
+
+to emosbaa, j.amos, oshawahg, porterfamilyof4, Three, West, syncshop, myhomehotelpc, friohotbocachica, Papa, Theresa, me, Nroberts51
+
+Super Large Capacity Men's Travel Bag Waterproof Big Duffle Bag For Women Male Weekend Trip Hand Luggage Packing Storage Bags - Travel Tote - AliExpress https://images.app.goo.gl/NL1RpRnG9ecbvsPe6
+
+Images may be subject to copyright. @Nroberts51@live.com
+
+emosbaa@xplornet.com, j.amos@outlook.com, oshawahg@gmail.com9 more Get Outlook for Android From: Dark- Dose75 mattamos250@gmail.com Sent: Thursday, October 31, 2024 10:20:23 AM To: emosbaa@xplornet.com emosbaa@xplornet.com; j.amos@outlook.com j.amos@outlook.com; oshawahg@gmail.com oshawahg@gmail.com; porterfamilyof4@gmail.com porterfamilyof4@gmail.com; Three Monkeys Tattoo threemonkeystattoo17@gmail.com; West Coast Tbars westcoast.tbars1@gmail.com; syncshop@sonymusic.com syncshop@sonymusic.com; myhomehotelpc@gmail.com myhomehotelpc@gmail.com; friohotbocachica@gmail.com friohotbocachica@gmail.com; Papa Legba.N.B chodumburns@yandex.com; Theresa Martin theresamartin054@gmail.com; Dark- “Organized Crime” Dose75 mattamos250@gmail.com; Nroberts51@live.com Nroberts51@live.com Subject: I found this on Google Images from www.aliexpress.com @ scott-doc-grow thats going happen when i die to the mc trademark if im named ti the cuts and cant take my spot this dude
+
+Super Large Capacity Men's Travel Bag Waterproof Big Duffle Bag For Women Male Weekend Trip Hand Luggage Packing Storage Bags - Travel Tote - AliExpress https://images.app.goo.gl/NL1RpRnG9ecbvsPe6
+
+Images may be subject to copyright. @Nroberts51@live.com Send
+
+Dark- “Organized Crime” Dose75 Attachments10:24 AM (8 hours ago) Get Outlook for Android From: Dark- Dose75 mattamos250@gmail.com Sent: Thursday, October 31, 2024 10:20:23 AM To: emosbaa@xplornet.com emosbaa@xplornet.com;
+
+Dark- “Organized Crime” Dose75 10:26 AM (8 hours ago) https://images.app.goo.gl/VXJf2ky5eJ6EzARP7 Of the chub of the gray ya don't need to use Linux if ya own your content like Scott Grow and Google and Myself Now
+
+Dark- “Organized Crime” Dose75 10:28 AM (8 hours ago) You guys might want to be explaining something real f****** quick now that I own my images 'cause I owe my content any time you go on anything that is mine I'm
+
+Dark- “Organized Crime” Dose75 10:30 AM (8 hours ago) Papa Legba.N.B <iframe src="assets.pinterest.com/ext/embed.html…" height="550" width="450" frameborder="0" scrolling="no" ></iframe> <src="assets.pinterest.com/
+
+Dark- Dose75 mattamos250@gmail.com 11:21 AM (7 hours ago)
+
+to West, syncshop, Nroberts51, porterfamilyof4, myhomehotelpc, friohotbocachica
+
+Get Outlook for Android From: Dark- “Organized Crime” Dose75 mattamos250@gmail.com Sent: Thursday, October 31, 2024 10:26:16 AM To: emosbaa@xplornet.com emosbaa@xplornet.com; j.amos@outlook.com j.amos@outlook.com; oshawahg@gmail.com oshawahg@gmail.com; porterfamilyof4@gmail.com porterfamilyof4@gmail.com; Three Monkeys Tattoo threemonkeystattoo17@gmail.com; West Coast Tbars westcoast.tbars1@gmail.com; syncshop@sonymusic.com syncshop@sonymusic.com; myhomehotelpc@gmail.com myhomehotelpc@gmail.com; friohotbocachica@gmail.com friohotbocachica@gmail.com; Papa Legba.N.B chodumburns@yandex.com; Theresa Martin theresamartin054@gmail.com; Nroberts51@live.com Nroberts51@live.com Subject: Re: I found this on Google Images from www.aliexpress.com @ scott-doc-grow thats going happen when i die to the mc trademark if im named ti the cuts and cant take my spot this dude
+
+https://images.app.goo.gl/VXJf2ky5eJ6EzARP7
+
+Of the chub of the gray ya don't need to use Linux if ya own your content like Scott Grow and Google and Myself Now
+
+Get Outlook for Android From: Dark- “Organized Crime” Dose75 mattamos250@gmail.com Sent: Thursday, October 31, 2024 10:24:39 AM To: emosbaa@xplornet.com emosbaa@xplornet.com; j.amos@outlook.com j.amos@outlook.com; oshawahg@gmail.com oshawahg@gmail.com; porterfamilyof4@gmail.com porterfamilyof4@gmail.com; Three Monkeys Tattoo threemonkeystattoo17@gmail.com; West Coast Tbars westcoast.tbars1@gmail.com; syncshop@sonymusic.com syncshop@sonymusic.com; myhomehotelpc@gmail.com myhomehotelpc@gmail.com; friohotbocachica@gmail.com friohotbocachica@gmail.com; Papa Legba.N.B chodumburns@yandex.com; Theresa Martin theresamartin054@gmail.com; Nroberts51@live.com Nroberts51@live.com Subject: Re: I found this on Google Images from www.aliexpress.com @ scott-doc-grow thats going happen when i die to the mc trademark if im named ti the cuts and cant take my spot this dude
+
+Get Outlook for Android From: Dark- Dose75 mattamos250@gmail.com Sent: Thursday, October 31, 2024 10:20:23 AM To: emosbaa@xplornet.com emosbaa@xplornet.com; j.amos@outlook.com j.amos@outlook.com; oshawahg@gmail.com oshawahg@gmail.com; porterfamilyof4@gmail.com porterfamilyof4@gmail.com; Three Monkeys Tattoo threemonkeystattoo17@gmail.com; West Coast Tbars westcoast.tbars1@gmail.com; syncshop@sonymusic.com syncshop@sonymusic.com; myhomehotelpc@gmail.com myhomehotelpc@gmail.com; friohotbocachica@gmail.com friohotbocachica@gmail.com; Papa Legba.N.B chodumburns@yandex.com; Theresa Martin theresamartin054@gmail.com; Dark- “Organized Crime” Dose75 mattamos250@gmail.com; Nroberts51@live.com Nroberts51@live.com Subject: I found this on Google Images from www.aliexpress.com @ scott-doc-grow thats going happen when i die to the mc trademark if im named ti the cuts and cant take my spot this dude
+
+Super Large Capacity Men's Travel Bag Waterproof Big Duffle Bag For Women Male Weekend Trip Hand Luggage Packing Storage Bags - Travel Tote - AliExpress https://images.app.goo.gl/NL1RpRnG9ecbvsPe6
+
+Images may be subject to copyright. @Nroberts51@live.com
+
+Reply Reply all Forward
+
+Add reaction
+
+Send
+
+Send
+
+--
+
+
+Dark- “Organized Crime” Dose75<mattamos250@gmail.com> #46Oct 31, 2024 07:41PM
+<iframe width="560" height="315" src="} {"title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Dark- “Organized Crime” Dose75<mattamos250@gmail.com> #47Oct 31, 2024 08:01PM
+https://mail.google.com/mail/u/0/?ui=2&ik=96f40f5939&view=lg&permmsgid=msg-a:r-4091256066690751525&ser=1%3Clink%3Ehttps://www.facebook.com/admiris01/posts/pfbid02QpdcCT5xaP6dfDEo517WawZYLtrXQnJgUptuRpZ5S8RBdg6ZeRvV3QLBeaJmtyXgl?comment_id=1275098926829257
+
+linked to message for start of j son script
+
+
+Dark- “Organized Crime” Dose75<mattamos250@gmail.com> #48Oct 31, 2024 08:14PM
+Papa Legba.N.B <iframe src="}} {{" height="550" width="450" frameborder="0" scrolling="no" ></iframe> <src="chodum91.iframe./
+
+Dark- Dose75 mattamos250@gmail.com 11:21 AM (7 hours ago)
+
+
+Dark- “Organized Crime” Dose75<mattamos250@gmail.com> #49Oct 31, 2024 08:55PM
+https://www.facebook.com/Admiris01.2024/posts/pfbid02emYvdcQd1YUWQzv84anjTjDYpcnBL8eJFKKYK5yBT7jEiZjsQtppzJBxFi1UQqB1l?rdid=Qn3OFMKkcSdCu80f JJessica Albahi ----[ README.md } https://mail.google.com/mail/u/0/?ui=2&ik=96f40f5939&view=lg&permmsgid=msg-a:r-4091256066690751525&ser=1%3Clink%3Ehttps://www.facebook.com/admiris01/posts/pfbid02QpdcCT5xaP6dfDEo517WawZYLtrXQnJgUptuRpZ5S8RBdg6ZeRvV3QLBeaJmtyXgl?comment_id=1275098926829257 open book no cheating JJennifer Lopez https://www.facebook.com/Admiris01.2024/posts/pfbid02emYvdcQd1YUWQzv84anjTjDYpcnBL8eJFKKYK5yBT7jEiZjsQtppzJBxFi1UQqB1l?rdid=Qn3OFMKkcSdCu80f
+
+
+Dark- “Organized Crime” Dose75<mattamos250@gmail.com> #50Oct 31, 2024 09:02PM
+https://www.facebook.com/Admiris01.2024/posts/pfbid02emYvdcQd1YUWQzv84anjTjDYpcnBL8eJFKKYK5yBT7jEiZjsQtppzJBxFi1UQqB1l?rdid=Qn3OFMKkcSdCu80f JJessica Albahi ----[ README.md } https://mail.google.com/mail/u/0/?ui=2&ik=96f40f5939&view=lg&permmsgid=msg-a:r-4091256066690751525&ser=1%3Clink%3E
+
+https://www.facebook.com/admiris01/posts/pfbid02QpdcCT5xaP6dfDEo517WawZYLtrXQnJgUptuRpZ5S8RBdg6ZeRvV3QLBeaJmtyXgl?comment_id=1275098926829257
+
+https://www.facebook.com/Admiris01.2024/posts/pfbid02emYvdcQd1YUWQzv84anjTjDYpcnBL8eJFKKYK5yBT7jEiZjsQtppzJBxFi1UQqB1l?rdid=Qn3OFMKkcSdCu80f
+
+
+Dark- “Organized Crime” Dose75<mattamos250@gmail.com> #51Nov 1, 2024 03:39AM
+Admiris01
+Inbox
+
+Dark- “Organized Crime... (via Google Docs)
+Attachments2:40 AM (47 minutes ago)
+Dark- “Organized Crime” Dose75 attached a document Dark- “Organized Crime” Dose75 (mattamos250@gmail.com) has attached the following document:https://imclient.h
+
+Dark- Dose75 <mattamos250@gmail.com>
+2:46 AM (41 minutes ago)
+to me, threemonkeystattoo17, porterfamilyof4, syncshop, oshawahg, nroberts51, westcoast.tbars1, friohotbocachica, myhomehotelpc, cassiemarie95, j.amos, eric.promo23, matthewshannonamos01
+
+Here you go! Privacy Status: Private (You can manually change to the "public" status after uploading)Title: Filename of the each video file  Paste the file extension in the video title(You can manually change the title of each video file after uploading)License
+Standard YouTube License
+Default video description
+Default video tags (Separate the words with comma)
+
+--
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Thank You  Matthew Amos
+
+Dark- Dose75 <mattamos250@gmail.com>
+2:48 AM (39 minutes ago)
+to me
+
+Abuse Program Policies & Enforcement
+The program policies below apply to Drive, Docs, Sheets, Slides, Forms, Vids, and new Sites. These policies play an important role to maintain a positive experience for everyone that uses Google products.
+We need to curb abuses that threaten our ability to provide these services, and we ask that everyone abide by the policies below to help us achieve this goal. We may review content for violations of these policies and take action. This review includes access restriction of content, removal of content, and limitation or termination of a user’s access to Google products. Any restrictions pursuant to these policies apply globally unless noted otherwise, and content restrictions will remain in place unless successfully appealed.
+When these policies apply, Google may make exceptions based on artistic, educational, documentary, or scientific considerations, or where there are other substantial benefits to the public to not take action on the content.
+Google may take action on accounts that go above storage quota limits. For example, we may reject new uploads, compress content that exists, or delete content if you exceed your storage quota or fail to obtain sufficient additional storage. Read more about storage quotas here.
+Be sure to check back from time to time, as these policies may change. You can refer to Google's Terms of Service for more information.
+Report Abuse
+If you believe that someone is violating the policies found below, report abuse.
+
+Reports don’t guarantee removal of the file or any other action on Google’s part. Content that you disagree with or deem inappropriate isn't always a violation of Google’s Terms of Service or program policies. After you submit the report, Google may contact you to learn more about the report’s content.
+
+To report copyright infringement or other legal issues, please use this tool, which will guide you through the process of reporting content that you believe warrants removal from Google's services based on applicable laws.
+
+Program Policies
+Account Hijacking
+Account Inactivity
+Child Sexual Abuse and Exploitation
+Circumvention
+Dangerous and Illegal Activities
+Deceptive Practices, Fraud & Scams
+Harassment, Bullying, and Threats
+Hate Speech
+Impersonation and Misrepresentation
+Malware and Similar Malicious Content
+Misleading Content
+Non-Consensual Intimate Imagery (NCII)
+Personal and Confidential Information
+Phishing
+Regulated Goods and Services
+Sexually Explicit Material
+
+
+Dark- Dose75 <mattamos250@gmail.com>
+2:50 AM (37 minutes ago)
+to West, Nroberts51, syncshop, friohotbocachica, myhomehotelpc, me
+
+
+
+Dark- Dose75 <mattamos250@gmail.com>
+2:50 AM (37 minutes ago)
+to me, West, Nroberts51, syncshop, friohotbocachica, myhomehotelpc
+
+
+
+
+On Fri, Nov 1, 2024 at 2:50 AM Dark- Dose75 <mattamos250@gmail.com> wrote:
+Abuse Program Policies & Enforcement
+The program policies below apply to Drive, Docs, Sheets, Slides, Forms, Vids, and new Sites. These policies play an important role to maintain a positive experience for everyone that uses Google products.
+We need to curb abuses that threaten our ability to provide these services, and we ask that everyone abide by the policies below to help us achieve this goal. We may review content for violations of these policies and take action. This review includes access restriction of content, removal of content, and limitation or termination of a user’s access to Google products. Any restrictions pursuant to these policies apply globally unless noted otherwise, and content restrictions will remain in place unless successfully appealed.
+When these policies apply, Google may make exceptions based on artistic, educational, documentary, or scientific considerations, or where there are other substantial benefits to the public to not take action on the content.
+Google may take action on accounts that go above storage quota limits. For example, we may reject new uploads, compress content that exists, or delete content if you exceed your storage quota or fail to obtain sufficient additional storage. Read more about storage quotas here.
+Be sure to check back from time to time, as these policies may change. You can refer to Google's Terms of Service for more information.
+Report Abuse
+If you believe that someone is violating the policies found below, report abuse.
+
+Reports don’t guarantee removal of the file or any other action on Google’s part. Content that you disagree with or deem inappropriate isn't always a violation of Google’s Terms of Service or program policies. After you submit the report, Google may contact you to learn more about the report’s content.
+
+To report copyright infringement or other legal issues, please use this tool, which will guide you through the process of reporting content that you believe warrants removal from Google's services based on applicable laws.
+
+Program Policies
+Account Hijacking
+Account Inactivity
+Child Sexual Abuse and Exploitation
+Circumvention
+Dangerous and Illegal Activities
+Deceptive Practices, Fraud & Scams
+Harassment, Bullying, and Threats
+Hate Speech
+Impersonation and Misrepresentation
+Malware and Similar Malicious Content
+Misleading Content
+Non-Consensual Intimate Imagery (NCII)
+Personal and Confidential Information
+Phishing
+Regulated Goods and Services
+Sexually Explicit Material
+
+On Fri, Nov 1, 2024 at 2:48 AM Dark- Dose75 <mattamos250@gmail.com> wrote:
+Abuse Program Policies & Enforcement
+The program policies below apply to Drive, Docs, Sheets, Slides, Forms, Vids, and new Sites. These policies play an important role to maintain a positive experience for everyone that uses Google products.
+We need to curb abuses that threaten our ability to provide these services, and we ask that everyone abide by the policies below to help us achieve this goal. We may review content for violations of these policies and take action. This review includes access restriction of content, removal of content, and limitation or termination of a user’s access to Google products. Any restrictions pursuant to these policies apply globally unless noted otherwise, and content restrictions will remain in place unless successfully appealed.
+When these policies apply, Google may make exceptions based on artistic, educational, documentary, or scientific considerations, or where there are other substantial benefits to the public to not take action on the content.
+Google may take action on accounts that go above storage quota limits. For example, we may reject new uploads, compress content that exists, or delete content if you exceed your storage quota or fail to obtain sufficient additional storage. Read more about storage quotas here.
+Be sure to check back from time to time, as these policies may change. You can refer to Google's Terms of Service for more information.
+Report Abuse
+If you believe that someone is violating the policies found below, report abuse.
+
+Reports don’t guarantee removal of the file or any other action on Google’s part. Content that you disagree with or deem inappropriate isn't always a violation of Google’s Terms of Service or program policies. After you submit the report, Google may contact you to learn more about the report’s content.
+
+To report copyright infringement or other legal issues, please use this tool, which will guide you through the process of reporting content that you believe warrants removal from Google's services based on applicable laws.
+
+Program Policies
+Account Hijacking
+Account Inactivity
+Child Sexual Abuse and Exploitation
+Circumvention
+Dangerous and Illegal Activities
+Deceptive Practices, Fraud & Scams
+Harassment, Bullying, and Threats
+Hate Speech
+Impersonation and Misrepresentation
+Malware and Similar Malicious Content
+Misleading Content
+Non-Consensual Intimate Imagery (NCII)
+Personal and Confidential Information
+Phishing
+Regulated Goods and Services
+Sexually Explicit Material
+
+On Fri, Nov 1, 2024 at 2:46 AM Dark- Dose75 <mattamos250@gmail.com> wrote:
+Here you go! Privacy Status: Private (You can manually change to the "public" status after uploading)Title: Filename of the each video file  Paste the file extension in the video title(You can manually change the title of each video file after uploading)License
+Standard YouTube License
+Default video description
+Default video tags (Separate the words with comma)
+
+
+On Fri, Nov 1, 2024 at 2:40 AM Dark- “Organized Crime... (via Google Docs) <mattamos250@gmail.com> wrote:
+Dark- “Organized Crime” Dose75 attached a document
+Header profile photo
+Dark- “Organized Crime” Dose75 (mattamos250@gmail.com) has attached the following document:
+https://imclient.herokuapp.com/youtubeupload/?state=%7B%22ids%22:%5B%221H-XMn3xf7PumJRuF6oJNkkI6s_GUzvTg%22%5D,%22action%22:%22open%22,%22resourceKeys%22:%7B%7D%7D#
+Admiris01
+This is a courtesy copy of an email for your record only. It's not the same email your collaborators received. Click here to learn more.        Google
+
+
+--
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Thank You  Matthew Amos
+
+
+--
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Thank You  Matthew Amos
+
+
+--
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Thank You  Matthew Amos
+
+
+--
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Thank You  Matthew Amos
+
+Dark- Dose75
+3:27 AM (0 minutes ago)
+to me, West, Nroberts51, syncshop, friohotbocachica, myhomehotelpc
+
+http://admiris01.2024.heriplayz
+https://www.facebook.com/share/p/1783WQo86q/
+Admiris01
+Adhttps://mail.google.com/mail/u/0/?ui=2&ik=96f40f5939&view=lg&permmsgid=msg-a:r-4091256066690751525&ser=1%3Clink%3Ehttps://www.facebook.com/admiris01/posts/pfbid02QpdcCT5xaP6dfDEo517WawZYLtrXQnJgUptuRpZ5S8RBdg6ZeRvV3QLBeaJmtyXgl?comment_id=1275098926829257
+To
+matthewshannonamos01@gmail.com mattamos250@gmail.com
+hare links=https://github.com/chodum19/Chodum91.blogspot.com
+
+
+
+
+
+https://mail.google.com/mail/u/0/?ui=2&ik=96f40f5939&view=lg&permmsgid=msg-a:r-4091256066690751525&ser=1%3Clink%3Ehttps://www.facebook.com/admiris01/posts/pfbid02QpdcCT5xaP6dfDEo517WawZYLtrXQnJgUptuRpZ5S8RBdg6ZeRvV3QLBeaJmtyXgl?comment_id=1275098926829257
+Default video tags (Separate the words with comma)
+
+
+On Fri, Nov 1, 2024 at 2:40 AM Dark- “Organized Crime... (via Google Docs) <mattamos250@gmail.com> wrote:
+Dark- “Organized Crime” Dose75 attached a document
+Header profile photo
+Dark- “Organized Crime” Dose75 (mattamos250@gmail.com) has attached the following document:
+https://imclient.herokuapp.com/youtubeupload/?state=%7B%22ids%22:%5B%221H-XMn3xf7PumJRuF6oJNkkI6s_GUzvTg%22%5D,%22action%22:%22open%22,%22resourceKeys%22:%7B%7D%7D#
+Admiris01
+This is a courtesy copy of an email for your record only. It's not the same email your collaborators received. Click here to learn more.        Google
+
+
+--
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Thank You  Matthew Amos
+
+
+--
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Thank You  Matthew Amos
+
+
+--
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Thank You  Matthew Amos
+
+
+--
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Thank You  Matthew Amos
+
+
+--
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://mail.google.com/mail/u/0/?ui=2&ik=96f40f5939&view=lg&permmsgid=msg-a:r-4091256066690751525&ser=1%3Clink%3Ehttps://www.facebook.com/admiris01/posts/pfbid02QpdcCT5xaP6dfDEo517WawZYLtrXQnJgUptuRpZ5S8RBdg6ZeRvV3QLBeaJmtyXgl?comment_id=1275098926829257
+
+
+
+                Thank You  Matthew Amos
+                                                                                                                                                                                 
+
+Dark- “Organized Crime” Dose75<mattamos250@gmail.com> #52Nov 1, 2024 06:02AM
+Playback ID:-Playback ID: 7uqXzs72GVOZnInS
+
+Dark- “Organized Crime” Dose75<mattamos250@gmail.com> #53Nov 1, 2024 05:09PM
+Chodum91
+
+Dark- Dose75 <mattamos250@gmail.com>
+
+
+
+4:08 PM (1 minute ago)
+
+
+
+
+to West, emosbaa, Papa, Three, Theresa, myhomehotelpc, friohotbocachica, me, syncshop
+
+
+
+
+Chodum91
+To
+Dark- “Organized Crime” Dose75
+Cc
+matthew amos
+Bcc
+
+
+Subject
+<!DOCTYPE html>
+<html>
+  <body>
+    <!-- 1. The <iframe> (and video player) will replace this <div> tag. -->
+    <div id="player"></div>
+
+    <script>
+      // 2. This code loads the IFrame Player API code asynchronously.
+      var tag = document.createElement('script');
+
+      tag.src = "https://www.youtube.com/iframe_api";
+      var firstScriptTag = document.getElementsByTagName('script')[0];
+      firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+      // 3. This function creates an <iframe> (and YouTube player)
+      //    after the API code downloads.
+      var player;
+      function onYouTubeIframeAPIReady() {
+        player = new YT.Player('player', {
+          height: '390',
+          width: '640',
+          videoId: 'M7lc1UVf-VE',
+          playerVars: {
+            'playsinline': 1
+          },
+          events: {
+            'onReady': onPlayerReady,
+            'onStateChange': onPlayerStateChange
+          }
+        });
+      }
+
+      // 4. The API will call this function when the video player is ready.
+      function onPlayerReady(event) {
+        event.target.playVideo();
+      }
+
+      // 5. The API calls this function when the player's state changes.
+      //    The function indicates that when playing a video (state=1),
+      //    the player should play for six seconds and then stop.
+      var done = false;
+      function onPlayerStateChange(event) {
+        if (event.data == YT.PlayerState.PLAYING && !done) {
+          setTimeout(stopVideo, 6000);
+          done = true;
+        }
+      }
+      function stopVideo() {
+        player.stopVideo();
+      }
+    </script>
+  </body>
+</html>
+[https://newbrun506.blogspot.com/search/label/.%[![image](https://user-images.githubusercontent.com/93821375/230675549-c05eba3d-cc7e-410e-9d8f-0e0b3ab28750.png)](https://newbrun506.blogspot.com/search/label/.%5E%E2%99%A0%EF%B8%8E%5E.Rainwizzard.com.%5E%E2%99%A0%EF%B8%8E%5E.~%0A%C2%B9%E2%99%A4%C2%B3!%5Bimage%5D(https://user-images.githubusercontent.com/93821375/230658076-4334affe-d594-42c9-962c-123af14519c1.jpeg)?m=1)5E%E2%99%A0%EF%B8%8E%5E.Rainwizzard.com.%5E%E2%99%A0%EF%B8%8E%5E.~%0A%C2%B9%E2%99%A4%C2%B3!%5Bimage%5D(https://user-images.githubusercontent.com/93821375/230658076-4334affe-d594-42c9-962c-123af14519c1.jpeg)?m=1](https://newbrun506.blogspot.com/search/label/.%5E%E2%99%A0%EF%B8%8E%5E.Rainwizzard.com.%5E%E2%99%A0%EF%B8%8E%5E.~%0A%C2%B9%E2%99%A4%C2%B3!%5Bimage%5D(https://user-images.githubusercontent.com/93821375/230658076-4334affe-d594-42c9-962c-123af14519c1.jpeg)?m=1)
+
+https://github.com/Chodum91/Chodum91.git}https://www.google.com/ https://chodum91.blogspot.com/  /Dark_Rose75 @keep2shareio https://support.google.com/profile/215878620?sjid=16098340748890879105%20%20%20%20%20%20 Edit Admirss01 Forms}_{.0..0.}_{ https://chodum91.blogspot.com/{ "ns": "yt", "el": "detailpage", "cpn": "Dql6S2BFwIb2yUoR", "ver": 2, "cmt": "42.284", "fmt": "243", "fs": "0", "rt": "49.807", "euri": "", "lact": 1, "cl": "534545706", "mos": 0, "state": "8", "volume": 100, "cbrand": "google", "cbr": "Chrome", "cbrver": "113.0.0.0", "c": "WEB", "cver": "2.20230530.05.00", "cplayer": "UNIPLAYER", "cmodel": "chromebook", "cos": "CrOS", "cosver": "14541.0.0", "cplatform": "DESKTOP", "hl": "en_US", "cr": "CA", "len": "131.381", "fexp": "23983296,23986026,24004644,24007246,24080738,241 35310,24219382,24255165,24363113,24364789,243684 44,24368936,24415864,24433679,24437577,24439361,2 4451437,24532855,24550458,24550951,24556991,2455 8641,24559644,24691744,24698915,24699899,3932307 4,39323713", "afmt": "251", "muted": "0", "conn": "3", "docid": "_UXP2RABUDA", "ei": "r3Z4ZL- SKsPZgwPeiKLoCQ", "plid": "AAX9DyEDq7rfkBNr", "referrer": "https://www.google.com/", "sdetail": "p:www.google.com/", "sourceid": "r", "of": "iSv_ZmrtQNZCzWrEG0t5Pg", "osid": "NjVjMjgxODU:AOeUNAb7G7uKdVCL_BUYy0ASwsdbgw68 SA", "vm": "CAMQARgBOjJBQ00wQ1loR2hKSk1MS1AzWlpZWTlCSE1 4Q2JJWGVXZm9XVnBRN0tnbHJlQVhNbFEtd2JgQVBta0t ETG50ZnNCdlZvODlBaGdGZ0thQnIwTHBZZzRmLUh1Wm UxYlpIUjBRNk1meVpFTHlNTjNRbTgzelBseVh2bDFuREs3a zVGLWN0Mlh0VVR5MjUzSF9JMTJ4Tlg3aAE", "vct": "42.284", "vd": "131.381", "vpl": "0.000-42.284", "vbu": "0.000-110.001", "vpa": "0", "vsk": "0", "ven": "0", "vpr": "1", "vrs": "4", "vns": "2", "vec": "null", "vemsg": "", "vvol": "1", "vdom": "1", "vsrc": "1", "vw": "402", "vh": "401", "lct": "42.135", "lsk": false, "lmf": false, "lbw": "439876.393", "lhd": "0.310", "lst": "1478.238", "laa": "itag_251_type_3_src_reslicegetRequestInfoForRange_seg Papa.Legba.N.B White Boy Expo 10/20/24, 1:19 PM { "ns": "yt", "el": "detailpage", "cpn": "Dql6S2BFwIb2yUoR", "ver": 2, "cmt": "42.284", "fmt": "243", "fs": "0", "rt": "49.807", "euri": "", "l... https://newbrun1074.blogspot.com/2023/05/httpsplus.html#comments 1/14 src_reslicegetRequestInfoForRange_seg_10_range_12788 87-1404265_time_100.0-110.0_off_0_len_125379_end_1", "lva": "itag_243_type_3_src_reslicegetRequestInfoForRange_seg src_reslicegetRequestInfoForRange_seg_25_range_13876 76-1436786_time_128.0- 131.4_off_0_len_49111_end_1_eos_1", "lar": "itag_251_type_3_src_getRequestInfoForRange_segsrc_ge tRequestInfoForRange_seg_10_range_1278887- 1404265_time_100.0-110.0_off_0_len_125379_end_1", "lvr": "itag_243_type_3_src_getRequestInfoForRange_segsrc_ge tRequestInfoForRange_seg_25_range_1387676- 1436786_time_128.0- 131.4_off_0_len_49111_end_1_eos_1", "laq": "0", "lvq": "0", "lab": "0.000-110.001", "lvb": "0.000-131.360", "ismb": 25120000, "leader": 1, "relative_loudness": "-7.640", "optimal_format": "360p", "user_qual": 0, "release_version": "youtube.player.web_20230523_01_RC00", "debug_videoId": "_UXP2RABUDA", "0sz": "false", "op": "", "yof": "false", "dis": "", "gpu": "Mesa_Intel(R)_UHD_Graphics_(JSL)", "debug_playbackQuality": "medium", "debug_date": "Thu Jun 01 2023 07:45:56 GMT-0300 (Atlantic Daylight Time)" } - May 30, 2023une 21, 2023 Image https://github.com/Chodum91/Papa.Legba.NB/issues/29 (m=bJWsSeKlbyaT)(mh=4N6NZAtseWL0p9UF)male.jpg {https://github.com/.../blob/master/names.conf.proposed} https://toolbox.googleapps.com/apps/main/ https://drive.google.com/.../1p8X-n.../view... http://getpocket.com/@050A8g3cdu224Tu07ep7851p0gTKd039876... https://github.com/Chodum91/Papa.Legba.NB/, Google Content https://newbrun1074.blogspot.com/2023/06/blog-post.html https://support.google.com/profile/215878620?sjid=16098340748890879105%20%20%20%20%20%20to Sony, me Papa.Legba.N.B "363311821_174494288973151_5421319352515451432_n.j…"https://drive.google.com/file/d/1fwTThZzUlKiktf4rYIHCyPbyzX_b61Ec/view?usp=sharing
+https://github.com/Chodum91/Chodum91.git}https://www.google.com/ https://chodum91.blogspot.com/  /Dark_Rose75 @keep2shareio https://support.google.com/profile/215878620?sjid=16098340748890879105%20%20%20%20%20%20 Edit Admirss01 Forms}_{.0..0.}_{ https://chodum91.blogspot.com/{ "ns": "yt", "el": "detailpage", "cpn": "Dql6S2BFwIb2yUoR", "ver": 2, "cmt": "42.284", "fmt": "243", "fs": "0", "rt": "49.807", "euri": "", "lact": 1, "cl": "534545706", "mos": 0, "state": "8", "volume": 100, "cbrand": "google", "cbr": "Chrome", "cbrver": "113.0.0.0", "c": "WEB", "cver": "2.20230530.05.00", "cplayer": "UNIPLAYER", "cmodel": "chromebook", "cos": "CrOS", "cosver": "14541.0.0", "cplatform": "DESKTOP", "hl": "en_US", "cr": "CA", "len": "131.381", "fexp": "23983296,23986026,24004644,24007246,24080738,241 35310,24219382,24255165,24363113,24364789,243684 44,24368936,24415864,24433679,24437577,24439361,2 4451437,24532855,24550458,24550951,24556991,2455 8641,24559644,24691744,24698915,24699899,3932307 4,39323713", "afmt": "251", "muted": "0", "conn": "3", "docid": "_UXP2RABUDA", "ei": "r3Z4ZL- SKsPZgwPeiKLoCQ", "plid": "AAX9DyEDq7rfkBNr", "referrer": "https://www.google.com/", "sdetail": "p:www.google.com/", "sourceid": "r", "of": "iSv_ZmrtQNZCzWrEG0t5Pg", "osid": "NjVjMjgxODU:AOeUNAb7G7uKdVCL_BUYy0ASwsdbgw68 SA", "vm": "CAMQARgBOjJBQ00wQ1loR2hKSk1MS1AzWlpZWTlCSE1 4Q2JJWGVXZm9XVnBRN0tnbHJlQVhNbFEtd2JgQVBta0t ETG50ZnNCdlZvODlBaGdGZ0thQnIwTHBZZzRmLUh1Wm UxYlpIUjBRNk1meVpFTHlNTjNRbTgzelBseVh2bDFuREs3a zVGLWN0Mlh0VVR5MjUzSF9JMTJ4Tlg3aAE", "vct": "42.284", "vd": "131.381", "vpl": "0.000-42.284", "vbu": "0.000-110.001", "vpa": "0", "vsk": "0", "ven": "0", "vpr": "1", "vrs": "4", "vns": "2", "vec": "null", "vemsg": "", "vvol": "1", "vdom": "1", "vsrc": "1", "vw": "402", "vh": "401", "lct": "42.135", "lsk": false, "lmf": false, "lbw": "439876.393", "lhd": "0.310", "lst": "1478.238", "laa": "itag_251_type_3_src_reslicegetRequestInfoForRange_seg Papa.Legba.N.B White Boy Expo 10/20/24, 1:19 PM { "ns": "yt", "el": "detailpage", "cpn": "Dql6S2BFwIb2yUoR", "ver": 2, "cmt": "42.284", "fmt": "243", "fs": "0", "rt": "49.807", "euri": "", "l... https://newbrun1074.blogspot.com/2023/05/httpsplus.html#comments 1/14 src_reslicegetRequestInfoForRange_seg_10_range_12788 87-1404265_time_100.0-110.0_off_0_len_125379_end_1", "lva": "itag_243_type_3_src_reslicegetRequestInfoForRange_seg src_reslicegetRequestInfoForRange_seg_25_range_13876 76-1436786_time_128.0- 131.4_off_0_len_49111_end_1_eos_1", "lar": "itag_251_type_3_src_getRequestInfoForRange_segsrc_ge tRequestInfoForRange_seg_10_range_1278887- 1404265_time_100.0-110.0_off_0_len_125379_end_1", "lvr": "itag_243_type_3_src_getRequestInfoForRange_segsrc_ge tRequestInfoForRange_seg_25_range_1387676- 1436786_time_128.0- 131.4_off_0_len_49111_end_1_eos_1", "laq": "0", "lvq": "0", "lab": "0.000-110.001", "lvb": "0.000-131.360", "ismb": 25120000, "leader": 1, "relative_loudness": "-7.640", "optimal_format": "360p", "user_qual": 0, "release_version": "youtube.player.web_20230523_01_RC00", "debug_videoId": "_UXP2RABUDA", "0sz": "false", "op": "", "yof": "false", "dis": "", "gpu": "Mesa_Intel(R)_UHD_Graphics_(JSL)", "debug_playbackQuality": "medium", "debug_date": "Thu Jun 01 2023 07:45:56 GMT-0300 (Atlantic Daylight Time)" } - May 30, 2023une 21, 2023 Image https://github.com/Chodum91/Papa.Legba.NB/issues/29 (m=bJWsSeKlbyaT)(mh=4N6NZAtseWL0p9UF)male.jpg {https://github.com/.../blob/master/names.conf.proposed} https://toolbox.googleapps.com/apps/main/ https://drive.google.com/.../1p8X-n.../view... http://getpocket.com/@050A8g3cdu224Tu07ep7851p0gTKd039876... https://github.com/Chodum91/Papa.Legba.NB/, Google Content https://newbrun1074.blogspot.com/2023/06/blog-post.html https://support.google.com/profile/215878620?sjid=16098340748890879105%20%20%20%20%20%20to Sony, me Papa.Legba.N.B "363311821_174494288973151_5421319352515451432_n.j…"https://drive.google.com/file/d/1fwTThZzUlKiktf4rYIHCyPbyzX_b61Ec/view?usp=sharing
+
+Papa.Legba.N.B White Boy Expo.pdf
+298 KB
+View
+Download
+https___lh5.googleusercontent.com_kWHfhyDmS0K6WMbTlfDV8Hq9RKq7Cs2sbPVl0otK3zDV5jNDO0SxM5-Ot89Wo3E11QvmNMI7VYMimqP-Vg9li-cz0cimWiGpJM65-uOSCmAvSN5n7M-lGcNWNW2u0cAfA54ZsGhZ=s72-c.eml
+86 KB
+Download
+
+Dark- “Organized Crime” Dose75<mattamos250@gmail.com> #54Nov 1, 2024 05:10PM
+
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fmattamos250%2Fposts%2Fpfbid054tadh4bFcC49unRi9S4QzKZY6oqe9cTvvnKgN99DmC77aAgT2LN8CQET2svkUk9l&show_text=true&width=500" width="500" height="372" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe> - https://drive.google.com/open?id=11R9u8jOPNgmE6q04548TFtGUKR1viPfxE93D7bJNH-Q
+
+Dark- “Organized Crime” Dose75<mattamos250@gmail.com> #55Nov 1, 2024 05:11PM
+Chodum91
+
+Dark- Dose75 <mattamos250@gmail.com>
+
+
+
+4:08 PM (1 minute ago)
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fmattamos250%2Fposts%2Fpfbid054tadh4bFcC49unRi9S4QzKZY6oqe9cTvvnKgN99DmC77aAgT2LN8CQET2svkUk9l&show_text=true&width=500" width="500" height="372" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe> - https://drive.google.com/open?id=11R9u8jOPNgmE6q04548TFtGUKR1viPfxE93D7bJNH-Q
+
+
+
+to West, emosbaa, Papa, Three, Theresa, myhomehotelpc, friohotbocachica, me, syncshop
+
+
+
+
+Chodum91
+To
+Dark- “Organized Crime” Dose75
+Cc
+matthew amos
+Bcc
+
+
+Subject
+<!DOCTYPE html>
+<html>
+  <body>
+    <!-- 1. The <iframe> (and video player) will replace this <div> tag. -->
+    <div id="player"></div>
+
+    <script>
+      // 2. This code loads the IFrame Player API code asynchronously.
+      var tag = document.createElement('script');
+
+      tag.src = "https://www.youtube.com/iframe_api";
+      var firstScriptTag = document.getElementsByTagName('script')[0];
+      firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+      // 3. This function creates an <iframe> (and YouTube player)
+      //    after the API code downloads.
+      var player;
+      function onYouTubeIframeAPIReady() {
+        player = new YT.Player('player', {
+          height: '390',
+          width: '640',
+          videoId: 'M7lc1UVf-VE',
+          playerVars: {
+            'playsinline': 1
+          },
+          events: {
+            'onReady': onPlayerReady,
+            'onStateChange': onPlayerStateChange
+          }
+        });
+      }
+
+      // 4. The API will call this function when the video player is ready.
+      function onPlayerReady(event) {
+        event.target.playVideo();
+      }
+
+      // 5. The API calls this function when the player's state changes.
+      //    The function indicates that when playing a video (state=1),
+      //    the player should play for six seconds and then stop.
+      var done = false;
+      function onPlayerStateChange(event) {
+        if (event.data == YT.PlayerState.PLAYING && !done) {
+          setTimeout(stopVideo, 6000);
+          done = true;
+        }
+      }
+      function stopVideo() {
+        player.stopVideo();
+      }
+    </script>
+  </body>
+</html>
+[https://newbrun506.blogspot.com/search/label/.%[![image](https://user-images.githubusercontent.com/93821375/230675549-c05eba3d-cc7e-410e-9d8f-0e0b3ab28750.png)](https://newbrun506.blogspot.com/search/label/.%5E%E2%99%A0%EF%B8%8E%5E.Rainwizzard.com.%5E%E2%99%A0%EF%B8%8E%5E.~%0A%C2%B9%E2%99%A4%C2%B3!%5Bimage%5D(https://user-images.githubusercontent.com/93821375/230658076-4334affe-d594-42c9-962c-123af14519c1.jpeg)?m=1)5E%E2%99%A0%EF%B8%8E%5E.Rainwizzard.com.%5E%E2%99%A0%EF%B8%8E%5E.~%0A%C2%B9%E2%99%A4%C2%B3!%5Bimage%5D(https://user-images.githubusercontent.com/93821375/230658076-4334affe-d594-42c9-962c-123af14519c1.jpeg)?m=1](https://newbrun506.blogspot.com/search/label/.%5E%E2%99%A0%EF%B8%8E%5E.Rainwizzard.com.%5E%E2%99%A0%EF%B8%8E%5E.~%0A%C2%B9%E2%99%A4%C2%B3!%5Bimage%5D(https://user-images.githubusercontent.com/93821375/230658076-4334affe-d594-42c9-962c-123af14519c1.jpeg)?m=1)
+
+https://github.com/Chodum91/Chodum91.git}https://www.google.com/ https://chodum91.blogspot.com/  /Dark_Rose75 @keep2shareio https://support.google.com/profile/215878620?sjid=16098340748890879105%20%20%20%20%20%20 Edit Admirss01 Forms}_{.0..0.}_{ https://chodum91.blogspot.com/{ "ns": "yt", "el": "detailpage", "cpn": "Dql6S2BFwIb2yUoR", "ver": 2, "cmt": "42.284", "fmt": "243", "fs": "0", "rt": "49.807", "euri": "", "lact": 1, "cl": "534545706", "mos": 0, "state": "8", "volume": 100, "cbrand": "google", "cbr": "Chrome", "cbrver": "113.0.0.0", "c": "WEB", "cver": "2.20230530.05.00", "cplayer": "UNIPLAYER", "cmodel": "chromebook", "cos": "CrOS", "cosver": "14541.0.0", "cplatform": "DESKTOP", "hl": "en_US", "cr": "CA", "len": "131.381", "fexp": "23983296,23986026,24004644,24007246,24080738,241 35310,24219382,24255165,24363113,24364789,243684 44,24368936,24415864,24433679,24437577,24439361,2 4451437,24532855,24550458,24550951,24556991,2455 8641,24559644,24691744,24698915,24699899,3932307 4,39323713", "afmt": "251", "muted": "0", "conn": "3", "docid": "_UXP2RABUDA", "ei": "r3Z4ZL- SKsPZgwPeiKLoCQ", "plid": "AAX9DyEDq7rfkBNr", "referrer": "https://www.google.com/", "sdetail": "p:www.google.com/", "sourceid": "r", "of": "iSv_ZmrtQNZCzWrEG0t5Pg", "osid": "NjVjMjgxODU:AOeUNAb7G7uKdVCL_BUYy0ASwsdbgw68 SA", "vm": "CAMQARgBOjJBQ00wQ1loR2hKSk1MS1AzWlpZWTlCSE1 4Q2JJWGVXZm9XVnBRN0tnbHJlQVhNbFEtd2JgQVBta0t ETG50ZnNCdlZvODlBaGdGZ0thQnIwTHBZZzRmLUh1Wm UxYlpIUjBRNk1meVpFTHlNTjNRbTgzelBseVh2bDFuREs3a zVGLWN0Mlh0VVR5MjUzSF9JMTJ4Tlg3aAE", "vct": "42.284", "vd": "131.381", "vpl": "0.000-42.284", "vbu": "0.000-110.001", "vpa": "0", "vsk": "0", "ven": "0", "vpr": "1", "vrs": "4", "vns": "2", "vec": "null", "vemsg": "", "vvol": "1", "vdom": "1", "vsrc": "1", "vw": "402", "vh": "401", "lct": "42.135", "lsk": false, "lmf": false, "lbw": "439876.393", "lhd": "0.310", "lst": "1478.238", "laa": "itag_251_type_3_src_reslicegetRequestInfoForRange_seg Papa.Legba.N.B White Boy Expo 10/20/24, 1:19 PM { "ns": "yt", "el": "detailpage", "cpn": "Dql6S2BFwIb2yUoR", "ver": 2, "cmt": "42.284", "fmt": "243", "fs": "0", "rt": "49.807", "euri": "", "l... https://newbrun1074.blogspot.com/2023/05/httpsplus.html#comments 1/14 src_reslicegetRequestInfoForRange_seg_10_range_12788 87-1404265_time_100.0-110.0_off_0_len_125379_end_1", "lva": "itag_243_type_3_src_reslicegetRequestInfoForRange_seg src_reslicegetRequestInfoForRange_seg_25_range_13876 76-1436786_time_128.0- 131.4_off_0_len_49111_end_1_eos_1", "lar": "itag_251_type_3_src_getRequestInfoForRange_segsrc_ge tRequestInfoForRange_seg_10_range_1278887- 1404265_time_100.0-110.0_off_0_len_125379_end_1", "lvr": "itag_243_type_3_src_getRequestInfoForRange_segsrc_ge tRequestInfoForRange_seg_25_range_1387676- 1436786_time_128.0- 131.4_off_0_len_49111_end_1_eos_1", "laq": "0", "lvq": "0", "lab": "0.000-110.001", "lvb": "0.000-131.360", "ismb": 25120000, "leader": 1, "relative_loudness": "-7.640", "optimal_format": "360p", "user_qual": 0, "release_version": "youtube.player.web_20230523_01_RC00", "debug_videoId": "_UXP2RABUDA", "0sz": "false", "op": "", "yof": "false", "dis": "", "gpu": "Mesa_Intel(R)_UHD_Graphics_(JSL)", "debug_playbackQuality": "medium", "debug_date": "Thu Jun 01 2023 07:45:56 GMT-0300 (Atlantic Daylight Time)" } - May 30, 2023une 21, 2023 Image https://github.com/Chodum91/Papa.Legba.NB/issues/29 (m=bJWsSeKlbyaT)(mh=4N6NZAtseWL0p9UF)male.jpg {https://github.com/.../blob/master/names.conf.proposed} https://toolbox.googleapps.com/apps/main/ https://drive.google.com/.../1p8X-n.../view... http://getpocket.com/@050A8g3cdu224Tu07ep7851p0gTKd039876... https://github.com/Chodum91/Papa.Legba.NB/, Google Content https://newbrun1074.blogspot.com/2023/06/blog-post.html https://support.google.com/profile/215878620?sjid=16098340748890879105%20%20%20%20%20%20to Sony, me Papa.Legba.N.B "363311821_174494288973151_5421319352515451432_n.j…"https://drive.google.com/file/d/1fwTThZzUlKiktf4rYIHCyPbyzX_b61Ec/view?usp=sharing
+https://github.com/Chodum91/Chodum91.git}https://www.google.com/ https://chodum91.blogspot.com/  /Dark_Rose75 @keep2shareio https://support.google.com/profile/215878620?sjid=16098340748890879105%20%20%20%20%20%20 Edit Admirss01 Forms}_{.0..0.}_{ https://chodum91.blogspot.com/{ "ns": "yt", "el": "detailpage", "cpn": "Dql6S2BFwIb2yUoR", "ver": 2, "cmt": "42.284", "fmt": "243", "fs": "0", "rt": "49.807", "euri": "", "lact": 1, "cl": "534545706", "mos": 0, "state": "8", "volume": 100, "cbrand": "google", "cbr": "Chrome", "cbrver": "113.0.0.0", "c": "WEB", "cver": "2.20230530.05.00", "cplayer": "UNIPLAYER", "cmodel": "chromebook", "cos": "CrOS", "cosver": "14541.0.0", "cplatform": "DESKTOP", "hl": "en_US", "cr": "CA", "len": "131.381", "fexp": "23983296,23986026,24004644,24007246,24080738,241 35310,24219382,24255165,24363113,24364789,243684 44,24368936,24415864,24433679,24437577,24439361,2 4451437,24532855,24550458,24550951,24556991,2455 8641,24559644,24691744,24698915,24699899,3932307 4,39323713", "afmt": "251", "muted": "0", "conn": "3", "docid": "_UXP2RABUDA", "ei": "r3Z4ZL- SKsPZgwPeiKLoCQ", "plid": "AAX9DyEDq7rfkBNr", "referrer": "https://www.google.com/", "sdetail": "p:www.google.com/", "sourceid": "r", "of": "iSv_ZmrtQNZCzWrEG0t5Pg", "osid": "NjVjMjgxODU:AOeUNAb7G7uKdVCL_BUYy0ASwsdbgw68 SA", "vm": "CAMQARgBOjJBQ00wQ1loR2hKSk1MS1AzWlpZWTlCSE1 4Q2JJWGVXZm9XVnBRN0tnbHJlQVhNbFEtd2JgQVBta0t ETG50ZnNCdlZvODlBaGdGZ0thQnIwTHBZZzRmLUh1Wm UxYlpIUjBRNk1meVpFTHlNTjNRbTgzelBseVh2bDFuREs3a zVGLWN0Mlh0VVR5MjUzSF9JMTJ4Tlg3aAE", "vct": "42.284", "vd": "131.381", "vpl": "0.000-42.284", "vbu": "0.000-110.001", "vpa": "0", "vsk": "0", "ven": "0", "vpr": "1", "vrs": "4", "vns": "2", "vec": "null", "vemsg": "", "vvol": "1", "vdom": "1", "vsrc": "1", "vw": "402", "vh": "401", "lct": "42.135", "lsk": false, "lmf": false, "lbw": "439876.393", "lhd": "0.310", "lst": "1478.238", "laa": "itag_251_type_3_src_reslicegetRequestInfoForRange_seg Papa.Legba.N.B White Boy Expo 10/20/24, 1:19 PM { "ns": "yt", "el": "detailpage", "cpn": "Dql6S2BFwIb2yUoR", "ver": 2, "cmt": "42.284", "fmt": "243", "fs": "0", "rt": "49.807", "euri": "", "l... https://newbrun1074.blogspot.com/2023/05/httpsplus.html#comments 1/14 src_reslicegetRequestInfoForRange_seg_10_range_12788 87-1404265_time_100.0-110.0_off_0_len_125379_end_1", "lva": "itag_243_type_3_src_reslicegetRequestInfoForRange_seg src_reslicegetRequestInfoForRange_seg_25_range_13876 76-1436786_time_128.0- 131.4_off_0_len_49111_end_1_eos_1", "lar": "itag_251_type_3_src_getRequestInfoForRange_segsrc_ge tRequestInfoForRange_seg_10_range_1278887- 1404265_time_100.0-110.0_off_0_len_125379_end_1", "lvr": "itag_243_type_3_src_getRequestInfoForRange_segsrc_ge tRequestInfoForRange_seg_25_range_1387676- 1436786_time_128.0- 131.4_off_0_len_49111_end_1_eos_1", "laq": "0", "lvq": "0", "lab": "0.000-110.001", "lvb": "0.000-131.360", "ismb": 25120000, "leader": 1, "relative_loudness": "-7.640", "optimal_format": "360p", "user_qual": 0, "release_version": "youtube.player.web_20230523_01_RC00", "debug_videoId": "_UXP2RABUDA", "0sz": "false", "op": "", "yof": "false", "dis": "", "gpu": "Mesa_Intel(R)_UHD_Graphics_(JSL)", "debug_playbackQuality": "medium", "debug_date": "Thu Jun 01 2023 07:45:56 GMT-0300 (Atlantic Daylight Time)" } - May 30, 2023une 21, 2023 Image https://github.com/Chodum91/Papa.Legba.NB/issues/29 (m=bJWsSeKlbyaT)(mh=4N6NZAtseWL0p9UF)male.jpg {https://github.com/.../blob/master/names.conf.proposed} https://toolbox.googleapps.com/apps/main/ https://drive.google.com/.../1p8X-n.../view... http://getpocket.com/@050A8g3cdu224Tu07ep7851p0gTKd039876... https://github.com/Chodum91/Papa.Legba.NB/, Google Content https://newbrun1074.blogspot.com/2023/06/blog-post.html https://support.google.com/profile/215878620?sjid=16098340748890879105%20%20%20%20%20%20to Sony, me Papa.Legba.N.B "363311821_174494288973151_5421319352515451432_n.j…"https://drive.google.com/file/d/1fwTThZzUlKiktf4rYIHCyPbyzX_b61Ec/view?usp=sharing
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fmattamos250%2Fposts%2Fpfbid054tadh4bFcC49unRi9S4QzKZY6oqe9cTvvnKgN99DmC77aAgT2LN8CQET2svkUk9l&show_text=true&width=500" width="500" height="372" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe> - https://drive.google.com/open?id=11R9u8jOPNgmE6q04548TFtGUKR1viPfxE93D7bJNH-Q
+
+
+
+=======================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
       <to j son script in begining ></to>,https://mail.google.com/mail/u/0/?ui=2&ik=96f40f5939&view=lg&permmsgid=msg-a:r-4091256066690751525&ser=1%3Clink%3Ehttps://www.facebook.com/admiris01/posts/pfbid02QpdcCT5xaP6dfDEo517WawZYLtrXQnJgUptuRpZ5S8RBdg6ZeRvV3QLBeaJmtyXgl?comment_id=1275098926829257
 <!---
 chodum19/chodum19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
